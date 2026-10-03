@@ -1,0 +1,452 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pensacola Daily</title>
+<meta name="description" content="Events, new restaurants, seasonal things to do and local news for Pensacola, Pensacola Beach, Perdido Key and Gonzalez. Refreshed every night.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,100..900&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --gulf: #0b4a56;
+    --gulf-deep: #083842;
+    --water: #4fb3ab;
+    --quartz: #f5f8f7;
+    --paper: #ffffff;
+    --ink: #11222e;
+    --muted: #4c606b;
+    --line: #d5e1de;
+    --gold: #e0a526;
+    --gold-ink: #6b4a00;
+    --tint: #e4f1ee;
+    --on-gulf: #f5f8f7;
+    --on-gulf-muted: #b9d6d2;
+    --focus: #1a5fb4;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --quartz: #0a1a21;
+      --paper: #10252e;
+      --ink: #e8f0ee;
+      --muted: #9db4b8;
+      --line: #23404a;
+      --tint: #14343c;
+      --gold-ink: #f0c25a;
+      --focus: #8ab4f8;
+    }
+  }
+  :root[data-theme="dark"] {
+    --quartz: #0a1a21;
+    --paper: #10252e;
+    --ink: #e8f0ee;
+    --muted: #9db4b8;
+    --line: #23404a;
+    --tint: #14343c;
+    --gold-ink: #f0c25a;
+    --focus: #8ab4f8;
+  }
+
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--quartz);
+    color: var(--ink);
+    font-family: "Archivo", system-ui, -apple-system, "Segoe UI", sans-serif;
+    font-stretch: 100%;
+    font-size: 17px;
+    line-height: 1.5;
+  }
+  a { color: inherit; text-decoration-color: var(--gold); text-decoration-thickness: 2px; text-underline-offset: 3px; }
+  a:hover { text-decoration-color: var(--water); }
+  :focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; border-radius: 3px; }
+
+  .wrap { max-width: 760px; margin: 0 auto; padding: 0 16px; }
+
+  /* Hero */
+  .hero { background: var(--gulf-deep); color: var(--on-gulf); padding: 22px 0 0; }
+  .hero-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; }
+  .brand {
+    margin: 0;
+    font-size: 15px;
+    font-weight: 700;
+    font-stretch: 125%;
+    color: var(--gold);
+    letter-spacing: .02em;
+  }
+  .theme-btn {
+    appearance: none; border: 1px solid #2c6672; background: transparent; color: var(--on-gulf);
+    font: inherit; font-size: 14px; padding: 6px 12px; border-radius: 999px; cursor: pointer;
+  }
+  .theme-btn:hover { background: #0f4a57; }
+  .today {
+    margin: 14px 0 4px;
+    font-size: clamp(34px, 9vw, 56px);
+    line-height: 1.02;
+    font-weight: 800;
+    font-stretch: 125%;
+    letter-spacing: -.01em;
+  }
+  .stamp { margin: 0 0 20px; color: var(--on-gulf-muted); font-size: 15px; }
+  .stale { display: none; margin: 0 0 16px; padding: 10px 12px; background: #5a3d00; color: #ffe7b0; border-radius: 6px; font-size: 15px; }
+  .stale.show { display: block; }
+
+  /* Water-level forecast */
+  .forecast { list-style: none; margin: 0; padding: 0 0 22px; display: grid; grid-template-columns: repeat(8, minmax(0, 1fr)); gap: 4px; }
+  .day { text-align: center; font-size: 13px; color: var(--on-gulf-muted); }
+  .day b { display: block; color: var(--on-gulf); font-weight: 700; font-size: 14px; }
+  .tube {
+    position: relative; height: 78px; margin: 6px auto 6px; width: 100%; max-width: 44px;
+    border: 1.5px solid #2f7480; border-radius: 8px; overflow: hidden; background: #0a3039;
+  }
+  .tube i { position: absolute; left: 0; right: 0; bottom: 0; background: var(--water); }
+  .tube span {
+    position: absolute; left: 0; right: 0; top: 4px; font-size: 12px; font-weight: 700; color: var(--on-gulf);
+  }
+  .tube.high span { top: auto; bottom: 4px; color: var(--gulf-deep); }
+  .hl { display: block; line-height: 1.25; }
+  .hl b { display: inline; font-size: 14px; }
+  .forecast-key { margin: -10px 0 0; padding-bottom: 18px; font-size: 13px; color: var(--on-gulf-muted); }
+
+  /* Nav + filter */
+  .bar { position: sticky; top: 0; z-index: 5; background: var(--quartz); border-bottom: 1px solid var(--line); }
+  .bar .wrap { display: flex; gap: 8px; overflow-x: auto; padding-top: 10px; padding-bottom: 10px; scrollbar-width: none; }
+  .bar .wrap::-webkit-scrollbar { display: none; }
+  .chip {
+    appearance: none; flex: 0 0 auto; border: 1px solid var(--line); background: var(--paper); color: var(--ink);
+    font: inherit; font-size: 15px; padding: 6px 14px; border-radius: 999px; cursor: pointer; text-decoration: none;
+  }
+  .chip[aria-pressed="true"] { background: var(--gulf); color: var(--on-gulf); border-color: var(--gulf); }
+  .bar .divider { flex: 0 0 1px; background: var(--line); margin: 2px 4px; }
+
+  main { padding-bottom: 40px; }
+  section { padding-top: 34px; scroll-margin-top: 56px; }
+  h2 {
+    margin: 0 0 4px; font-size: clamp(24px, 6vw, 32px); line-height: 1.1;
+    font-weight: 800; font-stretch: 125%; letter-spacing: -.005em;
+  }
+  .sub { margin: 0 0 14px; color: var(--muted); font-size: 15px; }
+
+  .note-box { background: var(--tint); border-left: 5px solid var(--water); padding: 12px 14px; border-radius: 4px; margin: 0 0 14px; font-size: 16px; }
+
+  /* Agenda rows: date gutter + content */
+  .group { display: grid; grid-template-columns: 62px 1fr; column-gap: 12px; padding: 14px 0; border-top: 1px solid var(--line); }
+  .group:first-of-type { border-top: 2px solid var(--ink); }
+  .gdate { text-align: left; line-height: 1; }
+  .gdate .dn { display: block; font-size: 34px; font-weight: 800; font-stretch: 110%; }
+  .gdate .w { display: block; margin-top: 4px; font-size: 14px; color: var(--muted); }
+  .gdate.today-mark .dn { color: var(--gulf); }
+  @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .gdate.today-mark .dn { color: var(--water); } }
+  :root[data-theme="dark"] .gdate.today-mark .dn { color: var(--water); }
+  .items { display: grid; gap: 14px; }
+  .ev h3 { margin: 0; font-size: 18px; line-height: 1.25; font-weight: 700; }
+  .ev .when { margin: 2px 0 0; font-size: 15px; font-weight: 600; }
+  .ev .where { margin: 0; font-size: 15px; color: var(--muted); }
+  .ev .desc { margin: 4px 0 0; font-size: 15px; }
+  .badge { display: inline-block; font-size: 13px; font-weight: 700; padding: 1px 8px; border-radius: 4px; background: var(--gold); color: #3b2a00; margin-left: 6px; vertical-align: 2px; }
+  .badge.thru { background: var(--tint); color: var(--ink); font-weight: 600; }
+  .src { font-size: 14px; color: var(--muted); }
+
+  .empty { padding: 14px 0; color: var(--muted); border-top: 2px solid var(--ink); }
+
+  /* Weekly strip */
+  .weekly { display: grid; gap: 8px; margin-top: 18px; }
+  .weekly div { background: var(--paper); border: 1px solid var(--line); border-radius: 6px; padding: 10px 12px; font-size: 15px; }
+  .weekly b { font-weight: 700; }
+
+  /* Restaurants */
+  .rest { display: grid; gap: 0; }
+  .r { padding: 14px 0; border-top: 1px solid var(--line); }
+  .r:first-child { border-top: 2px solid var(--ink); }
+  .r h3 { margin: 0; font-size: 18px; font-weight: 700; line-height: 1.25; }
+  .r .status { margin: 2px 0 0; font-size: 15px; font-weight: 600; }
+  .r .status.open { color: var(--gulf); }
+  @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .r .status.open { color: var(--water); } }
+  :root[data-theme="dark"] .r .status.open { color: var(--water); }
+  .r .status.soon { color: var(--gold-ink); }
+  .r p { margin: 2px 0 0; font-size: 15px; }
+  .r .meta { color: var(--muted); }
+  .subhead { margin: 18px 0 0; font-size: 16px; font-weight: 700; font-stretch: 110%; }
+
+  /* News */
+  .news { display: grid; }
+  .n { padding: 14px 0; border-top: 1px solid var(--line); }
+  .n:first-child { border-top: 2px solid var(--ink); }
+  .n h3 { margin: 0; font-size: 18px; line-height: 1.25; font-weight: 700; }
+  .n p { margin: 3px 0 0; font-size: 15px; }
+  .n .by { color: var(--muted); }
+
+  footer { background: var(--gulf-deep); color: var(--on-gulf-muted); padding: 26px 0 40px; font-size: 14px; }
+  footer a { color: var(--on-gulf); }
+  footer p { margin: 0 0 10px; }
+
+  noscript, .err { display: block; padding: 20px 0; }
+
+  @media (min-width: 640px) {
+    body { font-size: 18px; }
+    .group { grid-template-columns: 84px 1fr; column-gap: 20px; }
+    .tube { height: 96px; }
+  }
+  @media (prefers-reduced-motion: no-preference) {
+    .tube i { transition: height .8s ease-out; }
+  }
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="wrap">
+    <div class="hero-top">
+      <p class="brand">Pensacola Daily</p>
+      <button class="theme-btn" id="themeBtn" type="button" aria-label="Switch between light and dark">Dark mode</button>
+    </div>
+    <h1 class="today" id="todayLabel">Today in Pensacola</h1>
+    <p class="stamp" id="stamp"></p>
+    <p class="stale" id="stale" role="status"></p>
+    <ol class="forecast" id="forecast" aria-label="Eight day forecast. The blue fill shows chance of rain."></ol>
+    <p class="forecast-key">Blue fill is the chance of rain. Temperatures are the high above the low, in °F.</p>
+  </div>
+</header>
+
+<nav class="bar" aria-label="Sections and area filter">
+  <div class="wrap">
+    <a class="chip" href="#weekend">This weekend</a>
+    <a class="chip" href="#entertainment">Entertainment</a>
+    <a class="chip" href="#seasonal">Seasonal</a>
+    <a class="chip" href="#free">Free</a>
+    <a class="chip" href="#food">New places</a>
+    <a class="chip" href="#news">News</a>
+    <span class="divider" aria-hidden="true"></span>
+    <button class="chip" type="button" data-area="all" aria-pressed="true">All areas</button>
+    <button class="chip" type="button" data-area="downtown" aria-pressed="false">Downtown</button>
+    <button class="chip" type="button" data-area="beaches" aria-pressed="false">Beaches</button>
+    <button class="chip" type="button" data-area="elsewhere" aria-pressed="false">Elsewhere</button>
+  </div>
+</nav>
+
+<main class="wrap" id="main">
+  <noscript>This page needs JavaScript to show today's listings.</noscript>
+  <div id="app"></div>
+</main>
+
+<footer>
+  <div class="wrap">
+    <p id="coverage"></p>
+    <p id="sources"></p>
+    <p>Event details can change. Check the linked page before you go.</p>
+  </div>
+</footer>
+
+<script>
+(function () {
+  var MONTHS = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+  var MONTHS_FULL = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+  var DOW = ["Sun","Mon","Tue","Wed","Thu","Fri","Sat"];
+  var DOW_FULL = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+  var WINDOW_DAYS = 45;
+
+  var state = { data: null, area: "all" };
+
+  function esc(s) {
+    return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+    });
+  }
+  function safeUrl(u) { return /^https?:\/\//i.test(u || "") ? u : "#"; }
+  function parseDay(s) { var p = s.split("-"); return new Date(+p[0], +p[1] - 1, +p[2]); }
+  function key(d) {
+    var m = d.getMonth() + 1, day = d.getDate();
+    return d.getFullYear() + "-" + (m < 10 ? "0" : "") + m + "-" + (day < 10 ? "0" : "") + day;
+  }
+  function shortDate(d) { return MONTHS[d.getMonth()] + " " + d.getDate(); }
+  function daysBetween(a, b) { return Math.round((b - a) / 86400000); }
+
+  var today = new Date(); today.setHours(0, 0, 0, 0);
+  var todayKey = key(today);
+
+  /* Theme */
+  var root = document.documentElement;
+  var btn = document.getElementById("themeBtn");
+  function isDark() {
+    var t = root.getAttribute("data-theme");
+    if (t) return t === "dark";
+    return window.matchMedia && matchMedia("(prefers-color-scheme: dark)").matches;
+  }
+  function syncBtn() { btn.textContent = isDark() ? "Light mode" : "Dark mode"; }
+  btn.addEventListener("click", function () {
+    root.setAttribute("data-theme", isDark() ? "light" : "dark");
+    syncBtn();
+  });
+  syncBtn();
+
+  /* Events: expand multi-date entries, drop finished ones */
+  function expand(events) {
+    var out = [];
+    events.forEach(function (e) {
+      if (e.dates) {
+        e.dates.forEach(function (d) {
+          var c = {}; for (var k in e) c[k] = e[k];
+          c.date = d; delete c.dates; delete c.end; out.push(c);
+        });
+      } else out.push(e);
+    });
+    return out;
+  }
+  function visible(events) {
+    var limit = new Date(today); limit.setDate(limit.getDate() + WINDOW_DAYS);
+    return events.filter(function (e) {
+      var start = parseDay(e.date), end = parseDay(e.end || e.date);
+      if (end < today) return false;
+      if (start > limit) return false;
+      if (state.area !== "all" && e.area !== state.area) return false;
+      return true;
+    });
+  }
+  function anchor(e) { var s = parseDay(e.date); return s < today ? today : s; }
+  function sortEvents(list) {
+    return list.slice().sort(function (a, b) {
+      var da = anchor(a), db = anchor(b);
+      if (da - db) return da - db;
+      return (a.t || "99").localeCompare(b.t || "99");
+    });
+  }
+
+  function evHtml(e) {
+    var start = parseDay(e.date), end = e.end ? parseDay(e.end) : null;
+    var multi = end && end > start;
+    var badges = "";
+    if (e.free) badges += '<span class="badge">Free</span>';
+    if (multi) {
+      var started = start <= today;
+      badges += '<span class="badge thru">' + (started ? "Through " + shortDate(end) : shortDate(start) + " to " + shortDate(end)) + "</span>";
+    }
+    return '<article class="ev"><h3><a href="' + esc(safeUrl(e.src)) + '" rel="noopener">' + esc(e.title) + "</a>" + badges + "</h3>" +
+      (e.time ? '<p class="when">' + esc(e.time) + "</p>" : "") +
+      (e.place ? '<p class="where">' + esc(e.place) + "</p>" : "") +
+      (e.note ? '<p class="desc">' + esc(e.note) + "</p>" : "") + "</article>";
+  }
+
+  function agenda(list, emptyMsg) {
+    if (!list.length) return '<p class="empty">' + esc(emptyMsg) + "</p>";
+    var groups = [], map = {};
+    sortEvents(list).forEach(function (e) {
+      var d = anchor(e), k = key(d);
+      if (!map[k]) { map[k] = { d: d, items: [] }; groups.push(map[k]); }
+      map[k].items.push(e);
+    });
+    return groups.map(function (g) {
+      var isToday = key(g.d) === todayKey;
+      var label = isToday ? "Today" : DOW[g.d.getDay()];
+      return '<div class="group"><div class="gdate' + (isToday ? " today-mark" : "") + '"><span class="dn">' + g.d.getDate() +
+        '</span><span class="w">' + esc(label + (isToday ? "" : "")) + '<br>' + MONTHS[g.d.getMonth()] + "</span></div>" +
+        '<div class="items">' + g.items.map(evHtml).join("") + "</div></div>";
+    }).join("");
+  }
+
+  function renderHero(d) {
+    document.getElementById("todayLabel").textContent =
+      DOW_FULL[today.getDay()] + ", " + MONTHS_FULL[today.getMonth()] + " " + today.getDate();
+    var gen = new Date(d.generated);
+    var stamp = "Updated " + DOW[gen.getDay()] + " " + MONTHS[gen.getMonth()] + " " + gen.getDate() + ", " +
+      gen.toLocaleTimeString([], { hour: "numeric", minute: "2-digit" });
+    document.getElementById("stamp").textContent = stamp;
+    var genDay = new Date(gen); genDay.setHours(0, 0, 0, 0);
+    var age = daysBetween(genDay, today);
+    var stale = document.getElementById("stale");
+    if (age >= 2) {
+      stale.textContent = "This page was last refreshed " + age + " days ago. Tonight's update may have failed.";
+      stale.classList.add("show");
+    }
+    var days = (d.weather || []).filter(function (w) { return parseDay(w.date) >= today; }).slice(0, 8);
+    document.getElementById("forecast").innerHTML = days.map(function (w) {
+      var dt = parseDay(w.date), high = w.rain >= 55;
+      return '<li class="day"><b>' + (key(dt) === todayKey ? "Today" : DOW[dt.getDay()]) + '</b>' +
+        '<div class="tube' + (high ? " high" : "") + '" role="img" aria-label="' + w.rain + ' percent chance of rain">' +
+        '<i style="height:' + Math.max(w.rain, 4) + '%"></i><span>' + w.rain + '%</span></div>' +
+        '<span class="hl"><b>' + w.hi + "°</b><br>" + w.lo + "°</span></li>";
+    }).join("");
+  }
+
+  function render() {
+    var d = state.data;
+    var all = expand(d.events || []);
+    var vis = visible(all);
+    var byId = {};
+    all.forEach(function (e) { if (!byId[e.id]) byId[e.id] = e; });
+
+    var picks = (d.picks || []).map(function (id) { return byId[id]; }).filter(function (e) {
+      if (!e) return false;
+      var end = parseDay(e.end || e.date);
+      return end >= today && (state.area === "all" || e.area === state.area);
+    });
+
+    var weekly = (d.weekly || []).map(function (w) {
+      return '<div><b>' + esc(w.day) + "s: <a href=\"" + esc(safeUrl(w.src)) + '" rel="noopener">' + esc(w.title) + "</a></b><br>" +
+        esc(w.place) + (w.note ? ". " + esc(w.note) + "." : "") + "</div>";
+    }).join("");
+
+    function sec(name) { return vis.filter(function (e) { return e.section === name; }); }
+
+    var rest = d.restaurants || [];
+    var open = rest.filter(function (r) { return r.status === "open"; });
+    var soon = rest.filter(function (r) { return r.status !== "open"; });
+    function rHtml(r) {
+      return '<article class="r"><h3><a href="' + esc(safeUrl(r.src)) + '" rel="noopener">' + esc(r.name) + "</a></h3>" +
+        '<p class="status ' + (r.status === "open" ? "open" : "soon") + '">' + esc(r.when) + "</p>" +
+        "<p>" + esc(r.kind) + ". " + esc(r.note || "") + "</p>" +
+        '<p class="meta">' + esc(r.place) + "</p></article>";
+    }
+
+    var news = (d.news || []).map(function (n) {
+      return '<article class="n"><h3><a href="' + esc(safeUrl(n.url)) + '" rel="noopener">' + esc(n.title) + "</a></h3>" +
+        "<p>" + esc(n.summary) + '</p><p class="by">' + esc(n.source) + "</p></article>";
+    }).join("");
+
+    var areaNote = state.area === "all" ? "" : " Showing " + ({ downtown: "downtown", beaches: "Pensacola Beach and Perdido Key", elsewhere: "everywhere else" }[state.area]) + " only.";
+
+    document.getElementById("app").innerHTML =
+      '<section id="weekend"><h2>This weekend</h2><p class="sub">Top picks for the next few days.' + esc(areaNote) + "</p>" +
+        (d.weekend_note ? '<p class="note-box">' + esc(d.weekend_note) + "</p>" : "") +
+        agenda(picks, "No picks match this area.") + "</section>" +
+      '<section id="entertainment"><h2>Entertainment</h2><p class="sub">Music, stage, sports and big shows.</p>' +
+        agenda(sec("entertainment"), "Nothing listed in this area right now.") + "</section>" +
+      '<section id="seasonal"><h2>Fall in Pensacola</h2><p class="sub">Festivals, fairs, Halloween and Blue Angels season.</p>' +
+        agenda(sec("seasonal"), "Nothing listed in this area right now.") + "</section>" +
+      '<section id="free"><h2>Free and outdoors</h2><p class="sub">Markets, beach concerts and movies in the sand.</p>' +
+        agenda(sec("free"), "Nothing listed in this area right now.") +
+        (weekly ? '<div class="weekly">' + weekly + "</div>" : "") + "</section>" +
+      '<section id="food"><h2>New places</h2><p class="sub">Restaurants and venues that opened or are about to.</p>' +
+        (open.length ? '<h3 class="subhead">Open now</h3><div class="rest">' + open.map(rHtml).join("") + "</div>" : "") +
+        (soon.length ? '<h3 class="subhead">Opening soon</h3><div class="rest">' + soon.map(rHtml).join("") + "</div>" : "") +
+      "</section>" +
+      '<section id="news"><h2>Local news</h2><p class="sub">Short summaries with links to the original reports.</p><div class="news">' + news + "</div></section>";
+
+    document.getElementById("coverage").textContent = d.coverage_note || "";
+    document.getElementById("sources").innerHTML = "Sources: " + (d.sources || []).map(function (s) {
+      return '<a href="' + esc(safeUrl(s.url)) + '" rel="noopener">' + esc(s.name) + "</a>";
+    }).join(", ") + ".";
+  }
+
+  document.querySelectorAll("[data-area]").forEach(function (b) {
+    b.addEventListener("click", function () {
+      state.area = b.getAttribute("data-area");
+      document.querySelectorAll("[data-area]").forEach(function (x) {
+        x.setAttribute("aria-pressed", x === b ? "true" : "false");
+      });
+      if (state.data) render();
+    });
+  });
+
+  fetch("data.json?v=" + Date.now(), { cache: "no-store" })
+    .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then(function (d) { state.data = d; renderHero(d); render(); })
+    .catch(function () {
+      document.getElementById("app").innerHTML =
+        '<p class="err">Could not load today\'s listings. If you opened this file directly, serve the folder instead, for example with <code>python3 -m http.server</code>, or view the published site.</p>';
+    });
+})();
+</script>
+</body>
+</html>
