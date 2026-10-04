@@ -1,57 +1,57 @@
 {
-  "generated": "2026-10-03T03:05:00-05:00",
-  "weekend_note": "Rain is likely both days (about 90 percent Saturday and Sunday, with a flash flood watch noted locally), easing Monday. Picks lean indoors: the symphony opener and Roman Street at the Saenger, Ballet Pensacola's Frankenstein, the covered West Garden artisan market and songwriter shows at downtown venues.",
+  "generated": "2026-10-04T02:59:45-05:00",
+  "weekend_note": "Heavy rain today (near 100 percent) and 70 percent Monday, then drying out midweek with only 20 percent Wednesday and Thursday. Rain chances creep back to 60 percent Saturday, so picks lean indoors: the Saenger run of Roman Street tonight, Toast Monday, Postmodern Jukebox Thursday and Daniel Tosh Friday, plus Festa Italiana and the beach weekend of the Songwriters Festival if skies cooperate.",
   "weather": [
     {
-      "date": "2026-10-03",
-      "hi": 84,
-      "lo": 73,
-      "rain": 90
-    },
-    {
       "date": "2026-10-04",
-      "hi": 83,
-      "lo": 70,
-      "rain": 90
+      "hi": 82,
+      "lo": 73,
+      "rain": 100
     },
     {
       "date": "2026-10-05",
       "hi": 83,
-      "lo": 70,
-      "rain": 60
+      "lo": 71,
+      "rain": 70
     },
     {
       "date": "2026-10-06",
-      "hi": 81,
-      "lo": 69,
+      "hi": 82,
+      "lo": 70,
       "rain": 50
     },
     {
       "date": "2026-10-07",
-      "hi": 77,
-      "lo": 68,
-      "rain": 30
+      "hi": 79,
+      "lo": 67,
+      "rain": 20
     },
     {
       "date": "2026-10-08",
-      "hi": 82,
-      "lo": 68,
-      "rain": 10
+      "hi": 81,
+      "lo": 64,
+      "rain": 20
     },
     {
       "date": "2026-10-09",
-      "hi": 82,
-      "lo": 69,
-      "rain": 15
+      "hi": 81,
+      "lo": 66,
+      "rain": 30
+    },
+    {
+      "date": "2026-10-10",
+      "hi": 83,
+      "lo": 68,
+      "rain": 60
     }
   ],
   "picks": [
-    "pso",
-    "frank",
     "roman",
-    "artisan",
-    "songs-dt",
-    "toast"
+    "toast",
+    "pmj",
+    "tosh",
+    "festa",
+    "songs-beach"
   ],
   "weekly": [
     {
@@ -93,7 +93,7 @@
       "place": "208 Newman Ave",
       "area": "elsewhere",
       "section": "seasonal",
-      "note": "Local vendors, food trucks and seasonal brews. Mostly outdoors, so check the rain.",
+      "note": "Local vendors, food trucks and seasonal brews. Mostly outdoors, and it is raining today.",
       "src": "https://localpulse.com/2026/10/local-pulse-weekend-top-10-59/"
     },
     {
@@ -110,79 +110,6 @@
       "src": "https://localpulse.com/2026/10/local-pulse-weekend-top-10-59/"
     },
     {
-      "id": "tri",
-      "date": "2026-10-03",
-      "title": "Santa Rosa Island Triathlon",
-      "time": "First swim about 7 AM",
-      "t": "07:00",
-      "place": "Casino Beach, Pensacola Beach",
-      "area": "beaches",
-      "section": "entertainment",
-      "note": "600-yard swim, 21K bike, 5K run. Wet weather is in the forecast.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-september-28-october-4-2026"
-    },
-    {
-      "id": "artisan",
-      "date": "2026-10-03",
-      "title": "West Garden District Artisan Market",
-      "time": "10 AM to 3 PM",
-      "t": "10:00",
-      "place": "Del Mar Plaza, 1617 W Garden St",
-      "area": "elsewhere",
-      "section": "free",
-      "note": "Indoor market of local makers with free parking; a dry option for a wet Saturday.",
-      "src": "https://localpulse.com/2026/10/local-pulse-weekend-top-10-59/"
-    },
-    {
-      "id": "storybook",
-      "date": "2026-10-03",
-      "title": "Storybook Village",
-      "time": "10 AM to 2 PM",
-      "t": "10:00",
-      "place": "Jernigan's Landing, 5165 Willing St, Milton",
-      "area": "elsewhere",
-      "section": "free",
-      "free": true,
-      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-september-28-october-4-2026"
-    },
-    {
-      "id": "craft",
-      "date": "2026-10-03",
-      "title": "Craft Extravaganza",
-      "time": "See event page",
-      "t": "10:00",
-      "place": "Molino Community Center, Molino",
-      "area": "elsewhere",
-      "section": "seasonal",
-      "note": "Craft event hosted by the Molino Mid County Historical Society.",
-      "src": "http://www.northescambia.com/2026/10/craft-extravaganza-saturday-at-the-molino-community-center-2"
-    },
-    {
-      "id": "danet",
-      "date": "2026-10-03",
-      "title": "Danetoberfest",
-      "time": "11 AM to 4 PM",
-      "t": "11:00",
-      "place": "Seville Square, Downtown",
-      "area": "downtown",
-      "section": "seasonal",
-      "free": true,
-      "note": "10th annual, benefiting Northwest Florida Great Dane Rescue. Live music and food. Outdoors, so watch the rain.",
-      "src": "https://localpulse.com/2026/10/local-pulse-weekend-top-10-59/"
-    },
-    {
-      "id": "pso",
-      "date": "2026-10-03",
-      "title": "Pensacola Symphony Orchestra: Opening Night",
-      "time": "7:30 PM",
-      "t": "19:30",
-      "place": "Saenger Theatre, 118 S Palafox",
-      "area": "downtown",
-      "section": "entertainment",
-      "note": "Maestro Peter Rubardt's 30th season, with Dvorak, Tchaikovsky, Barber and Ravel.",
-      "src": "https://www.pensacolasaenger.com/"
-    },
-    {
       "id": "folklore",
       "date": "2026-10-04",
       "title": "Folklore & Cottagecore Market",
@@ -191,7 +118,7 @@
       "place": "Wisteria Tavern, 3808 N 12th Ave",
       "area": "elsewhere",
       "section": "seasonal",
-      "note": "20+ local makers, live music and free activities for kids.",
+      "note": "20+ local makers, live music and free kids activities. Rain is likely.",
       "src": "https://localpulse.com/2026/10/local-pulse-weekend-top-10-59/"
     },
     {
@@ -217,6 +144,19 @@
       "section": "entertainment",
       "note": "Tribute to the 1970s band Bread.",
       "src": "https://www.pensacolasaenger.com/"
+    },
+    {
+      "id": "spook",
+      "date": "2026-10-06",
+      "title": "East Hill Spooktacular Makers Market",
+      "time": "3 to 6 PM",
+      "t": "15:00",
+      "place": "Cordova Square, 1101 N 12th Ave",
+      "area": "elsewhere",
+      "section": "free",
+      "free": true,
+      "note": "Halloween-themed neighborhood market with local makers.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-october-2026"
     },
     {
       "id": "bands",
@@ -246,7 +186,8 @@
       "place": "Pensacola Beach venues",
       "area": "beaches",
       "section": "entertainment",
-      "src": "https://pensacolabeach.com/october-events-in-pensacola/"
+      "src": "https://pensacolabeach.com/october-events-in-pensacola/",
+      "note": "Second weekend of the festival moves to Pensacola Beach venues. Some shows free, some ticketed."
     },
     {
       "id": "pmj",
@@ -265,13 +206,38 @@
       "date": "2026-10-09",
       "end": "2026-10-10",
       "title": "Festa Italiana",
-      "time": "See event page",
+      "time": "11 AM to 6 PM",
       "t": "12:00",
       "place": "Seville Square, Downtown",
       "area": "downtown",
       "section": "seasonal",
-      "note": "Italian food, live music and family entertainment.",
-      "src": "https://pensacolabeach.com/october-events-in-pensacola/"
+      "note": "Free admission. Italian food, music, demonstrations and family activities.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-october-2026",
+      "free": true
+    },
+    {
+      "id": "tosh",
+      "date": "2026-10-09",
+      "title": "Daniel Tosh: My First Farewell Tour",
+      "time": "7 PM",
+      "t": "19:00",
+      "place": "Saenger Theatre, 118 S Palafox",
+      "area": "downtown",
+      "section": "entertainment",
+      "note": "Stand-up comedy.",
+      "src": "https://www.pensacolasaenger.com/"
+    },
+    {
+      "id": "tri",
+      "area": "beaches",
+      "section": "entertainment",
+      "date": "2026-10-10",
+      "time": "7 AM",
+      "t": "07:00",
+      "place": "Casino Beach, Pensacola Beach",
+      "title": "Santa Rosa Island Triathlon (rescheduled)",
+      "note": "Moved from Oct 3 because of lightning risk. 600-yard swim, 21K bike, 5K run.",
+      "src": "https://weartv.com/news/local/stormy-forecast-along-gulf-coast-forces-event-postponements-high-school-football-changes"
     },
     {
       "id": "boo",
@@ -294,6 +260,18 @@
       "src": "https://pensacolabeach.com/october-events-in-pensacola/"
     },
     {
+      "id": "turtle",
+      "date": "2026-10-11",
+      "title": "Sea Turtle Youth Triathlon",
+      "time": "See event page",
+      "t": "08:00",
+      "place": "Pensacola Beach",
+      "area": "beaches",
+      "section": "entertainment",
+      "note": "Triathlon for ages 6 to 15.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-october-2026"
+    },
+    {
       "id": "angels",
       "dates": [
         "2026-10-14",
@@ -306,7 +284,8 @@
       "place": "NAS Pensacola and the National Naval Aviation Museum",
       "area": "elsewhere",
       "section": "entertainment",
-      "src": "https://pensacolabeach.com/october-events-in-pensacola/"
+      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-october-2026",
+      "note": "Free. Autograph days Oct 14 and 28."
     },
     {
       "id": "beachoween",
@@ -346,7 +325,8 @@
       "place": "Pensacola Bay Center",
       "area": "downtown",
       "section": "entertainment",
-      "src": "https://pensacolabeach.com/october-events-in-pensacola/"
+      "src": "https://pensacolabeach.com/2026-27-pensacola-ice-flyers-home-schedule/",
+      "note": "Oct 17 vs Birmingham, Oct 24 and 30 vs Huntsville. Next home dates include Nov 1 at 4:05 PM."
     },
     {
       "id": "barkt",
@@ -384,8 +364,8 @@
       "place": "Pensacola Interstate Fairgrounds, 6655 W Mobile Hwy",
       "area": "elsewhere",
       "section": "seasonal",
-      "note": "50+ rides, exhibits, fair food and daily shows. Concerts are included with admission.",
-      "src": "https://weartv.com/news/local/pensacola-interstate-fair-unveils-2026-entertainment-lineup-and-schedule"
+      "note": "50+ rides, exhibits, fair food and daily shows. Opening day admission is $1; concerts are included with admission.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-october-2026"
     },
     {
       "id": "cinema",
@@ -469,6 +449,19 @@
       "src": "https://pensacolabeach.com/october-events-in-pensacola/"
     },
     {
+      "id": "foofoo",
+      "date": "2026-10-29",
+      "end": "2026-11-09",
+      "title": "Foo Foo Festival",
+      "time": "Times vary",
+      "t": "12:00",
+      "place": "Venues around Pensacola",
+      "area": "downtown",
+      "section": "seasonal",
+      "note": "12 days of art, music, theater and performances; some events free, some ticketed.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-october-2026"
+    },
+    {
       "id": "fair-colt",
       "date": "2026-10-30",
       "title": "Colt Ford at the fair",
@@ -483,13 +476,14 @@
       "id": "halloween-mkt",
       "date": "2026-10-31",
       "title": "Palafox Market Halloween Market",
-      "time": "See event page",
+      "time": "9 AM to 2 PM",
       "t": "10:00",
       "place": "MLK Jr. Plaza and Plaza Ferdinand",
       "area": "downtown",
       "section": "seasonal",
-      "note": "Trick-or-treating, a haunted trolley and live music.",
-      "src": "https://pensacolabeach.com/october-events-in-pensacola/"
+      "note": "Trick-or-treating, haunted trolley and live animals. Free admission.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-october-2026",
+      "free": true
     },
     {
       "id": "fair-lacs",
@@ -546,7 +540,7 @@
     {
       "name": "Pelican Bar and Grill",
       "status": "soon",
-      "when": "Targeting the first week of October",
+      "when": "Targeted first week of October; opening not yet confirmed",
       "place": "1420 W Nine Mile Rd",
       "kind": "American",
       "note": "Steaks, seafood and casual fare with a full bar and arcade. Seats 120 to 150.",
@@ -564,7 +558,7 @@
     {
       "name": "Launch Family Entertainment",
       "status": "soon",
-      "when": "Oct 16",
+      "when": "Oct 16 (confirmed)",
       "place": "8102 N Davis Hwy",
       "kind": "Family fun center with a restaurant and bar",
       "note": "Trampolines, duckpin bowling, a ninja course, arcade and the KRAVE restaurant and bar.",
@@ -591,10 +585,16 @@
   ],
   "news": [
     {
-      "title": "Heavy rain expected through the weekend in Northwest Florida",
-      "summary": "WEAR forecasters expect repeated downpours with a flash flooding risk and 3 to 5 inches possible, easing from Monday.",
+      "title": "Emerald Coast PBS to launch Nov. 1",
+      "summary": "A new nonprofit will bring PBS and PBS KIDS back to Northwest Florida on channels 53.1 and 53.2 after Pensacola State College ended its affiliation in July.",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/heavy-rain-expected-over-the-weekend-for-northwest-florida"
+      "url": "https://weartv.com/news/local/pbs-returns-to-northwest-florida-emerald-coast-pbs-to-launch-nov-1"
+    },
+    {
+      "title": "Storms force event postponements and football schedule changes",
+      "summary": "The Santa Rosa Island Triathlon moved to Oct. 10, and two Escambia County high school games shifted to Thursday night.",
+      "source": "WEAR",
+      "url": "https://weartv.com/news/local/stormy-forecast-along-gulf-coast-forces-event-postponements-high-school-football-changes"
     },
     {
       "title": "Flash flood watch: multiple rounds of storms this weekend",
@@ -603,34 +603,28 @@
       "url": "http://www.northescambia.com/2026/10/flash-flood-watch-multiple-rounds-of-showers-and-storms-this-weekend"
     },
     {
+      "title": "Pensacola airport launches Gateside program",
+      "summary": "TSA PreCheck members who apply for a pass a few days ahead can meet travelers at the gates; the program began Oct. 2.",
+      "source": "WEAR",
+      "url": "https://weartv.com/news/local/pensacola-airport-launches-gateside-program-letting-eligible-visitors-access-gate"
+    },
+    {
+      "title": "ECUA to replace Monteigne Drive sewer main",
+      "summary": "A roughly $2 million project starting Oct. 12 follows a July overflow and is set to finish in January.",
+      "source": "WEAR",
+      "url": "https://weartv.com/news/local/ecua-to-replace-sewer-main-along-monteigne-drive-due-to-july-overflow"
+    },
+    {
       "title": "Downtown parking gets new rates and improvements on Oct. 5",
       "summary": "The city says its parking refresh in the downtown core launches Monday.",
       "source": "City of Pensacola",
       "url": "https://www.cityofpensacola.com/m/NewsFlash/Home/Detail/5217"
     },
     {
-      "title": "Santa Rosa County takes ownership of long-neglected Navarre Beach home",
-      "summary": "The county has assumed control of a deteriorated property on Navarre Beach.",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/local/santa-rosa-county-takes-ownership-of-long-neglected-navarre-beach-home"
-    },
-    {
-      "title": "Beach renourishment and stronger acts credited for air show's economic impact",
-      "summary": "WEAR reports on the economic boost from this summer's Pensacola air show.",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/local/beach-renourishment-stronger-acts-credited-for-economic-impact-of-pensacola-air-show"
-    },
-    {
-      "title": "PBS programming returning to local airwaves Nov. 1, transmitted from north Escambia",
-      "summary": "Per the headline, PBS returns to over-the-air viewers on Nov. 1 with a transmitter in north Escambia County.",
+      "title": "October 6 Century Town Council meeting canceled",
+      "summary": "Per the headline, the Century council's Oct. 6 meeting will not be held.",
       "source": "NorthEscambia.com",
-      "url": "http://www.northescambia.com/2026/10/pbs-programming-returning-to-local-airwaves-november-1-transmitting-from-north-escambia"
-    },
-    {
-      "title": "Emma Holder named Northview High homecoming queen",
-      "summary": "NorthEscambia.com has the announcement with a photo gallery.",
-      "source": "NorthEscambia.com",
-      "url": "http://www.northescambia.com/2026/10/emma-holder-named-northview-high-homecoming-queen-with-photo-gallery"
+      "url": "http://www.northescambia.com/2026/10/october-6-century-town-council-meeting-canceled"
     }
   ],
   "sources": [
@@ -663,5 +657,5 @@
       "url": "https://www.northescambia.com/"
     }
   ],
-  "coverage_note": "Forecast days after Oct 9 were not confirmed this run, so the weather strip stops at seven days, and Oct 7 to 9 carry over from the prior check. Saenger, Bay Center and Blue Wahoos pages could not be re-read, so those listings are unchanged from last night. Restaurant opening statuses are not yet confirmed. Gonzalez and Perdido Key listings are thin, and NorthEscambia.com pages mostly load only by headline. Facebook-only events are not covered."
+  "coverage_note": "Weather uses the National Weather Service seven-day outlook (Oct 4 to 10); Oct 11 was not available. Saenger listings reach only Oct 9 from its homepage, and the Bay Center and Blue Wahoos pages were not read. Restaurant statuses are unchanged: Pelican Bar and Grill has not been confirmed open. NorthEscambia.com event pages would not load, so north and west Escambia coverage is headline-level and Gonzalez and Perdido Key listings are thin. Facebook-only events are not covered."
 }
