@@ -1,99 +1,74 @@
 {
-  "generated": "2026-10-06T03:15:15-05:00",
-  "weekend_note": "Dry and warm Wednesday and Thursday, then rain builds: about 60 percent Friday night, 70 percent Saturday and 60 percent Sunday. The National Hurricane Center is also watching a Gulf system, so check forecasts. Indoor picks: Postmodern Jukebox Thursday and Daniel Tosh Friday at the Saenger, plus the Glass and Ceramic Pumpkin Patch. Festa Italiana and the beach songwriters weekend are mostly outdoors.",
+  "generated": "2026-10-08T21:45:45-05:00",
+  "weekend_note": "Hurricane Isaias is expected to reach the northern Gulf Coast late Friday or early Saturday, with about 90 percent rain Friday, 40 percent Saturday and a drier Sunday. Evacuation is ordered for Zones A and B, which include Pensacola Beach and Perdido Key. The City has canceled events and permits through Sunday, and the Saenger, Festa Italiana, the Southern Tip Off, UWF football and the Blue Wahoos game are all off. Treat anything else this weekend as unconfirmed until the organizer says otherwise. The picks below are next-week events and are subject to storm recovery. Only the Ice Flyers game is indoors.",
   "weather": [
-    {
-      "date": "2026-10-06",
-      "hi": 80,
-      "lo": 68,
-      "rain": 30
-    },
-    {
-      "date": "2026-10-07",
-      "hi": 83,
-      "lo": 68,
-      "rain": 0
-    },
     {
       "date": "2026-10-08",
       "hi": 84,
-      "lo": 67,
-      "rain": 0
+      "lo": 70,
+      "rain": 20
     },
     {
       "date": "2026-10-09",
-      "hi": 82,
+      "hi": 80,
       "lo": 68,
-      "rain": 60
+      "rain": 90
     },
     {
       "date": "2026-10-10",
-      "hi": 80,
-      "lo": 70,
-      "rain": 70
+      "hi": 81,
+      "lo": 69,
+      "rain": 40
     },
     {
       "date": "2026-10-11",
-      "hi": 82,
+      "hi": 83,
+      "lo": 68,
+      "rain": 10
+    },
+    {
+      "date": "2026-10-12",
+      "hi": 85,
+      "lo": 67,
+      "rain": 10
+    },
+    {
+      "date": "2026-10-13",
+      "hi": 86,
+      "lo": 69,
+      "rain": 10
+    },
+    {
+      "date": "2026-10-14",
+      "hi": 85,
       "lo": 70,
-      "rain": 60
+      "rain": 10
     }
   ],
   "picks": [
-    "pmj",
-    "tosh",
-    "glass",
-    "festa",
-    "songs-beach"
+    "angels",
+    "ghoul",
+    "beachoween",
+    "flyers",
+    "barkt"
   ],
   "weekly": [
     {
       "day": "Saturday",
       "title": "Palafox Market",
       "place": "Downtown Pensacola",
-      "note": "Local produce, art and handmade goods",
-      "src": "https://pensacolabeach.com/october-events-in-pensacola/"
+      "note": "Weekly market. The City canceled event permits through Sunday for the storm, so expect it to be off this weekend; check the market for word.",
+      "src": "https://pensacolabeach.com/october-events-in-pensacola-2/"
     },
     {
       "day": "Sunday",
       "title": "Sunday Market on Palafox",
       "place": "Palafox Street, 11:30 AM to 3:30 PM",
-      "note": "Vendors, produce, handmade goods and live music",
+      "note": "Usually vendors, produce and live music. Same storm caveat as Saturday: city event permits are canceled through Sunday.",
       "src": "https://localpulse.com/2026/10/local-pulse-weekend-top-10-59/"
     }
   ],
   "events": [
-    {
-      "id": "spook",
-      "date": "2026-10-06",
-      "title": "East Hill Spooktacular Makers Market",
-      "time": "3 to 6 PM",
-      "t": "15:00",
-      "place": "Cordova Square, 1101 N 12th Ave",
-      "area": "elsewhere",
-      "section": "free",
-      "free": true,
-      "note": "Halloween-themed neighborhood market with local makers.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-october-2026"
-    },
-    {
-      "id": "bands",
-      "dates": [
-        "2026-10-06",
-        "2026-10-13",
-        "2026-10-20",
-        "2026-10-27"
-      ],
-      "title": "Bands on the Beach",
-      "time": "7 to 9 PM",
-      "t": "19:00",
-      "place": "Gulfside Pavilion, Pensacola Beach",
-      "area": "beaches",
-      "section": "free",
-      "free": true,
-      "note": "Free Tuesday concerts. Tonight: The Astronauts, playing 1980s and 90s party music.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-october-5-11-2026"
-    },
     {
       "id": "songs-beach",
       "date": "2026-10-08",
@@ -105,18 +80,18 @@
       "area": "beaches",
       "section": "entertainment",
       "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-october-5-11-2026",
-      "note": "Second weekend moves to Pensacola Beach venues, Thursday through Sunday, with a festival finale at Bamboo Willie's Sunday at 2 PM. Some shows free, some ticketed."
+      "note": "Final weekend is listed on Pensacola Beach venues, but the beach is under evacuation order. A national weather outlet said the festival was continuing as planned; that conflicts with the evacuation, so confirm with the festival before going."
     },
     {
       "id": "pmj",
       "date": "2026-10-08",
-      "title": "Postmodern Jukebox: The Future Is Vintage tour",
+      "title": "Postmodern Jukebox (postponed)",
       "time": "8 PM",
       "t": "20:00",
       "place": "Saenger Theatre",
       "area": "downtown",
       "section": "entertainment",
-      "note": "Modern songs rearranged in vintage styles.",
+      "note": "Saenger lists this show as postponed; no new date posted. Tickets are honored for a new date, box office (850) 595-3880.",
       "src": "https://www.pensacolasaenger.com/"
     },
     {
@@ -129,33 +104,19 @@
       "place": "First City Art Center, 1060 N Guillemard St",
       "area": "downtown",
       "section": "seasonal",
-      "note": "20th annual sale of handmade glass and ceramic pumpkins. Saturday is free to enter, with food trucks and kids activities; pumpkins start at $20. Indoor-friendly in the rain.",
+      "note": "20th annual sale of handmade glass and ceramic pumpkins; Saturday listed as free to enter. No storm update found, so confirm with First City Art Center.",
       "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-october-5-11-2026"
-    },
-    {
-      "id": "festa",
-      "date": "2026-10-09",
-      "end": "2026-10-10",
-      "title": "Festa Italiana",
-      "time": "11 AM to 6 PM",
-      "t": "12:00",
-      "place": "Seville Square, Downtown",
-      "area": "downtown",
-      "section": "seasonal",
-      "note": "Free admission. Italian food, music, demonstrations and family activities.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-october-2026",
-      "free": true
     },
     {
       "id": "tosh",
       "date": "2026-10-09",
-      "title": "Daniel Tosh: My First Farewell Tour",
+      "title": "Daniel Tosh (postponed)",
       "time": "7 PM",
       "t": "19:00",
       "place": "Saenger Theatre, 118 S Palafox",
       "area": "downtown",
       "section": "entertainment",
-      "note": "Stand-up comedy.",
+      "note": "Saenger lists this show as postponed; no new date posted. Tickets are honored for a new date, box office (850) 595-3880.",
       "src": "https://www.pensacolasaenger.com/"
     },
     {
@@ -167,7 +128,7 @@
       "t": "07:00",
       "place": "Casino Beach, Pensacola Beach",
       "title": "Santa Rosa Island Triathlon (rescheduled)",
-      "note": "Moved from Oct 3 because of lightning risk. 600-yard swim, 21K bike, 5K run.",
+      "note": "Already moved once from Oct 3. The City canceled event permits through Sunday and the beach is under evacuation, so confirm with organizers before going.",
       "src": "https://weartv.com/news/local/stormy-forecast-along-gulf-coast-forces-event-postponements-high-school-football-changes"
     },
     {
@@ -180,7 +141,7 @@
       "area": "downtown",
       "section": "free",
       "free": true,
-      "note": "Free clinic for children and adults with intellectual or developmental disabilities.",
+      "note": "Free clinic for people with intellectual or developmental disabilities. City events are canceled through Sunday, so confirm before going.",
       "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-october-5-11-2026"
     },
     {
@@ -200,32 +161,45 @@
       "place": "Gulf Breeze Zoo",
       "area": "elsewhere",
       "section": "seasonal",
-      "note": "Trick-or-treat trail, bounce houses and face painting.",
-      "src": "https://pensacolabeach.com/october-events-in-pensacola/"
+      "note": "Trick-or-treat trail, bounce houses and face painting; tickets required. Storm status for Oct 10 and 11 not confirmed.",
+      "src": "https://pensacolabeach.com/october-events-in-pensacola-2/"
+    },
+    {
+      "id": "farms",
+      "date": "2026-10-10",
+      "end": "2026-11-08",
+      "title": "Milton pumpkin patches and farms",
+      "time": "See farm pages",
+      "t": "10:00",
+      "place": "Holland Farms and Sweet Season Farms, Milton",
+      "area": "elsewhere",
+      "section": "seasonal",
+      "note": "Holland Farms is open daily through Nov 1; Sweet Season Farms is open weekends through Nov 8, with Flashlight Maze nights Oct 23 and 30. Check for post-storm reopening.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-october-2026"
     },
     {
       "id": "fsu-auburn",
       "date": "2026-10-10",
-      "title": "Florida State vs Auburn fall baseball",
+      "title": "CANCELED: Florida State vs Auburn fall baseball",
       "time": "1 PM",
       "t": "13:00",
       "place": "Blue Wahoos Stadium, downtown",
       "area": "downtown",
       "section": "entertainment",
-      "note": "Part of the stadium fall college baseball schedule; weather could affect it.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-october-5-11-2026"
+      "note": "Canceled for Isaias and will not be rescheduled. Tickets can be exchanged for the Oct 17 or Oct 24 games, or refunded; ticket office (850) 934-8444.",
+      "src": "https://weartv.com/news/local/blue-wahoos-cancel-florida-state-auburn-fall-baseball-exhibition-due-to-isaias"
     },
     {
       "id": "tipoff",
       "date": "2026-10-10",
-      "title": "Southern Tip Off: Florida State vs Mississippi State",
-      "time": "See event page",
+      "title": "CANCELED: Southern Tip Off, Florida State vs Mississippi State",
+      "time": "Canceled",
       "t": "14:00",
       "place": "Pensacola Bay Center",
       "area": "downtown",
       "section": "entertainment",
-      "note": "Preseason college basketball showcase, part of the new Pensacola Hardwood Series. Indoors.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-october-5-11-2026"
+      "note": "No new date announced. Ticketmaster buyers are refunded automatically; others return to point of purchase.",
+      "src": "https://weartv.com/news/local/southern-tip-off-at-pensacola-bay-center-cancelled-due-to-isaias"
     },
     {
       "id": "booktober",
@@ -236,20 +210,32 @@
       "place": "Mathieson Brewing Company, 500 E Heinberg St",
       "area": "downtown",
       "section": "entertainment",
-      "note": "Twelve local authors share excerpts across genres.",
+      "note": "Twelve local authors share excerpts. No storm update found; confirm with the brewery.",
       "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-october-5-11-2026"
     },
     {
       "id": "uwf",
       "date": "2026-10-10",
-      "title": "UWF Argonauts football vs Northeastern State",
-      "time": "4 PM",
+      "title": "CANCELED: UWF football vs Northeastern State",
+      "time": "Canceled",
       "t": "16:00",
       "place": "PenAir Field, University of West Florida",
       "area": "elsewhere",
       "section": "entertainment",
-      "note": "Cancer awareness game in the team's first Division I season.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-october-5-11-2026"
+      "note": "UWF called off the home game as a precaution for Isaias. Other UWF games this weekend are canceled or have TBD makeup dates.",
+      "src": "https://weartv.com/news/local/uwf-cancels-saturday-home-football-game-due-to-isaias"
+    },
+    {
+      "id": "rodney",
+      "date": "2026-10-10",
+      "title": "Rodney Carrington (postponed)",
+      "time": "7 PM",
+      "t": "19:00",
+      "place": "Saenger Theatre",
+      "area": "downtown",
+      "section": "entertainment",
+      "note": "Saenger lists the show as postponed; no new date posted.",
+      "src": "https://www.pensacolasaenger.com/"
     },
     {
       "id": "turtle",
@@ -260,8 +246,49 @@
       "place": "Pensacola Beach",
       "area": "beaches",
       "section": "entertainment",
-      "note": "Triathlon for ages 6 to 15.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-october-5-11-2026"
+      "note": "Youth triathlon for ages 6 to 15, on a closed course. Beach is under evacuation, so confirm with organizers.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-october-2026"
+    },
+    {
+      "id": "sewing",
+      "date": "2026-10-12",
+      "title": "Beginner sewing class: felt spider web coaster",
+      "time": "11 AM to 1 PM",
+      "t": "11:00",
+      "place": "Molino Library",
+      "area": "elsewhere",
+      "section": "entertainment",
+      "note": "Library class; cost and registration not listed. County closures this week may affect it.",
+      "src": "https://www.northescambia.com/events"
+    },
+    {
+      "id": "lava",
+      "date": "2026-10-13",
+      "title": "STEAM: Lava Lamp",
+      "time": "4 PM",
+      "t": "16:00",
+      "place": "Molino Library",
+      "area": "elsewhere",
+      "section": "entertainment",
+      "note": "Library science craft session; details not listed.",
+      "src": "https://www.northescambia.com/events"
+    },
+    {
+      "id": "bands",
+      "dates": [
+        "2026-10-13",
+        "2026-10-20",
+        "2026-10-27"
+      ],
+      "title": "Bands on the Beach",
+      "time": "7 to 9 PM",
+      "t": "19:00",
+      "place": "Gulfside Pavilion, Pensacola Beach",
+      "area": "beaches",
+      "section": "free",
+      "free": true,
+      "note": "Free Tuesday concerts. Oct 13 SheAndTheIts, Oct 20 The Oliver's Twist Band, Oct 27 Horseshoe Kitty. Beach is under evacuation this week, so check for storm updates.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-october-2026"
     },
     {
       "id": "angels",
@@ -276,8 +303,8 @@
       "place": "NAS Pensacola and the National Naval Aviation Museum",
       "area": "elsewhere",
       "section": "entertainment",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-october-2026",
-      "note": "Free. Autograph days Oct 14 and 28."
+      "src": "https://pensacolabeach.com/october-events-in-pensacola-2/",
+      "note": "Free viewing at the aviation museum. Oct 14 and 28 are autograph days. Possible storm-recovery changes at the base, so check before driving out."
     },
     {
       "id": "beachoween",
@@ -289,8 +316,8 @@
       "area": "beaches",
       "section": "seasonal",
       "free": true,
-      "note": "Free family event with games and candy.",
-      "src": "https://pensacolabeach.com/october-events-in-pensacola/"
+      "note": "Free family event on the boardwalk. Pets other than service animals are not allowed.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-october-2026"
     },
     {
       "id": "ghoul",
@@ -301,8 +328,36 @@
       "place": "Downtown Pensacola",
       "area": "downtown",
       "section": "seasonal",
-      "note": "Art, music and food with a Halloween theme.",
-      "src": "https://pensacolabeach.com/october-events-in-pensacola/"
+      "note": "Free art walk with 70+ vendors and a Halloween theme.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-october-2026",
+      "free": true
+    },
+    {
+      "id": "wahoos2",
+      "dates": [
+        "2026-10-17",
+        "2026-10-24"
+      ],
+      "title": "Fall baseball at Blue Wahoos Stadium",
+      "time": "See event page",
+      "t": "13:00",
+      "place": "Blue Wahoos Stadium, downtown",
+      "area": "downtown",
+      "section": "entertainment",
+      "note": "Oct 17 Alabama vs Georgia Tech, Oct 24 Florida vs Troy.",
+      "src": "https://weartv.com/news/local/blue-wahoos-cancel-florida-state-auburn-fall-baseball-exhibition-due-to-isaias"
+    },
+    {
+      "id": "leather",
+      "date": "2026-10-17",
+      "title": "Leather crafting: keychain or bag tag",
+      "time": "1 to 3 PM",
+      "t": "13:00",
+      "place": "Century Library",
+      "area": "elsewhere",
+      "section": "entertainment",
+      "note": "Supplies provided. Cost not listed.",
+      "src": "https://www.northescambia.com/events"
     },
     {
       "id": "flyers",
@@ -315,13 +370,25 @@
         "2026-11-14"
       ],
       "title": "Pensacola Ice Flyers home games",
-      "time": "See event page",
+      "time": "7:05 PM (Oct 17, 24, 30)",
       "t": "19:05",
       "place": "Pensacola Bay Center",
       "area": "downtown",
       "section": "entertainment",
-      "src": "https://iceflyers.com/full-schedule/",
-      "note": "Oct 17 opening night vs Macon, Oct 24 vs Huntsville (small dog race night), Oct 30 vs Macon ($5 night), Nov 1 vs Birmingham, Nov 13 and 14 vs Macon (Blue Angels night Nov 14). Puck drop times not listed on the schedule page."
+      "src": "https://pensacolabeach.com/october-events-in-pensacola-2/",
+      "note": "Oct 17 opening night vs Macon, Oct 24 vs Huntsville (small dog race night), Oct 30 vs Macon ($5 night), Nov 1 vs Birmingham, Nov 13 and 14 vs Macon (Blue Angels night Nov 14). Puck drop for Nov dates not listed."
+    },
+    {
+      "id": "ali",
+      "date": "2026-10-17",
+      "title": "Ali Siddiq: The Custom Fit Tour",
+      "time": "8 PM",
+      "t": "20:00",
+      "place": "Saenger Theatre",
+      "area": "downtown",
+      "section": "entertainment",
+      "note": "Stand-up comedy. Not marked postponed as of tonight.",
+      "src": "https://www.pensacolasaenger.com/"
     },
     {
       "id": "barkt",
@@ -333,21 +400,7 @@
       "area": "downtown",
       "section": "seasonal",
       "note": "Dog contests, races and adoptions.",
-      "src": "https://pensacolabeach.com/october-events-in-pensacola/"
-    },
-    {
-      "id": "gamedays",
-      "dates": [
-        "2026-10-18",
-        "2026-10-25"
-      ],
-      "title": "Sunday Game Days at the Landing",
-      "time": "From 11 AM",
-      "t": "11:00",
-      "place": "The Landing, Pensacola Beach",
-      "area": "beaches",
-      "section": "entertainment",
-      "src": "https://pensacolabeach.com/october-events-in-pensacola/"
+      "src": "https://pensacolabeach.com/october-events-in-pensacola-2/"
     },
     {
       "id": "fair",
@@ -359,8 +412,8 @@
       "place": "Pensacola Interstate Fairgrounds, 6655 W Mobile Hwy",
       "area": "elsewhere",
       "section": "seasonal",
-      "note": "50+ rides, exhibits, fair food and daily shows. Opening day admission is $1; concerts are included with admission.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-october-2026"
+      "note": "50+ rides, exhibits, fair food and daily shows. Oct 22 is Dollar Day: $1 admission (ages 4+) and $1 midway rides. Concerts on the Pepsi stage are free with admission. Call (850) 944-4500 for hours.",
+      "src": "https://weartv.com/news/local/pensacola-interstate-fair-unveils-2026-entertainment-lineup-and-schedule"
     },
     {
       "id": "tastegb",
@@ -384,7 +437,8 @@
       "area": "beaches",
       "section": "free",
       "free": true,
-      "src": "https://pensacolabeach.com/october-events-in-pensacola/"
+      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-october-2026",
+      "note": "Free outdoor movie on the beach."
     },
     {
       "id": "fair-bandperry",
@@ -407,6 +461,20 @@
       "area": "elsewhere",
       "section": "entertainment",
       "src": "https://weartv.com/news/local/pensacola-interstate-fair-unveils-2026-entertainment-lineup-and-schedule"
+    },
+    {
+      "id": "gamedays",
+      "dates": [
+        "2026-10-25"
+      ],
+      "title": "Sunday Game Days at the Landing",
+      "time": "From 11 AM",
+      "t": "11:00",
+      "place": "The Landing, Pensacola Beach",
+      "area": "beaches",
+      "section": "entertainment",
+      "src": "https://pensacolabeach.com/october-events-in-pensacola-2/",
+      "note": "Free admission with food and drink specials. Doors at 11 AM."
     },
     {
       "id": "fair-temps",
@@ -432,6 +500,18 @@
       "src": "https://weartv.com/news/local/pensacola-interstate-fair-unveils-2026-entertainment-lineup-and-schedule"
     },
     {
+      "id": "fair-whitetie",
+      "date": "2026-10-27",
+      "title": "White Tie Rock Ensemble at the fair",
+      "time": "7:30 PM",
+      "t": "19:30",
+      "place": "Pepsi Open-Air Stage, Interstate Fairgrounds",
+      "area": "elsewhere",
+      "section": "entertainment",
+      "note": "Monsters of Rock show.",
+      "src": "https://weartv.com/news/local/pensacola-interstate-fair-unveils-2026-entertainment-lineup-and-schedule"
+    },
+    {
       "id": "fair-lauren",
       "date": "2026-10-28",
       "title": "Lauren Alaina at the fair",
@@ -447,13 +527,13 @@
       "date": "2026-10-29",
       "end": "2026-11-01",
       "title": "Taste of the Beach: A Culinary Journey",
-      "time": "See event page",
-      "t": "12:00",
+      "time": "Oct 30 VIP trolley dinner; main festival Oct 31, 10 AM to 4 PM",
+      "t": "10:00",
       "place": "Pensacola Beach",
       "area": "beaches",
       "section": "seasonal",
-      "note": "Culinary showcase with trolley dinners and brunch experiences.",
-      "src": "https://pensacolabeach.com/october-events-in-pensacola/"
+      "note": "Culinary showcase at Gulfside Pavilion with 16 restaurants, live music and kids cooking classes; trolley dinner and brunch experiences. Prices not listed.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-october-2026"
     },
     {
       "id": "foofoo",
@@ -467,6 +547,17 @@
       "section": "seasonal",
       "note": "12 days of art, music and theater, Oct 29 to Nov 9. Includes the Lightspill art installation and Night Moves Music Fest; some events free, some ticketed.",
       "src": "https://localpulse.com/2026/08/pensacola-foo-foo-festival-releases-initial-calendar-of-events/"
+    },
+    {
+      "id": "fair-bee",
+      "date": "2026-10-29",
+      "title": "Bee Gees Now at the fair",
+      "time": "3:30 and 7 PM",
+      "t": "15:30",
+      "place": "Pepsi Open-Air Stage, Interstate Fairgrounds",
+      "area": "elsewhere",
+      "section": "entertainment",
+      "src": "https://weartv.com/news/local/pensacola-interstate-fair-unveils-2026-entertainment-lineup-and-schedule"
     },
     {
       "id": "fair-colt",
@@ -488,7 +579,7 @@
       "place": "MLK Jr. Plaza and Plaza Ferdinand",
       "area": "downtown",
       "section": "seasonal",
-      "note": "Trick-or-treating, haunted trolley and live animals. Free admission.",
+      "note": "Trick-or-treating, haunted trolley and live animals. Free admission; mini train rides cost extra.",
       "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-october-2026",
       "free": true
     },
@@ -514,6 +605,20 @@
       "area": "elsewhere",
       "section": "entertainment",
       "src": "https://www.naspensacolaairshow.org/"
+    },
+    {
+      "id": "festa",
+      "date": "2026-11-13",
+      "end": "2026-11-14",
+      "title": "Festa Italiana (moved from Oct 9-10)",
+      "time": "11 AM to 6 PM",
+      "t": "12:00",
+      "place": "Fountain Park, Downtown",
+      "area": "downtown",
+      "section": "seasonal",
+      "note": "Postponed because of Isaias. Free admission.",
+      "src": "https://weartv.com/news/local/festa-italiana-in-downtown-pensacola-rescheduled-to-mid-november-due-to-isaias",
+      "free": true
     }
   ],
   "restaurants": [
@@ -547,7 +652,7 @@
     {
       "name": "Pelican Bar and Grill",
       "status": "soon",
-      "when": "Targeted first week of October; no opening confirmation found as of Oct 6",
+      "when": "Targeted first week of October; no opening confirmation found as of Oct 8",
       "place": "1420 W Nine Mile Rd",
       "kind": "American",
       "note": "Steaks, seafood and casual fare with a full bar and arcade. Seats 120 to 150.",
@@ -565,7 +670,7 @@
     {
       "name": "Launch Family Entertainment",
       "status": "soon",
-      "when": "Oct 16 (confirmed)",
+      "when": "Oct 16 (confirmed by Must Do Pensacola)",
       "place": "8102 N Davis Hwy",
       "kind": "Family fun center with a restaurant and bar",
       "note": "Trampolines, duckpin bowling, a ninja course, arcade and the KRAVE restaurant and bar.",
@@ -583,7 +688,7 @@
     {
       "name": "Emerald Fortress",
       "status": "soon",
-      "when": "Grand opening Nov 4",
+      "when": "Grand opening Nov 4, 4:30 PM; a card show is listed there Oct 10",
       "place": "319 E Nine Mile Rd",
       "kind": "Game and hobby store",
       "note": "Veteran-owned shop for trading cards, Warhammer and collectibles, with tournaments.",
@@ -592,46 +697,52 @@
   ],
   "news": [
     {
-      "title": "NHC watching Gulf system that could become a tropical depression",
-      "summary": "The Hurricane Center gives a low-pressure area in the southwestern Gulf high odds of developing this week, with heavy rain on saturated ground as the main concern.",
+      "title": "Hurricane Isaias: evacuations ordered for Escambia Zones A and B",
+      "summary": "Landfall is expected on the northern Gulf Coast late Friday or early Saturday. The order, which took effect at noon Thursday, covers Pensacola Beach, Perdido Key, Innerarity Point, low-lying areas and mobile homes. Shelters opened at 3 PM: Pensacola Bay Center for the general public and Wedgewood Community Center for special needs.",
+      "source": "City of Pensacola",
+      "url": "https://www.cityofpensacola.com/m/newsflash/Home/Detail/5231"
+    },
+    {
+      "title": "City and county closures for Isaias",
+      "summary": "County offices are closed Friday, and city offices close Thursday at 2 PM and stay closed Friday. City events and permits are canceled through Sunday. The airport terminal closes to commercial flights at 10 AM Friday. Pensacola and Perdido Key visitor centers are closed, with a goal of reopening Sunday.",
+      "source": "City of Pensacola",
+      "url": "https://www.cityofpensacola.com/m/newsflash/Home/Detail/5235"
+    },
+    {
+      "title": "Festa Italiana moved to mid-November",
+      "summary": "Organizers postponed the festival to Nov 13 and 14 at Fountain Park, with free admission and 11 AM to 6 PM hours.",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/tropical-formation-possible-in-gulf-this-week"
+      "url": "https://weartv.com/news/local/festa-italiana-in-downtown-pensacola-rescheduled-to-mid-november-due-to-isaias"
     },
     {
-      "title": "Downtown Pensacola parking rates change Oct. 5",
-      "summary": "Sunday and Monday are free, paid parking runs Tuesday through Friday at $1 an hour, and Friday night and Saturday are $1.75 an hour. Seniors 65 and up can buy a monthly pass.",
-      "source": "City of Pensacola",
-      "url": "https://www.cityofpensacola.com/m/newsflash/Home/Detail/5217"
+      "title": "Weekend games and shows called off",
+      "summary": "The Southern Tip Off at the Bay Center and UWF's home football game are canceled, as is the Blue Wahoos' FSU-Auburn exhibition. The Saenger lists its Thursday through Saturday shows as postponed.",
+      "source": "WEAR",
+      "url": "https://weartv.com/news/local/southern-tip-off-at-pensacola-bay-center-cancelled-due-to-isaias"
     },
     {
-      "title": "City opens Fricker Center playground design poll",
-      "summary": "Residents can pick between two color schemes online through Oct. 23.",
-      "source": "City of Pensacola",
-      "url": "https://www.cityofpensacola.com/m/newsflash/Home/Detail/5220"
+      "title": "Schools in Escambia close Friday",
+      "summary": "Escambia schools and district offices are closed Friday, and Monday Oct 12 is already a student holiday. Santa Rosa and Okaloosa have also closed schools.",
+      "source": "WEAR",
+      "url": "https://weartv.com/news/local/schools-to-close-in-northwest-florida-southwest-alabama-ahead-of-isaias"
     },
     {
-      "title": "Escambia clerk sues county over $1.1 million budget cut",
-      "summary": "NorthEscambia.com reports Clerk Pam Childers has filed suit over the cut; the article page would not load, so details are limited to the headline.",
+      "title": "Utilities expect storm outages",
+      "summary": "FPL and ECUA are staging crews and supplies. FPL says outages should be expected, and residents are asked to secure bins and have a plan ready.",
+      "source": "WEAR",
+      "url": "https://weartv.com/news/local/northwest-florida-utilities-brace-for-gulf-storm-as-crews-and-supplies-move-into-place"
+    },
+    {
+      "title": "Hurlburt Field housing evacuated",
+      "summary": "About 1,000 residents of privatized housing and the FAMCamp were told to leave by 5 PM Thursday because rising water could affect a base utility lift station. The base says this is not a wider evacuation.",
+      "source": "WEAR",
+      "url": "https://weartv.com/news/local/hurlburt-field-orders-targeted-evacuation-of-privatized-housing-famcamp"
+    },
+    {
+      "title": "Free sand available for storm prep in Escambia",
+      "summary": "NorthEscambia.com reports the county is offering free sand to residents; the article page was not opened, so locations are not listed here.",
       "source": "NorthEscambia.com",
-      "url": "http://www.northescambia.com/2026/10/escambia-clerk-pam-childers-sues-county-over-1-1-million-budget-cut"
-    },
-    {
-      "title": "Emerald Coast PBS to launch Nov. 1",
-      "summary": "A new nonprofit will bring PBS and PBS KIDS back to Northwest Florida on channels 53.1 and 53.2 after Pensacola State College ended its affiliation in July.",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/local/pbs-returns-to-northwest-florida-emerald-coast-pbs-to-launch-nov-1"
-    },
-    {
-      "title": "ECUA to replace Monteigne Drive sewer main",
-      "summary": "A roughly $2 million project starting Oct. 12 follows a July overflow and is set to finish in January.",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/local/ecua-to-replace-sewer-main-along-monteigne-drive-due-to-july-overflow"
-    },
-    {
-      "title": "School bus driver shortage causes daily delays",
-      "summary": "The district reported 18 open driver jobs in mid-September, with some students waiting over an hour; nine drivers have been hired since July.",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/local/escambia-county-parents-detail-school-bus-delays-as-district-deals-with-driver-shortage"
+      "url": "http://www.northescambia.com/2026/10/need-sand-for-storm-prep-its-available-free-in-escambia-county"
     }
   ],
   "sources": [
@@ -672,5 +783,5 @@
       "url": "https://forecast.weather.gov/"
     }
   ],
-  "coverage_note": "Weather is the NWS detailed forecast issued 3 AM CDT Oct 6 for the Pensacola area; it covers Oct 6 to 11 only, since the Oct 12 low was not given. Several sources (Saenger, Visit Pensacola, PensacolaBeach.com, Blue Wahoos, Bay Center and Local Pulse's newest post) would not load this run, so events past Oct 11 rely on Must Do Pensacola and earlier reads, and Saenger shows after Oct 9 were not confirmed. Restaurant statuses are unchanged and Pelican Bar and Grill is still unconfirmed. NorthEscambia.com article pages would not load, so north and west Escambia coverage is headline-only; a Molino ballpark Halloween tournament was seen in a headline but without dates, so it is not listed. Gonzalez and Perdido Key listings are thin, and Facebook-only events are not covered."
+  "coverage_note": "Written the night of Oct 8 while Hurricane Isaias approaches, so the situation is changing fast; confirm anything on the beach or outdoors with the organizer. Weather is the NWS point forecast issued 4:16 PM CDT Oct 8: Thursday's high was not listed so 84 is carried from the earlier forecast, and Sunday through Wednesday rain chances were not stated in the text, so 10 percent is a placeholder. Events after the storm come from Must Do Pensacola, PensacolaBeach.com, WEAR and the Saenger site; many have no storm update, and those are marked. The Saenger, Bay Center, UWF and Blue Wahoos cancellations are confirmed. Visit Pensacola's songwriter page was a 2025 listing, so the festival status is unclear. North and west Escambia coverage is NorthEscambia.com headlines plus county library classes; Gonzalez and Perdido Key listings are thin, and Facebook-only events are not covered. Restaurant statuses are unchanged and Pelican Bar and Grill and Casa Luvia are still unconfirmed."
 }
