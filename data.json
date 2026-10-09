@@ -1,13 +1,7 @@
 {
-  "generated": "2026-10-08T21:45:45-05:00",
-  "weekend_note": "Hurricane Isaias is expected to reach the northern Gulf Coast late Friday or early Saturday, with about 90 percent rain Friday, 40 percent Saturday and a drier Sunday. Evacuation is ordered for Zones A and B, which include Pensacola Beach and Perdido Key. The City has canceled events and permits through Sunday, and the Saenger, Festa Italiana, the Southern Tip Off, UWF football and the Blue Wahoos game are all off. Treat anything else this weekend as unconfirmed until the organizer says otherwise. The picks below are next-week events and are subject to storm recovery. Only the Ice Flyers game is indoors.",
+  "generated": "2026-10-09T03:00:23-05:00",
+  "weekend_note": "Hurricane Isaias is expected to make landfall on the northern Gulf Coast late Friday into early Saturday. The latest forecasts call for 4 to 8 inches of rain on the coast, gusts up to about 115 mph near Pensacola and a tornado threat, with conditions easing Saturday and a quieter, sunny Sunday and Monday. Evacuation is ordered for Zones A and B, including Pensacola Beach and Perdido Key. City events and permits are canceled through Sunday, and the Saenger, Festa Italiana, the Southern Tip Off, UWF football and the Blue Wahoos game are off. Treat anything else this weekend as unconfirmed until the organizer says otherwise. The picks below are next-week events and are subject to storm recovery; only the Ice Flyers game is indoors.",
   "weather": [
-    {
-      "date": "2026-10-08",
-      "hi": 84,
-      "lo": 70,
-      "rain": 20
-    },
     {
       "date": "2026-10-09",
       "hi": 80,
@@ -81,18 +75,6 @@
       "section": "entertainment",
       "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-october-5-11-2026",
       "note": "Final weekend is listed on Pensacola Beach venues, but the beach is under evacuation order. A national weather outlet said the festival was continuing as planned; that conflicts with the evacuation, so confirm with the festival before going."
-    },
-    {
-      "id": "pmj",
-      "date": "2026-10-08",
-      "title": "Postmodern Jukebox (postponed)",
-      "time": "8 PM",
-      "t": "20:00",
-      "place": "Saenger Theatre",
-      "area": "downtown",
-      "section": "entertainment",
-      "note": "Saenger lists this show as postponed; no new date posted. Tickets are honored for a new date, box office (850) 595-3880.",
-      "src": "https://www.pensacolasaenger.com/"
     },
     {
       "id": "glass",
@@ -697,16 +679,34 @@
   ],
   "news": [
     {
-      "title": "Hurricane Isaias: evacuations ordered for Escambia Zones A and B",
-      "summary": "Landfall is expected on the northern Gulf Coast late Friday or early Saturday. The order, which took effect at noon Thursday, covers Pensacola Beach, Perdido Key, Innerarity Point, low-lying areas and mobile homes. Shelters opened at 3 PM: Pensacola Bay Center for the general public and Wedgewood Community Center for special needs.",
-      "source": "City of Pensacola",
-      "url": "https://www.cityofpensacola.com/m/newsflash/Home/Detail/5231"
+      "title": "Isaias forecast: strong winds, heavy rain and surge for coastal Escambia",
+      "summary": "FOX10 says the greatest coastal impacts are expected Friday night into early Saturday, with sustained winds of 65 to 85 mph on the coast, 4 to 8 inches of rain and 4 to 7 feet of surge in vulnerable areas. Inland Escambia could see gusts near 80 mph. Sunday is expected to be quieter, though flooding and surf may linger.",
+      "source": "FOX10 News",
+      "url": "https://www.fox10tv.com/2026/10/07/isaias-taking-aim-northern-gulf-what-mobile-pensacola-can-expect/"
+    },
+    {
+      "title": "Hurricane warning covers Pensacola; evacuations underway",
+      "summary": "The Weather Channel reports hurricane warnings along the Panhandle and a mandatory evacuation of Escambia Zones A and B, with shelters at the Pensacola Bay Center and Wedgewood Community Center. Fuel and store shelves were running short around Pensacola.",
+      "source": "The Weather Channel",
+      "url": "https://weather.com/2026/10/08/storms/hurricane/liveblogs/hurricane-isaias-live-updates"
     },
     {
       "title": "City and county closures for Isaias",
-      "summary": "County offices are closed Friday, and city offices close Thursday at 2 PM and stay closed Friday. City events and permits are canceled through Sunday. The airport terminal closes to commercial flights at 10 AM Friday. Pensacola and Perdido Key visitor centers are closed, with a goal of reopening Sunday.",
-      "source": "City of Pensacola",
-      "url": "https://www.cityofpensacola.com/m/newsflash/Home/Detail/5235"
+      "summary": "County offices are closed Friday. The City canceled event permits and rentals through Sunday, plus Saturday youth games, and county parks games for Oct 9 to 11 are postponed. ECUA customer service is closed Friday and Pensacola Beach water and sewer will be shut off after evacuation.",
+      "source": "WEAR",
+      "url": "https://weartv.com/news/local/closures-for-escambia-county-city-of-pensacola-ecua-due-to-isaias"
+    },
+    {
+      "title": "Airport, schools and colleges close",
+      "summary": "WUWF's live updates list Pensacola International Airport closing at 10 AM Friday with no reopening date, Escambia schools closed Friday (Monday is already a holiday), Pensacola State College closed Friday and Saturday, and UWF classes canceled with normal operations expected Monday.",
+      "source": "WUWF",
+      "url": "https://www.wuwf.org/live-updates/tropical-storm-isaias-updates"
+    },
+    {
+      "title": "Gulf Islands National Seashore closed",
+      "summary": "WUWF reports the seashore, including Fort Pickens, Perdido Key and Opal Beach, has been closed since Oct 7, and Highway 399 on Santa Rosa Island is to close Friday at a time not yet given.",
+      "source": "WUWF",
+      "url": "https://www.wuwf.org/live-updates/tropical-storm-isaias-updates"
     },
     {
       "title": "Festa Italiana moved to mid-November",
@@ -719,30 +719,6 @@
       "summary": "The Southern Tip Off at the Bay Center and UWF's home football game are canceled, as is the Blue Wahoos' FSU-Auburn exhibition. The Saenger lists its Thursday through Saturday shows as postponed.",
       "source": "WEAR",
       "url": "https://weartv.com/news/local/southern-tip-off-at-pensacola-bay-center-cancelled-due-to-isaias"
-    },
-    {
-      "title": "Schools in Escambia close Friday",
-      "summary": "Escambia schools and district offices are closed Friday, and Monday Oct 12 is already a student holiday. Santa Rosa and Okaloosa have also closed schools.",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/local/schools-to-close-in-northwest-florida-southwest-alabama-ahead-of-isaias"
-    },
-    {
-      "title": "Utilities expect storm outages",
-      "summary": "FPL and ECUA are staging crews and supplies. FPL says outages should be expected, and residents are asked to secure bins and have a plan ready.",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/local/northwest-florida-utilities-brace-for-gulf-storm-as-crews-and-supplies-move-into-place"
-    },
-    {
-      "title": "Hurlburt Field housing evacuated",
-      "summary": "About 1,000 residents of privatized housing and the FAMCamp were told to leave by 5 PM Thursday because rising water could affect a base utility lift station. The base says this is not a wider evacuation.",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/local/hurlburt-field-orders-targeted-evacuation-of-privatized-housing-famcamp"
-    },
-    {
-      "title": "Free sand available for storm prep in Escambia",
-      "summary": "NorthEscambia.com reports the county is offering free sand to residents; the article page was not opened, so locations are not listed here.",
-      "source": "NorthEscambia.com",
-      "url": "http://www.northescambia.com/2026/10/need-sand-for-storm-prep-its-available-free-in-escambia-county"
     }
   ],
   "sources": [
@@ -783,5 +759,5 @@
       "url": "https://forecast.weather.gov/"
     }
   ],
-  "coverage_note": "Written the night of Oct 8 while Hurricane Isaias approaches, so the situation is changing fast; confirm anything on the beach or outdoors with the organizer. Weather is the NWS point forecast issued 4:16 PM CDT Oct 8: Thursday's high was not listed so 84 is carried from the earlier forecast, and Sunday through Wednesday rain chances were not stated in the text, so 10 percent is a placeholder. Events after the storm come from Must Do Pensacola, PensacolaBeach.com, WEAR and the Saenger site; many have no storm update, and those are marked. The Saenger, Bay Center, UWF and Blue Wahoos cancellations are confirmed. Visit Pensacola's songwriter page was a 2025 listing, so the festival status is unclear. North and west Escambia coverage is NorthEscambia.com headlines plus county library classes; Gonzalez and Perdido Key listings are thin, and Facebook-only events are not covered. Restaurant statuses are unchanged and Pelican Bar and Grill and Casa Luvia are still unconfirmed."
+  "coverage_note": "Written around 3 AM Friday Oct 9, before Hurricane Isaias arrives, so conditions will change; confirm anything outdoors or on the beach with the organizer. Storm facts come from FOX10, The Weather Channel, WEAR and WUWF. The only National Weather Service page that loaded was the marine point forecast, which shows hurricane conditions Friday night and sunny weather Sunday through Tuesday, so the land highs, lows and rain chances for Oct 9 to 14 are carried over from the Oct 8 NWS point forecast and Sunday onward rain chances remain a 10 percent placeholder; no Oct 15 forecast was available. Event details are unchanged from last night because no organizers had posted new storm updates in the sources that could be read; the Saenger, Bay Center, UWF and Blue Wahoos cancellations remain confirmed. Many event pages (City of Pensacola, Visit Pensacola, Saenger and Facebook-only listings) could not be opened this run. NorthEscambia.com would not load, so north and west Escambia and Gonzalez coverage is thin and limited to county library classes already listed. Restaurant statuses are unchanged; Pelican Bar and Grill and Casa Luvia remain unconfirmed."
 }
