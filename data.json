@@ -1,36 +1,48 @@
 {
-  "generated": "2026-10-11T02:59:43-05:00",
-  "weekend_note": "Isaias has moved inland and the weather is calm: sunny and warm today near the mid 80s, with little rain in the forecast this week. The bigger issue is recovery, since Escambia County had about 127,000 customers without power on Saturday morning and a systemwide precautionary boil-water notice from ECUA. City event permits were canceled through today, so treat outdoor and beach events as unconfirmed until organizers say otherwise. Picks for the coming days are the Blue Angels practice on Oct 14, Beach-O-Ween and Gallery Night on Oct 16, Ice Flyers on Oct 17 (indoors at the Bay Center) and Barktoberfest on Oct 18.",
+  "generated": "2026-10-13T03:01:38-05:00",
+  "weekend_note": "The week looks dry and sunny, with highs in the upper 80s through Friday, then a breezy cooldown into the mid 70s this weekend (north winds gusting to about 35 mph late Friday). The bigger issue is Isaias recovery: ECUA's boil-water notice is still countywide, Escambia schools, UWF and Pensacola State are closed today, and city parks were asked to be avoided until cleared. Treat outdoor events as unconfirmed until organizers say otherwise. Picks are the Blue Angels practice on Oct 14, Gallery Night and Beach-O-Ween on Oct 16, Ice Flyers on Oct 17 (indoors at the Bay Center) and Barktoberfest on Oct 18.",
   "weather": [
-    {
-      "date": "2026-10-11",
-      "hi": 84,
-      "lo": 63,
-      "rain": 10
-    },
-    {
-      "date": "2026-10-12",
-      "hi": 88,
-      "lo": 65,
-      "rain": 10
-    },
     {
       "date": "2026-10-13",
       "hi": 87,
-      "lo": 65,
-      "rain": 20
+      "lo": 68,
+      "rain": 0
     },
     {
       "date": "2026-10-14",
       "hi": 87,
-      "lo": 66,
-      "rain": 20
+      "lo": 68,
+      "rain": 0
     },
     {
       "date": "2026-10-15",
-      "hi": 87,
+      "hi": 86,
       "lo": 68,
-      "rain": 10
+      "rain": 0
+    },
+    {
+      "date": "2026-10-16",
+      "hi": 87,
+      "lo": 64,
+      "rain": 0
+    },
+    {
+      "date": "2026-10-17",
+      "hi": 76,
+      "lo": 62,
+      "rain": 0
+    },
+    {
+      "date": "2026-10-18",
+      "hi": 75,
+      "lo": 65,
+      "rain": 0
+    },
+    {
+      "date": "2026-10-19",
+      "hi": 78,
+      "lo": 65,
+      "rain": 0
     }
   ],
   "picks": [
@@ -45,31 +57,18 @@
       "day": "Saturday",
       "title": "Palafox Market",
       "place": "Downtown Pensacola",
-      "note": "Weekly Saturday market. City event permits were canceled through Sunday for the storm, so check the market for when it returns.",
+      "note": "Weekly Saturday market. No post-storm confirmation found, so check the market before heading downtown.",
       "src": "https://pensacolabeach.com/october-events-in-pensacola-2/"
     },
     {
       "day": "Sunday",
       "title": "Sunday Market on Palafox",
       "place": "Palafox Street, 11:30 AM to 3:30 PM",
-      "note": "Usually vendors, produce and live music. City event permits were canceled through Sunday for the storm, so expect it to be off today.",
+      "note": "Usually vendors, produce and live music. Not rechecked after the storm, so confirm it is running.",
       "src": "https://localpulse.com/2026/10/local-pulse-weekend-top-10-59/"
     }
   ],
   "events": [
-    {
-      "id": "songs-beach",
-      "date": "2026-10-08",
-      "end": "2026-10-11",
-      "title": "Pensacola Beach Songwriters Festival, final day",
-      "time": "Times vary by venue",
-      "t": "12:00",
-      "place": "Pensacola Beach venues",
-      "area": "beaches",
-      "section": "entertainment",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-october-5-11-2026",
-      "note": "Final day is Oct 11 on Pensacola Beach venues. No post-storm confirmation or beach reopening notice was found, so check with the festival before heading out."
-    },
     {
       "id": "farms",
       "date": "2026-10-10",
@@ -84,21 +83,8 @@
       "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-october-2026"
     },
     {
-      "id": "turtle",
-      "date": "2026-10-11",
-      "title": "Sea Turtle Youth Triathlon",
-      "time": "8 AM",
-      "t": "08:00",
-      "place": "Pensacola Beach",
-      "area": "beaches",
-      "section": "entertainment",
-      "note": "Youth triathlon for ages 6 to 15, on a closed course. No post-storm confirmation found, so check with organizers.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-october-2026"
-    },
-    {
       "id": "boo",
       "dates": [
-        "2026-10-11",
         "2026-10-17",
         "2026-10-18",
         "2026-10-24",
@@ -111,20 +97,8 @@
       "place": "Gulf Breeze Zoo",
       "area": "elsewhere",
       "section": "seasonal",
-      "note": "Trick-or-treat trail, bounce houses and face painting; tickets required. Storm status for Oct 11 not confirmed, so check with the zoo.",
+      "note": "Trick-or-treat trail, bounce houses and face painting; tickets required. Post-storm status not confirmed, so check with the zoo.",
       "src": "https://pensacolabeach.com/october-events-in-pensacola-2/"
-    },
-    {
-      "id": "sewing",
-      "date": "2026-10-12",
-      "title": "Beginner sewing class: felt spider web coaster",
-      "time": "11 AM to 1 PM",
-      "t": "11:00",
-      "place": "Molino Library",
-      "area": "elsewhere",
-      "section": "entertainment",
-      "note": "Library class; cost and registration not listed. Storm recovery may affect county facilities, so confirm with the library.",
-      "src": "https://www.northescambia.com/events"
     },
     {
       "id": "lava",
@@ -135,7 +109,7 @@
       "place": "Molino Library",
       "area": "elsewhere",
       "section": "entertainment",
-      "note": "Library science craft session; details not listed.",
+      "note": "Library science craft session; details not listed. County facilities were still recovering from Isaias, so confirm the library is open.",
       "src": "https://www.northescambia.com/events"
     },
     {
@@ -152,7 +126,7 @@
       "area": "beaches",
       "section": "free",
       "free": true,
-      "note": "Free Tuesday concerts. Oct 13 SheAndTheIts, Oct 20 The Oliver's Twist Band, Oct 27 Horseshoe Kitty. Beach reopening after the storm was not confirmed, so check for updates.",
+      "note": "Free Tuesday concerts. Oct 13 SheAndTheIts, Oct 20 The Oliver's Twist Band, Oct 27 Horseshoe Kitty. Officials asked people to stay out of parks until cleared and the beach is under a boil-water notice, so confirm tonight's show.",
       "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-october-2026"
     },
     {
@@ -169,7 +143,7 @@
       "area": "elsewhere",
       "section": "entertainment",
       "src": "https://pensacolabeach.com/october-events-in-pensacola-2/",
-      "note": "Free viewing at the aviation museum. Oct 14 and 28 are autograph days. Storm recovery may change base access, so check before driving out."
+      "note": "Free viewing at the aviation museum. Oct 14 and 28 are autograph days. No post-storm word on base access was found, so check before driving out."
     },
     {
       "id": "beachoween",
@@ -181,7 +155,7 @@
       "area": "beaches",
       "section": "seasonal",
       "free": true,
-      "note": "Free family event on the boardwalk. Pets other than service animals are not allowed.",
+      "note": "Free family event on the boardwalk. Pets other than service animals are not allowed. Pensacola Beach is under a boil-water notice, so confirm it is on.",
       "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-october-2026"
     },
     {
@@ -252,7 +226,7 @@
       "place": "Saenger Theatre",
       "area": "downtown",
       "section": "entertainment",
-      "note": "Stand-up comedy. Not marked postponed as of tonight.",
+      "note": "Stand-up comedy. No postponement notice found, but the Saenger site was not rechecked tonight.",
       "src": "https://www.pensacolasaenger.com/"
     },
     {
@@ -556,7 +530,7 @@
     {
       "name": "Pelican Bar and Grill",
       "status": "soon",
-      "when": "Targeted first week of October; no opening confirmation found as of Oct 11",
+      "when": "Targeted first week of October; no opening confirmation found as of Oct 13",
       "place": "1420 W Nine Mile Rd",
       "kind": "American",
       "note": "Steaks, seafood and casual fare with a full bar and arcade. Seats 120 to 150.",
@@ -565,7 +539,7 @@
     {
       "name": "Casa Luvia",
       "status": "soon",
-      "when": "Soft opening planned for October",
+      "when": "Soft opening planned for October; no confirmation found as of Oct 13",
       "place": "7748 N Davis Hwy",
       "kind": "Upscale Mexican",
       "note": "Handcrafted cocktails and plated dishes in a modern room.",
@@ -574,7 +548,7 @@
     {
       "name": "Launch Family Entertainment",
       "status": "soon",
-      "when": "Oct 16 (confirmed by Must Do Pensacola)",
+      "when": "Oct 16 per Must Do Pensacola; storm impact not checked",
       "place": "8102 N Davis Hwy",
       "kind": "Family fun center with a restaurant and bar",
       "note": "Trampolines, duckpin bowling, a ninja course, arcade and the KRAVE restaurant and bar.",
@@ -601,40 +575,46 @@
   ],
   "news": [
     {
-      "title": "Isaias hits the Panhandle, Escambia hardest for outages",
-      "summary": "The storm came ashore near Destin late Friday as a Category 2 with 105 mph winds and weakened over Alabama, and the Hurricane Center ended advisories early Saturday. About 127,000 customers in Escambia County were without power, roughly 73 percent of those tracked, the most of any Florida county.",
-      "source": "CBS12 News",
-      "url": "https://cbs12.com/news/local/governor-ron-desantis-to-address-hurricane-isaias-damage-recovery-as-panhandle-wakes-to-outages-flooding-landfall-"
-    },
-    {
-      "title": "ECUA issues systemwide boil-water notice",
-      "summary": "Emerald Coast Utilities Authority put a precautionary boil-water notice in place across its Escambia County system while crews check wells and other infrastructure. The report did not say when it will be lifted, so watch ECUA for updates.",
-      "source": "CBS12 News",
-      "url": "https://cbs12.com/news/local/governor-ron-desantis-to-address-hurricane-isaias-damage-recovery-as-panhandle-wakes-to-outages-flooding-landfall-"
-    },
-    {
-      "title": "Milton assesses heavy wind damage",
-      "summary": "WEAR reports winds above 100 mph in Milton, leaving streets littered with downed trees, debris and loose power lines. Some displaced families went to the community center, and Santa Rosa County set a dusk-to-dawn curfew for Saturday night. A headline on the page also notes two deaths in Escambia County.",
+      "title": "FPL expects most Escambia power back by Tuesday",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/milton-residents-survey-widespread-damage-after-hurricane-isaias-brings-100-mph-winds"
+      "url": "https://weartv.com/news/local/fpl-expects-to-have-70-power-restored-in-escambia-and-santa-rosa-by-end-of-monday",
+      "summary": "FPL said Monday that about 70 percent of Escambia and Santa Rosa customers should have power by the end of that day and the rest by the end of Tuesday, Oct 13. Over 300,000 customers across Northwest Florida had been restored, with roughly 17,000 line workers from 29 states on the job."
     },
     {
-      "title": "Calmer weather ahead, but river flooding is a concern",
-      "summary": "FOX10 expects sun and highs near 80 on Sunday and says rivers can keep rising after the rain stops. A flood warning was in effect, and officials asked people to avoid unnecessary travel and follow curfews. Another FOX10 headline says rain chances stay near zero much of this week.",
+      "title": "Escambia recovery update: boil-water notice, closures and debris pickup",
+      "source": "Local Pulse",
+      "url": "https://localpulse.com/2026/10/escambia-county-hurricane-isaias-update-9/",
+      "summary": "ECUA's boil-water notice remained countywide Monday, and Pensacola Beach has its own notice. Escambia public schools, Pensacola State and UWF are closed Tuesday, Oct 13. County storm debris collection is targeted to start Oct 14, and residents are asked to stay out of parks until cleared."
+    },
+    {
+      "title": "City of Pensacola reports power returning and meal sites open",
+      "source": "WEAR",
+      "url": "https://weartv.com/news/local/city-of-pensacola-power-restored-to-50000-homes-as-recovery-efforts-continue",
+      "summary": "The city said FPL had restored power to 50,000 customers countywide by Sunday morning, with more coming online. The airport is open but flights are returning to normal slowly, and the Salvation Army is serving free meals at four sites."
+    },
+    {
+      "title": "Parks and community centers closed after Isaias",
       "source": "FOX10 News",
-      "url": "https://www.fox10tv.com/2026/10/08/hurricane-isaias-strengthening-gulf-coast-impacts-expected-friday-into-saturday/"
+      "url": "https://www.fox10tv.com/2026/10/11/isaias-escambia-county-fla-distribute-water-tarps-sunday/",
+      "summary": "City of Pensacola parks stay closed until inspected, and community centers canceled programs for Monday. Gull Point Resource Center and Park took major damage, and Osceola Golf Course will be closed for several days."
+    },
+    {
+      "title": "Isaias leaves 2 dead after Category 2 landfall near Destin",
+      "source": "FOX10 News",
+      "url": "https://www.fox10tv.com/2026/10/10/isaias-leaves-2-dead-widespread-outages-after-category-2-landfall-near-destin/",
+      "summary": "Per the headline, the storm killed two people and caused widespread outages. Landfall came late Friday, Oct 9, near Destin."
+    },
+    {
+      "title": "Isaias cancels and postpones Pensacola-area games",
+      "source": "Pensacola News Journal",
+      "url": "https://sports.yahoo.com/articles/isaias-forces-cancellations-postponements-pensacola-203901665.html",
+      "summary": "A Florida State vs Auburn baseball exhibition at Blue Wahoos Stadium and a Florida State vs Mississippi State basketball exhibition at the Bay Center were canceled. Several high school football and volleyball games were also called off or postponed."
     },
     {
       "title": "Festa Italiana moves to mid-November",
-      "summary": "The downtown festival planned for Oct 9 and 10 is now set for Nov 13 and 14 from 11 AM to 6 PM at Fountain Park. Admission stays free, and organizers cited safety for volunteers, vendors and guests.",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/festa-italiana-in-downtown-pensacola-rescheduled-to-mid-november-due-to-isaias"
-    },
-    {
-      "title": "City and county closures covered the storm weekend",
-      "summary": "County offices were closed Thursday afternoon and Friday, and the City of Pensacola canceled rentals and event permits through Sunday, Oct 11. Pensacola State College closed Friday and Saturday, and UWF suspended classes starting Thursday. No reopening dates had been posted in that report.",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/local/closures-for-escambia-county-city-of-pensacola-ecua-due-to-isaias"
+      "url": "https://weartv.com/news/local/festa-italiana-in-downtown-pensacola-rescheduled-to-mid-november-due-to-isaias",
+      "summary": "The downtown festival is now set for Nov 13 and 14 from 11 AM to 6 PM at Fountain Park, with free admission."
     }
   ],
   "sources": [
@@ -675,5 +655,5 @@
       "url": "https://forecast.weather.gov/"
     }
   ],
-  "coverage_note": "Written around 3 AM Sunday Oct 11, the day after Isaias, and most reporting found was from Saturday morning, so power, water, beach and event status may already have changed; confirm anything outdoors or on the beach with the organizer. The forecast comes from a WEAR page that showed weekday names without dates (read as Oct 11 to 15); FOX10 describes lower rain chances, and no forecast past Oct 15 was found. Must Do Pensacola, Local Pulse, the City of Pensacola news page, the Saenger and Ice Flyers sites, and NorthEscambia.com would not load or could not be searched usefully, so the weekly events list, Saenger shows, Ice Flyers and Blue Wahoos entries are carried over from earlier checks. Three events were added from Visit Pensacola's fall list (dates only). No post-storm word was found from organizers, and Gonzalez and north Escambia coverage remains thin, limited to county library classes already listed. Restaurant statuses are unchanged; Pelican Bar and Grill and Casa Luvia remain unconfirmed, and no new openings or closings were found this run. The Oct 17 Ali Siddiq show at the Saenger could not be rechecked."
+  "coverage_note": "Written overnight Tuesday Oct 13 from reports dated Oct 7 to 12, so power, water and closure status may already have changed. The forecast is the National Weather Service Pensacola 7-day forecast through Oct 19; it lists no precipitation chances and describes sunny or clear skies, so rain is shown as 0 and no day 8 was available. Must Do Pensacola's weekly list, NorthEscambia.com's events page, and the Saenger and Ice Flyers sites could not be opened, so most event details are carried over from earlier checks and from the PensacolaBeach.com October list, which has no storm notes. No organizer confirmed any event after the storm, and Gonzalez and north Escambia coverage remains thin, limited to library programs already listed. No new restaurant openings or closings were found; Pelican Bar and Grill, Casa Luvia and Launch remain unconfirmed. Visit Pensacola lists Taste of the Beach on earlier dates than Must Do Pensacola does, so check before going."
 }
