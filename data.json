@@ -1,61 +1,49 @@
 {
-  "generated": "2026-10-14T03:05:00-05:00",
-  "weekend_note": "Dry and cooler through the weekend: highs near 72 on Friday and Saturday with lows around 62, then a bit warmer Sunday. Rain chances were not listed for most days, with 20% showing only for Monday Oct 19. Isaias recovery continues: ECUA lifted its boil-water notice Tuesday for most of mainland Escambia, but Pensacola Beach was still under one with a lift expected by Wednesday, so confirm beach events before driving out. No organizer has confirmed post-storm status for most events. Picks: Blue Angels practice today, Gallery Night and Beach-O-Ween on Oct 16, Ice Flyers opening night in the Bay Center on Oct 17 (indoors) and Barktoberfest on Oct 18.",
+  "generated": "2026-10-15T02:55:51-05:00",
+  "weekend_note": "A cooler, dry weekend: highs near 71 to 73 Saturday and Sunday with lows in the mid to upper 50s, and only a 10% rain chance on Friday. Pensacola Beach's boil-water notice was lifted Wednesday, so Friday's Beach-O-Ween looks like a go, though organizers haven't posted post-storm confirmations. Picks: Gallery Night and Beach-O-Ween on Friday, Ice Flyers opening night (indoors at the Bay Center) and fall baseball at Blue Wahoos Stadium on Saturday, and Barktoberfest on Sunday. Escambia schools reopen Monday.",
   "weather": [
     {
-      "date": "2026-10-14",
-      "hi": 80,
-      "lo": 65,
-      "rain": 0
-    },
-    {
       "date": "2026-10-15",
-      "hi": 80,
-      "lo": 62,
+      "hi": 86,
+      "lo": 68,
       "rain": 0
     },
     {
       "date": "2026-10-16",
-      "hi": 72,
-      "lo": 62,
-      "rain": 0
+      "hi": 84,
+      "lo": 54,
+      "rain": 10
     },
     {
       "date": "2026-10-17",
-      "hi": 72,
-      "lo": 62,
+      "hi": 71,
+      "lo": 56,
       "rain": 0
     },
     {
       "date": "2026-10-18",
-      "hi": 75,
-      "lo": 66,
+      "hi": 73,
+      "lo": 58,
       "rain": 0
     },
     {
       "date": "2026-10-19",
-      "hi": 78,
-      "lo": 69,
-      "rain": 20
+      "hi": 77,
+      "lo": 59,
+      "rain": 0
     },
     {
       "date": "2026-10-20",
       "hi": 79,
-      "lo": 70,
-      "rain": 0
-    },
-    {
-      "date": "2026-10-21",
-      "hi": 80,
-      "lo": 69,
-      "rain": 0
+      "lo": 58,
+      "rain": 10
     }
   ],
   "picks": [
-    "angels",
     "ghoul",
     "beachoween",
     "flyers",
+    "wahoos2",
     "barkt"
   ],
   "weekly": [
@@ -119,13 +107,12 @@
       "area": "beaches",
       "section": "free",
       "free": true,
-      "note": "Free Tuesday concerts. Oct 20 The Oliver's Twist Band, Oct 27 Horseshoe Kitty. Pensacola Beach was still under a boil-water notice as of Oct 13, so confirm the show is on.",
+      "note": "Free Tuesday concerts. Oct 20 The Oliver's Twist Band, Oct 27 Horseshoe Kitty. Pensacola Beach's boil-water notice was lifted Oct 14; no organizer confirmation was found.",
       "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-october-2026"
     },
     {
       "id": "angels",
       "dates": [
-        "2026-10-14",
         "2026-10-20",
         "2026-10-28"
       ],
@@ -136,7 +123,7 @@
       "area": "elsewhere",
       "section": "entertainment",
       "src": "https://pensacolabeach.com/october-events-in-pensacola-2/",
-      "note": "Free viewing at the aviation museum. Oct 14 and 28 are autograph days. No post-storm word on base access was found, so check before driving out."
+      "note": "Free viewing at the aviation museum. Oct 28 is an autograph day. No post-storm word on base access was found, so check before driving out."
     },
     {
       "id": "beachoween",
@@ -148,7 +135,7 @@
       "area": "beaches",
       "section": "seasonal",
       "free": true,
-      "note": "Free family event on the boardwalk. Pets other than service animals are not allowed. Pensacola Beach's boil-water notice was expected to lift by Wednesday; confirm the event is on.",
+      "note": "Free family event on the boardwalk. Pets other than service animals are not allowed. ECUA lifted Pensacola Beach's boil-water notice Oct 14; no organizer confirmation of the event was found.",
       "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-october-2026"
     },
     {
@@ -176,8 +163,8 @@
       "place": "Blue Wahoos Stadium, downtown",
       "area": "downtown",
       "section": "entertainment",
-      "note": "Oct 17 Alabama vs Georgia Tech, Oct 24 Florida vs Troy.",
-      "src": "https://weartv.com/news/local/blue-wahoos-cancel-florida-state-auburn-fall-baseball-exhibition-due-to-isaias"
+      "note": "Fall exhibitions: Oct 17 Alabama vs Georgia Tech, Oct 24 Florida vs Troy. The Oct 10 Florida State vs Auburn game was canceled for the storm and not rescheduled. First-pitch times not listed.",
+      "src": "https://www.mlb.com/milb/pensacola/news/fsu-auburn-canceled"
     },
     {
       "id": "leather",
@@ -523,7 +510,7 @@
     {
       "name": "Pelican Bar and Grill",
       "status": "soon",
-      "when": "Targeted first week of October; no opening confirmation found as of Oct 14",
+      "when": "Targeted first week of October; no opening confirmation found as of Oct 15",
       "place": "1420 W Nine Mile Rd",
       "kind": "American",
       "note": "Steaks, seafood and casual fare with a full bar and arcade. Seats 120 to 150.",
@@ -532,7 +519,7 @@
     {
       "name": "Casa Luvia",
       "status": "soon",
-      "when": "Soft opening planned for October; no confirmation found as of Oct 14",
+      "when": "Soft opening planned for October; no confirmation found as of Oct 15",
       "place": "7748 N Davis Hwy",
       "kind": "Upscale Mexican",
       "note": "Handcrafted cocktails and plated dishes in a modern room.",
@@ -568,46 +555,40 @@
   ],
   "news": [
     {
-      "title": "FPL says more than 85% of power restored",
+      "title": "ECUA lifts boil-water notice for Pensacola Beach",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/florida-power-light-says-85-of-customers-power-is-restored-after-hurricane-isaias",
-      "summary": "As of Tuesday morning FPL reported over 85 percent of affected customers back on, with Escambia and Santa Rosa, the hardest hit, expected to be essentially done by the end of Tuesday. Damaged homes may need an electrician before they can safely take power."
+      "url": "https://weartv.com/news/local/ecua-lifts-boil-water-notice-for-pensacola-beach",
+      "summary": "ECUA ended the Pensacola Beach notice Wednesday morning, a day after lifting it for most of the mainland, Perdido Key included."
     },
     {
-      "title": "ECUA lifts boil-water notice for most of mainland Escambia",
+      "title": "Escambia County schools to stay closed until Monday",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/ecua-lifts-boil-water-notice-for-most-of-mainland-escambia-county",
-      "summary": "The notice was lifted Tuesday morning for most of the mainland, including Perdido Key. Pensacola Beach remained under it, with a lift expected by Wednesday, and a list of specific streets still needs to boil water until ECUA clears them."
+      "url": "https://weartv.com/news/local/escambia-county-schools-to-remain-closed-until-monday",
+      "summary": "The district and its offices stay closed the rest of this week while crews make repairs, with reopening planned for Monday Oct 19 barring surprises. Bus-route safety is still being checked."
     },
     {
-      "title": "Santa Rosa County schools to stay closed until Monday",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/local/santa-rosa-superintendent-says-desantis-doe-direct-florida-panhandle-schools-to-reopen",
-      "summary": "The Santa Rosa school board voted to keep schools closed until next Monday. The superintendent cited repairs, power and a shortage of bus drivers. Escambia reopening dates were not found in this run."
+      "title": "Some Panhandle schools reopen after Isaias",
+      "source": "WUWF",
+      "url": "https://www.wuwf.org/local-news/2026-10-14/some-panhandle-schools-to-reopen-after-isaias",
+      "summary": "Walton schools are back to normal and Okaloosa returns Thursday. Escambia and Santa Rosa aim for Monday Oct 19; UWF is closed through Thursday and Pensacola State resumes classes Monday."
     },
     {
       "title": "Several Santa Rosa schools too damaged to reopen",
       "source": "WEAR",
       "url": "https://weartv.com/news/local/we-are-all-hurting-several-santa-rosa-county-schools-too-damaged-to-reopen-after-isaias",
-      "summary": "Per the headline, about half a dozen Santa Rosa County schools sustained too much damage to reopen after the storm. Details were not read beyond the headline."
-    },
-    {
-      "title": "City of Pensacola recovery: meal sites, airport and debris rules",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/local/city-of-pensacola-power-restored-to-50000-homes-as-recovery-efforts-continue",
-      "summary": "The Salvation Army is serving free meals at four sites, including Pensacola Library and Carver Park in Cantonment. The airport is open with schedules recovering slowly, and the city says a contractor handles storm debris, which should be separated by type and not bagged."
+      "summary": "Per the headline, about half a dozen Santa Rosa County schools sustained too much damage to reopen. Details were not read beyond the headline."
     },
     {
       "title": "Bay Center's Southern Tip Off basketball game canceled",
       "source": "WEAR",
       "url": "https://weartv.com/news/local/southern-tip-off-at-pensacola-bay-center-cancelled-due-to-isaias",
-      "summary": "The Mississippi State vs Florida State game at the Pensacola Bay Center was canceled because of Isaias. Organizers are looking at rescheduling, and Ticketmaster buyers are being refunded automatically."
+      "summary": "The Mississippi State vs Florida State game at the Pensacola Bay Center was canceled because of Isaias; organizers are looking at rescheduling and Ticketmaster buyers are being refunded."
     },
     {
       "title": "Festa Italiana moves to mid-November",
       "source": "WEAR",
       "url": "https://weartv.com/news/local/festa-italiana-in-downtown-pensacola-rescheduled-to-mid-november-due-to-isaias",
-      "summary": "The downtown festival is now set for Nov 13 and 14 from 11 AM to 6 PM at Fountain Park, with free admission."
+      "summary": "The downtown festival is now Nov 13 and 14, 11 AM to 6 PM at Fountain Park, with free admission."
     }
   ],
   "sources": [
@@ -648,5 +629,5 @@
       "url": "https://forecast.weather.gov/"
     }
   ],
-  "coverage_note": "Written overnight Wednesday Oct 14. Fresh details came only from WEAR articles dated Oct 11 to 13; Local Pulse, NWS, NorthEscambia.com, Must Do Pensacola, the Saenger and Ice Flyers sites could not be opened, so event listings are carried over from earlier checks with no post-storm confirmation. The forecast is WeatherBug's Pensacola Beach 10-day outlook, which listed rain chances only for Oct 19 (20%); other days are shown as 0 but are really unlisted, and its temperatures differ from the earlier NWS numbers. No day-8 beyond Oct 21 shown. Gonzalez and north Escambia coverage remains thin (library programs only), no Escambia school reopening date was found, and no new restaurant openings or closings were confirmed; Pelican Bar and Grill, Casa Luvia and Launch stay unconfirmed. Visit Pensacola lists Taste of the Beach on earlier dates than Must Do Pensacola does, so check before going."
+  "coverage_note": "Written overnight Thursday Oct 15. Research was thin: NorthEscambia.com, Local Pulse, Must Do Pensacola, the Saenger and Ice Flyers pages could not be opened this run, so event listings are carried over from earlier checks (cross-checked against Visit Pensacola, PensacolaBeach.com and the Blue Wahoos page, which list no post-storm changes) and most have no organizer confirmation after the storm. The forecast is WEAR's 7-day page, which lists weekdays without dates; I assumed its first row is Oct 15, and it ends Oct 20, so there is no 8th day. News is from WEAR and WUWF articles dated Oct 13 to 14; no new restaurant openings, closings or north Escambia/Gonzalez events were confirmed, and Pelican Bar and Grill, Casa Luvia and Launch remain unconfirmed."
 }
