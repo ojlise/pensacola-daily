@@ -1,47 +1,53 @@
 {
-  "generated": "2026-10-15T02:55:51-05:00",
-  "weekend_note": "A cooler, dry weekend: highs near 71 to 73 Saturday and Sunday with lows in the mid to upper 50s, and only a 10% rain chance on Friday. Pensacola Beach's boil-water notice was lifted Wednesday, so Friday's Beach-O-Ween looks like a go, though organizers haven't posted post-storm confirmations. Picks: Gallery Night and Beach-O-Ween on Friday, Ice Flyers opening night (indoors at the Bay Center) and fall baseball at Blue Wahoos Stadium on Saturday, and Barktoberfest on Sunday. Escambia schools reopen Monday.",
+  "generated": "2026-10-16T03:01:17-05:00",
+  "weekend_note": "Cooler and drier for the weekend: highs around 71 Saturday and 70 Sunday, lows near 60, with a slight chance of showers (20%) only today. NWS has a Wind Advisory from 10 PM Friday to 7 PM Saturday, so expect gusty conditions on the beaches and bridges early Saturday. Picks: Gallery Night downtown tonight, UWF football (1 PM Saturday) and Ice Flyers opening night (indoors at the Bay Center) on Saturday, fall baseball on Saturday, and Barktoberfest on Sunday. Escambia schools reopen Monday.",
   "weather": [
     {
-      "date": "2026-10-15",
-      "hi": 86,
-      "lo": 68,
-      "rain": 0
-    },
-    {
       "date": "2026-10-16",
-      "hi": 84,
-      "lo": 54,
-      "rain": 10
+      "hi": 81,
+      "lo": 61,
+      "rain": 20
     },
     {
       "date": "2026-10-17",
       "hi": 71,
-      "lo": 56,
-      "rain": 0
-    },
-    {
-      "date": "2026-10-18",
-      "hi": 73,
-      "lo": 58,
-      "rain": 0
-    },
-    {
-      "date": "2026-10-19",
-      "hi": 77,
       "lo": 59,
       "rain": 0
     },
     {
+      "date": "2026-10-18",
+      "hi": 70,
+      "lo": 60,
+      "rain": 0
+    },
+    {
+      "date": "2026-10-19",
+      "hi": 74,
+      "lo": 62,
+      "rain": 0
+    },
+    {
       "date": "2026-10-20",
-      "hi": 79,
-      "lo": 58,
-      "rain": 10
+      "hi": 76,
+      "lo": 64,
+      "rain": 0
+    },
+    {
+      "date": "2026-10-21",
+      "hi": 77,
+      "lo": 65,
+      "rain": 0
+    },
+    {
+      "date": "2026-10-22",
+      "hi": 77,
+      "lo": 65,
+      "rain": 0
     }
   ],
   "picks": [
     "ghoul",
-    "beachoween",
+    "uwf-fb",
     "flyers",
     "wahoos2",
     "barkt"
@@ -179,6 +185,18 @@
       "src": "https://www.northescambia.com/events"
     },
     {
+      "id": "uwf-fb",
+      "date": "2026-10-17",
+      "title": "UWF football vs West Alabama",
+      "time": "1 PM (moved)",
+      "t": "13:00",
+      "place": "UWF campus, Pensacola",
+      "area": "elsewhere",
+      "section": "entertainment",
+      "note": "Kickoff moved to 1 PM; gates open at noon. Online tickets only (no walk-up sales) and no tailgating. Enter via University Parkway. UWF volleyball is also home Fri Oct 16 at 6 PM vs Bellarmine and Sun Oct 18 at 1 PM vs Lipscomb.",
+      "src": "https://localpulse.com/2026/10/uwf-athletics-announces-weekend-football-and-volleyball-schedule-updates/"
+    },
+    {
       "id": "flyers",
       "dates": [
         "2026-10-17",
@@ -231,8 +249,8 @@
       "place": "Pensacola Interstate Fairgrounds, 6655 W Mobile Hwy",
       "area": "elsewhere",
       "section": "seasonal",
-      "note": "50+ rides, exhibits, fair food and daily shows. Oct 22 is Dollar Day: $1 admission (ages 4+) and $1 midway rides. Concerts on the Pepsi stage are free with admission. Call (850) 944-4500 for hours.",
-      "src": "https://weartv.com/news/local/pensacola-interstate-fair-unveils-2026-entertainment-lineup-and-schedule"
+      "note": "Dates confirmed on the fair's site (Oct 22 to Nov 1); hours and prices were not posted yet and no storm notice was listed. Earlier reports list 50+ rides, exhibits and free concerts with admission, with Oct 22 as Dollar Day. Call (850) 944-4500 for hours.",
+      "src": "https://pensacolafair.com/general-fair-information/"
     },
     {
       "id": "tastegb",
@@ -510,7 +528,7 @@
     {
       "name": "Pelican Bar and Grill",
       "status": "soon",
-      "when": "Targeted first week of October; no opening confirmation found as of Oct 15",
+      "when": "Targeted first week of October; no opening confirmation found as of Oct 16",
       "place": "1420 W Nine Mile Rd",
       "kind": "American",
       "note": "Steaks, seafood and casual fare with a full bar and arcade. Seats 120 to 150.",
@@ -519,7 +537,7 @@
     {
       "name": "Casa Luvia",
       "status": "soon",
-      "when": "Soft opening planned for October; no confirmation found as of Oct 15",
+      "when": "Soft opening planned for October; no confirmation found as of Oct 16",
       "place": "7748 N Davis Hwy",
       "kind": "Upscale Mexican",
       "note": "Handcrafted cocktails and plated dishes in a modern room.",
@@ -555,40 +573,46 @@
   ],
   "news": [
     {
+      "title": "Escambia County debris pickup under way, expected to take months",
+      "source": "WEAR",
+      "url": "https://weartv.com/news/local/escambia-county-expects-up-to-4-month-debris-cleanup-with-multiple-rounds-planned",
+      "summary": "Crews began collecting storm vegetation early this week, working the north and south halves of the county. Officials expect three to four months of cleanup with several rounds, and warn against paying unlicensed yard workers."
+    },
+    {
+      "title": "Escambia estimates $64 million in public damage from Isaias",
+      "source": "WEAR",
+      "url": "https://weartv.com/news/local/escambia-county-estimates-64-million-in-public-damage-from-hurricane-isaias",
+      "summary": "The county's first assessment covers public facilities and operations, mostly debris removal, and leaves out private property. Residents with damage are asked to file a Citizen Damage Report with photos."
+    },
+    {
+      "title": "UWF games go on this weekend with changes",
+      "source": "Local Pulse",
+      "url": "https://localpulse.com/2026/10/uwf-athletics-announces-weekend-football-and-volleyball-schedule-updates/",
+      "summary": "Saturday's football game moves to a 1 PM kickoff with online tickets only and no tailgating. Volleyball is home Friday and Sunday. Campus debris work continues and the east entrance stays closed."
+    },
+    {
       "title": "ECUA lifts boil-water notice for Pensacola Beach",
       "source": "WEAR",
       "url": "https://weartv.com/news/local/ecua-lifts-boil-water-notice-for-pensacola-beach",
-      "summary": "ECUA ended the Pensacola Beach notice Wednesday morning, a day after lifting it for most of the mainland, Perdido Key included."
+      "summary": "ECUA ended the Pensacola Beach notice Wednesday, a day after lifting it for most of the mainland, Perdido Key included."
     },
     {
       "title": "Escambia County schools to stay closed until Monday",
       "source": "WEAR",
       "url": "https://weartv.com/news/local/escambia-county-schools-to-remain-closed-until-monday",
-      "summary": "The district and its offices stay closed the rest of this week while crews make repairs, with reopening planned for Monday Oct 19 barring surprises. Bus-route safety is still being checked."
+      "summary": "The district stays closed the rest of this week for repairs, with reopening planned for Monday Oct 19."
     },
     {
-      "title": "Some Panhandle schools reopen after Isaias",
-      "source": "WUWF",
-      "url": "https://www.wuwf.org/local-news/2026-10-14/some-panhandle-schools-to-reopen-after-isaias",
-      "summary": "Walton schools are back to normal and Okaloosa returns Thursday. Escambia and Santa Rosa aim for Monday Oct 19; UWF is closed through Thursday and Pensacola State resumes classes Monday."
-    },
-    {
-      "title": "Several Santa Rosa schools too damaged to reopen",
+      "title": "Cleanup continues as debris, blocked roads and hazards linger",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/we-are-all-hurting-several-santa-rosa-county-schools-too-damaged-to-reopen-after-isaias",
-      "summary": "Per the headline, about half a dozen Santa Rosa County schools sustained too much damage to reopen. Details were not read beyond the headline."
+      "url": "https://weartv.com/news/local/escambia-county-cleanup-continues-after-isaias-as-debris-blocked-roads-and-hazards-linger",
+      "summary": "As of Monday night about 46,000 county customers were still without power. Regular trash routes had resumed, and officials asked for patience on debris questions."
     },
     {
       "title": "Bay Center's Southern Tip Off basketball game canceled",
       "source": "WEAR",
       "url": "https://weartv.com/news/local/southern-tip-off-at-pensacola-bay-center-cancelled-due-to-isaias",
-      "summary": "The Mississippi State vs Florida State game at the Pensacola Bay Center was canceled because of Isaias; organizers are looking at rescheduling and Ticketmaster buyers are being refunded."
-    },
-    {
-      "title": "Festa Italiana moves to mid-November",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/local/festa-italiana-in-downtown-pensacola-rescheduled-to-mid-november-due-to-isaias",
-      "summary": "The downtown festival is now Nov 13 and 14, 11 AM to 6 PM at Fountain Park, with free admission."
+      "summary": "The Mississippi State vs Florida State game was canceled because of Isaias; organizers are looking at rescheduling and Ticketmaster buyers are being refunded."
     }
   ],
   "sources": [
@@ -629,5 +653,5 @@
       "url": "https://forecast.weather.gov/"
     }
   ],
-  "coverage_note": "Written overnight Thursday Oct 15. Research was thin: NorthEscambia.com, Local Pulse, Must Do Pensacola, the Saenger and Ice Flyers pages could not be opened this run, so event listings are carried over from earlier checks (cross-checked against Visit Pensacola, PensacolaBeach.com and the Blue Wahoos page, which list no post-storm changes) and most have no organizer confirmation after the storm. The forecast is WEAR's 7-day page, which lists weekdays without dates; I assumed its first row is Oct 15, and it ends Oct 20, so there is no 8th day. News is from WEAR and WUWF articles dated Oct 13 to 14; no new restaurant openings, closings or north Escambia/Gonzalez events were confirmed, and Pelican Bar and Grill, Casa Luvia and Launch remain unconfirmed."
+  "coverage_note": "Written overnight Friday Oct 16. Coverage was thin: WebFetch could open only pages that surfaced in searches, and NorthEscambia.com blocked fetching, so no Gonzalez, Molino, Beulah or Cantonment events were added (its search titles only showed storm relief sites). The forecast is the NWS point forecast for the Gulf Breeze area issued 1:21 AM Oct 16; it lists only today's rain chance (20%), so other days show 0 meaning no rain was mentioned, and it runs 7 days (no 8th). News is from WEAR and Local Pulse articles dated Oct 12 to 15. Most event listings are carried over from earlier checks and lack organizer confirmation after the storm; no new restaurant openings or closings were confirmed, and Pelican Bar and Grill, Casa Luvia and Launch remain unconfirmed. Saenger, Ice Flyers and Blue Wahoos pages were not rechecked."
 }
