@@ -1,63 +1,63 @@
 {
-  "generated": "2026-10-24T03:00:07-05:00",
-  "weekend_note": "Dry and pleasant: Saturday is 77 with about a 1 percent rain chance, Sunday 78 and 3 percent, and nothing wet in sight through Halloween weekend. Picks: free SevilleStock/Hippie Fest and the Glass & Ceramic Pumpkin Patch sale Saturday, Boo at the Zoo both days, Hunter Hayes at the fair Saturday night, the Ice Flyers (indoors) Saturday at 7:05, and the Temptations Revue Sunday. Storm recovery from Isaias is ongoing, so double-check smaller events before heading out.",
+  "generated": "2026-10-25T02:56:00-05:00",
+  "weekend_note": "Dry and mild through Friday (highs near 80, rain chance 7 percent or less), then showers become possible Halloween weekend: about 25 percent Saturday and Sunday, rising to roughly 50 percent early next week. Picks: the Temptations Revue at the fair tonight, free Bands on the Beach Tuesday, Blue Angels practice Wednesday morning, the Palafox Halloween Market and Taste of the Beach on Saturday, and Boo at the Zoo. Ice Flyers games on Oct 30 and Nov 1 are indoors if the weekend turns wet. Storm recovery from Isaias is ongoing, so double-check smaller events.",
   "weather": [
     {
-      "date": "2026-10-24",
-      "hi": 77,
-      "lo": 56,
-      "rain": 1
-    },
-    {
       "date": "2026-10-25",
-      "hi": 78,
-      "lo": 59,
-      "rain": 3
+      "hi": 79,
+      "lo": 57,
+      "rain": 1
     },
     {
       "date": "2026-10-26",
       "hi": 78,
-      "lo": 60,
-      "rain": 4
+      "lo": 54,
+      "rain": 1
     },
     {
       "date": "2026-10-27",
-      "hi": 78,
-      "lo": 58,
-      "rain": 3
+      "hi": 79,
+      "lo": 57,
+      "rain": 2
     },
     {
       "date": "2026-10-28",
       "hi": 78,
-      "lo": 60,
-      "rain": 2
+      "lo": 58,
+      "rain": 4
     },
     {
       "date": "2026-10-29",
       "hi": 80,
-      "lo": 60,
-      "rain": 4
+      "lo": 65,
+      "rain": 7
     },
     {
       "date": "2026-10-30",
-      "hi": 80,
-      "lo": 61,
-      "rain": 5
+      "hi": 81,
+      "lo": 65,
+      "rain": 7
     },
     {
       "date": "2026-10-31",
+      "hi": 80,
+      "lo": 65,
+      "rain": 25
+    },
+    {
+      "date": "2026-11-01",
       "hi": 79,
       "lo": 66,
-      "rain": 10
+      "rain": 25
     }
   ],
   "picks": [
-    "seville",
-    "pumpkin",
-    "boo",
-    "fair-hunter",
-    "flyers",
-    "fair-temps"
+    "fair-temps",
+    "bands",
+    "angels",
+    "halloween-mkt",
+    "taste",
+    "boo"
   ],
   "weekly": [
     {
@@ -103,21 +103,8 @@
       "src": "https://weartv.com/newsletter-daily/families-attend-91st-pensacola-interstate-fair-for-fun-away-from-isaias-aftermath"
     },
     {
-      "id": "trunk-bubbas",
-      "date": "2026-10-24",
-      "title": "Trunk or Treat at Bubba's 33",
-      "time": "9:30 AM",
-      "t": "09:30",
-      "place": "7001 N. Davis Hwy",
-      "area": "elsewhere",
-      "section": "seasonal",
-      "note": "Morning trunk-or-treat listed on the Allevents Pensacola page.",
-      "src": "https://allevents.in/pensacola/trunk-or-treat"
-    },
-    {
       "id": "boo",
       "dates": [
-        "2026-10-24",
         "2026-10-25",
         "2026-10-31",
         "2026-11-01"
@@ -130,139 +117,6 @@
       "section": "seasonal",
       "note": "Rescheduled after Isaias canceled the first two weekends. Trick-or-treating, costumes and animal encounters.",
       "src": "https://localpulse.com/2026/10/local-pulse-weekend-top-10-61/"
-    },
-    {
-      "id": "seville",
-      "date": "2026-10-24",
-      "title": "SevilleStock / Pensacola Hippie Fest",
-      "time": "10 AM to 6 PM",
-      "t": "10:00",
-      "place": "Seville Square and Fountain Park, 331 E Government St",
-      "area": "downtown",
-      "section": "free",
-      "free": true,
-      "note": "Free street fair with live music, vendors and family activities; listed rain or shine, with a hippie costume contest at 2 PM. Local Pulse treats the Hippie Fest as the same Saturday event.",
-      "src": "https://localpulse.com/2026/10/local-pulse-weekend-top-10-61/"
-    },
-    {
-      "id": "wahoos2",
-      "title": "Fall baseball at Blue Wahoos Stadium",
-      "time": "First pitch to be announced",
-      "t": "13:00",
-      "place": "Blue Wahoos Stadium, downtown",
-      "area": "downtown",
-      "section": "entertainment",
-      "note": "Fall exhibition Oct 24: Florida vs Troy, 351 W Cedar St. Visit Pensacola lists the first pitch as to be determined; call the Wahoos at (850) 341-2949 for tickets.",
-      "src": "https://www.visitpensacola.com/events/fall-college-baseball-florida-vs-troy/",
-      "date": "2026-10-24"
-    },
-    {
-      "id": "youth-hw",
-      "date": "2026-10-24",
-      "title": "Youth Halloween Party",
-      "time": "4 to 7 PM",
-      "t": "16:00",
-      "place": "Barrineau Park Community Center",
-      "area": "elsewhere",
-      "section": "seasonal",
-      "note": "Kids' Halloween party; See event page for details.",
-      "src": "https://allevents.in/cantonment"
-    },
-    {
-      "id": "trunk-dogs",
-      "date": "2026-10-24",
-      "title": "Dog Trunk or Treat and adoption event",
-      "time": "4 to 6:30 PM",
-      "t": "16:00",
-      "place": "Zoomies Hotel & Daycare, 7253 Plantation Rd",
-      "area": "elsewhere",
-      "section": "seasonal",
-      "note": "Costumes for pups plus adoptable animals, per the listing.",
-      "src": "https://allevents.in/pensacola/trunk-or-treat"
-    },
-    {
-      "id": "homestead",
-      "title": "Halloween on the Homestead",
-      "time": "Fri 5 to 8:30 PM, Sat 12 to 6 PM",
-      "t": "17:00",
-      "place": "Cantonment, near Grocery Advantage",
-      "area": "elsewhere",
-      "section": "seasonal",
-      "note": "Halloween event in Cantonment. Prices and activities not listed.",
-      "src": "https://allevents.in/cantonment",
-      "date": "2026-10-24"
-    },
-    {
-      "id": "pumpkin",
-      "title": "Glass & Ceramic Pumpkin Patch (20th year)",
-      "time": "Fri preview party 5 to 8 PM; Sat sale 10 AM to 2 PM",
-      "t": "17:00",
-      "place": "First City Art Center, 1060 N Guillemard St",
-      "area": "downtown",
-      "section": "seasonal",
-      "note": "Rescheduled after the storm, with original tickets transferring. Pumpkins start at $20; Saturday's sale is free to attend.",
-      "src": "https://localpulse.com/2026/10/local-pulse-weekend-top-10-61/",
-      "date": "2026-10-24"
-    },
-    {
-      "id": "trunk-gonz",
-      "date": "2026-10-24",
-      "title": "Trunk or Treat at Gonzalez Methodist Church",
-      "time": "5:30 to 7:30 PM",
-      "t": "17:30",
-      "place": "2026 Pauline St",
-      "area": "elsewhere",
-      "section": "seasonal",
-      "note": "Church trunk-or-treat.",
-      "src": "https://allevents.in/cantonment"
-    },
-    {
-      "id": "rocky",
-      "dates": [
-        "2026-10-24",
-        "2026-10-29",
-        "2026-10-30"
-      ],
-      "title": "Rocky Homicide Murder Mystery Dinner Theatre",
-      "time": "Doors 6 PM (Oct 24); 6 to 10 PM on other dates",
-      "t": "18:00",
-      "place": "Seville Quarter, Downtown Pensacola",
-      "area": "downtown",
-      "section": "entertainment",
-      "note": "Dinner theater at Seville Quarter on Oct 23, 24, 29 and 30; ticket prices not listed.",
-      "src": "https://localpulse.com/2026/10/local-pulse-weekend-top-10-61/"
-    },
-    {
-      "id": "flyers",
-      "dates": [
-        "2026-10-24",
-        "2026-10-30",
-        "2026-11-01",
-        "2026-11-13",
-        "2026-11-14",
-        "2026-11-25",
-        "2026-11-28",
-        "2026-12-05"
-      ],
-      "title": "Pensacola Ice Flyers home games",
-      "time": "7:05 PM (Nov 1 is 4:05 PM)",
-      "t": "19:05",
-      "place": "Pensacola Bay Center",
-      "area": "downtown",
-      "section": "entertainment",
-      "src": "https://localpulse.com/2026/10/local-pulse-weekend-top-10-61/",
-      "note": "Oct 24 is vs. the Huntsville Havoc with Small Dog Race Night; later dates carried over, so confirm on the team site."
-    },
-    {
-      "id": "fair-hunter",
-      "date": "2026-10-24",
-      "title": "Hunter Hayes at the fair",
-      "time": "7:30 PM",
-      "t": "19:30",
-      "place": "Pepsi Open-Air Stage, Interstate Fairgrounds",
-      "area": "elsewhere",
-      "section": "entertainment",
-      "src": "https://localpulse.com/2026/08/pensacola-interstate-fair-unveils-star-studded-2026-entertainment-lineup-and-schedule/"
     },
     {
       "id": "gamedays",
@@ -458,6 +312,21 @@
       "src": "https://localpulse.com/2026/08/pensacola-interstate-fair-unveils-star-studded-2026-entertainment-lineup-and-schedule/"
     },
     {
+      "id": "rocky",
+      "dates": [
+        "2026-10-29",
+        "2026-10-30"
+      ],
+      "title": "Rocky Homicide Murder Mystery Dinner Theatre",
+      "time": "6 to 10 PM",
+      "t": "18:00",
+      "place": "Seville Quarter, Downtown Pensacola",
+      "area": "downtown",
+      "section": "entertainment",
+      "note": "Dinner theater at Seville Quarter on Oct 23, 24, 29 and 30; ticket prices not listed.",
+      "src": "https://localpulse.com/2026/10/local-pulse-weekend-top-10-61/"
+    },
+    {
       "id": "lightspill",
       "date": "2026-10-29",
       "end": "2026-11-09",
@@ -471,6 +340,38 @@
       "src": "https://downtownpensacola.com/events"
     },
     {
+      "id": "flashlight",
+      "date": "2026-10-30",
+      "title": "Sweet Season Farms Flashlight Maze",
+      "time": "Nighttime; see event page",
+      "t": "19:00",
+      "place": "Sweet Season Farms, Milton",
+      "area": "elsewhere",
+      "section": "seasonal",
+      "note": "After-dark version of the farm maze. Start time not listed in the source.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-october-2026"
+    },
+    {
+      "id": "flyers",
+      "dates": [
+        "2026-10-30",
+        "2026-11-01",
+        "2026-11-13",
+        "2026-11-14",
+        "2026-11-25",
+        "2026-11-28",
+        "2026-12-05"
+      ],
+      "title": "Pensacola Ice Flyers home games",
+      "time": "7:05 PM (Nov 1 is 4:05 PM)",
+      "t": "19:05",
+      "place": "Pensacola Bay Center",
+      "area": "downtown",
+      "section": "entertainment",
+      "src": "https://localpulse.com/2026/10/local-pulse-weekend-top-10-61/",
+      "note": "Oct 24 is vs. the Huntsville Havoc with Small Dog Race Night; later dates carried over, so confirm on the team site."
+    },
+    {
       "id": "fair-colt",
       "date": "2026-10-30",
       "title": "Colt Ford at the fair",
@@ -480,7 +381,7 @@
       "area": "elsewhere",
       "section": "entertainment",
       "src": "https://localpulse.com/2026/08/pensacola-interstate-fair-unveils-star-studded-2026-entertainment-lineup-and-schedule/",
-      "note": "Fair lineup lists Colt Ford; one local calendar names LOCASH, so check PensacolaFair.com."
+      "note": "WEAR lists Colt Ford for Oct 30; Must Do Pensacola lists LOCASH. Check the fair site. Free with fair admission."
     },
     {
       "id": "elks5k",
@@ -503,8 +404,8 @@
       "place": "MLK Jr. Plaza and Plaza Ferdinand",
       "area": "downtown",
       "section": "seasonal",
-      "note": "Trick-or-treating, haunted trolley and live animals. Free admission; mini train rides cost extra.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-october-2026",
+      "note": "Free costume trick-or-treating with market vendors, a live-animal show, a free haunted trolley between the two parks, kids zone and bluegrass music. Mini train rides cost extra.",
+      "src": "https://www.visitpensacola.com/events/palafox-market-s-halloween-market/",
       "free": true
     },
     {
@@ -580,6 +481,19 @@
       "src": "https://www.visitpensacola.com/seasonal-fun-in-pensacola/fall/"
     },
     {
+      "id": "firstcity",
+      "date": "2026-11-05",
+      "end": "2026-12-31",
+      "title": "First City Lights Festival",
+      "time": "Lights on Palafox; see event page",
+      "t": "17:00",
+      "place": "Palafox Street, downtown",
+      "area": "downtown",
+      "section": "seasonal",
+      "note": "Holiday lights along Palafox; Visit Pensacola says festivities start Nov 5.",
+      "src": "https://www.visitpensacola.com/events/signature-events/"
+    },
+    {
       "id": "airshow",
       "date": "2026-11-06",
       "end": "2026-11-07",
@@ -616,6 +530,19 @@
       "section": "seasonal",
       "note": "Church festival, dates per Visit Pensacola; hours and prices not listed there.",
       "src": "https://www.visitpensacola.com/seasonal-fun-in-pensacola/fall/"
+    },
+    {
+      "id": "sectsoccer",
+      "date": "2026-11-08",
+      "end": "2026-11-15",
+      "title": "SEC Soccer Tournament",
+      "time": "See event page",
+      "t": "09:00",
+      "place": "Ashton Brosnaham Soccer Complex",
+      "area": "elsewhere",
+      "section": "entertainment",
+      "note": "Conference tournament week at the county soccer complex.",
+      "src": "https://www.visitpensacola.com/events/signature-events/"
     },
     {
       "id": "festa",
@@ -707,6 +634,67 @@
       "src": "https://localpulse.com/2026/10/opera-after-dark-lights-up-museum-plaza-this-friday/"
     },
     {
+      "id": "derek",
+      "date": "2026-11-20",
+      "title": "Derek Hough at the Saenger",
+      "time": "8 PM",
+      "t": "20:00",
+      "place": "Saenger Theatre, downtown",
+      "area": "downtown",
+      "section": "entertainment",
+      "note": "Dancer and performer on tour. Tickets via resale listing; check the Saenger for official sales.",
+      "src": "https://www.tickpick.com/buy-derek-hough-tickets-saenger-theatre-fl-11-20-26-8pm/8150924/"
+    },
+    {
+      "id": "floraturkey",
+      "date": "2026-11-26",
+      "title": "Flora-Bama Thanksgiving Potluck",
+      "time": "Doors 9 AM, lunch 11 AM",
+      "t": "09:00",
+      "place": "Flora-Bama, Perdido Key",
+      "area": "beaches",
+      "section": "seasonal",
+      "note": "Bring a covered dish to share.",
+      "src": "https://www.beachguide.com/perdido-key/events"
+    },
+    {
+      "id": "winterfest",
+      "date": "2026-11-27",
+      "title": "Winterfest opening night and Elf Parade",
+      "time": "Parade 2 PM; tours from 5:30 PM",
+      "t": "14:00",
+      "place": "Downtown Pensacola",
+      "area": "downtown",
+      "section": "seasonal",
+      "note": "Tours and holiday programming continue select nights through Christmas Eve.",
+      "src": "https://pensacolawinterfest.org/2026-winterfest-calendar"
+    },
+    {
+      "id": "xmascarol",
+      "date": "2026-11-30",
+      "title": "A Christmas Carol at the Saenger",
+      "time": "7:30 PM",
+      "t": "19:30",
+      "place": "Saenger Theatre, downtown",
+      "area": "downtown",
+      "section": "entertainment",
+      "note": "Touring stage production. Listing is from a resale site.",
+      "src": "https://www.tickpick.com/buy-a-christmas-carol-tickets-saenger-theatre-fl-11-30-26-7pm/8110438/"
+    },
+    {
+      "id": "derby",
+      "date": "2026-12-03",
+      "end": "2026-12-06",
+      "title": "Snowball Derby",
+      "time": "See event page",
+      "t": "12:00",
+      "place": "Five Flags Speedway",
+      "area": "elsewhere",
+      "section": "entertainment",
+      "note": "Major short-track racing week.",
+      "src": "https://www.visitpensacola.com/events/signature-events/"
+    },
+    {
       "id": "santadrop",
       "date": "2026-12-05",
       "title": "Flora-Bama Santa Drop",
@@ -750,7 +738,7 @@
     {
       "name": "Pelican Bar and Grill",
       "status": "soon",
-      "when": "Targeted first week of October; still no opening confirmation found as of Oct 24",
+      "when": "Was targeted for early October; still no opening confirmation found as of Oct 25",
       "place": "1420 W Nine Mile Rd",
       "kind": "American",
       "note": "Steaks, seafood and casual fare with a full bar and arcade. Seats 120 to 150.",
@@ -759,7 +747,7 @@
     {
       "name": "Casa Luvia",
       "status": "soon",
-      "when": "Soft opening planned for October, grand opening about a month later; no confirmation found as of Oct 24",
+      "when": "Soft opening was planned for October; no confirmation found as of Oct 25",
       "place": "7748 N Davis Hwy",
       "kind": "Upscale Mexican",
       "note": "Handcrafted cocktails and plated dishes in a modern room.",
@@ -777,7 +765,7 @@
     {
       "name": "Dill Dinkers Indoor Pickleball",
       "status": "soon",
-      "when": "Listed as early fall 2026; still no exact date found",
+      "when": "Listed as early fall 2026; no exact date found as of Oct 25",
       "place": "330 Gulf Breeze Pkwy, Gulf Breeze",
       "kind": "Pickleball",
       "note": "Four climate-controlled courts, a pro shop and event space.",
@@ -791,50 +779,74 @@
       "kind": "Game and hobby store",
       "note": "Veteran-owned shop for trading cards, Warhammer and collectibles, with tournaments.",
       "src": "https://www.mustdopensacola.com/news/new-businesses-opening-pensacola-fall-2026"
+    },
+    {
+      "name": "Peg Leg Pete's, The Dock and other Pensacola Beach spots",
+      "status": "open",
+      "when": "Reopened after Isaias",
+      "place": "Pensacola Beach",
+      "kind": "Beach restaurants and shops",
+      "note": "Most core beach businesses are back open and power and water are mostly restored, per an Oct 19 report.",
+      "src": "https://www.yahoo.com/news/weather-news/articles/isaias-pensacola-beach-getting-back-090443021.html"
+    },
+    {
+      "name": "Scenic 90 and Craft",
+      "status": "closed",
+      "when": "Temporarily closed after Isaias as of mid-October; reopening date not found",
+      "place": "Scenic Highway",
+      "kind": "Restaurants",
+      "note": "Georgio's Pizza and The Leisure Club had reopened Oct 15.",
+      "src": "https://www.yahoo.com/news/weather-news/articles/pensacola-area-restaurants-facing-steep-090853732.html"
     }
   ],
   "news": [
     {
-      "title": "Pensacola mayor says Isaias debris cleanup will take months",
+      "title": "Region still waiting on federal disaster declaration for Isaias",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/mayor-reeves-says-pensacolas-hurricane-isaias-debris-cleanup-is-expected-to-take-months",
-      "summary": "About 1.2 million cubic yards of debris are being collected in passes; port damage tops $2 million and the city awaits word on FEMA reimbursement."
+      "url": "https://weartv.com/news/local/northwest-florida-awaits-trump-action-on-major-disaster-declaration-for-hurricane-isaias",
+      "summary": "As of Oct 23 the governor's request is pending; approval would open individual FEMA aid."
     },
     {
-      "title": "Uninsured homeowners wait on possible FEMA aid after Isaias",
+      "title": "Residents raise concerns about Mallory Park debris site",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/uninsured-northwest-florida-homeowners-look-for-fema-help-after-hurricane-isaias",
-      "summary": "The governor has asked for a federal major disaster declaration covering eight counties, with no timeline for a decision."
+      "url": "https://weartv.com/news/local/pensacola-debris-site-causes-health-and-safety-concerns-but-city-says-it-meets-code",
+      "summary": "Neighbors cite fire and dust worries; the city says the site meets state code, will be monitored, and is to be cleared by December."
     },
     {
-      "title": "Interstate Fair opens despite storm damage",
+      "title": "Escambia eases contractor licensing, warns of scams",
       "source": "WEAR",
-      "url": "https://weartv.com/newsletter-daily/families-attend-91st-pensacola-interstate-fair-for-fun-away-from-isaias-aftermath",
-      "summary": "The 91st fair opened Oct 22 after crews cleared debris from the grounds and runs through Nov 1."
+      "url": "https://weartv.com/news/local/escambia-county-temporarily-eases-contractor-rules-but-warns-of-unlicensed-contractors",
+      "summary": "Looser rules run until December to speed roof repairs; officials flag big upfront payments as a red flag."
     },
     {
-      "title": "Inspections aim to keep fair rides safe",
+      "title": "Recovery crews keep a Pensacola hotel full for weeks",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/multiple-inspections-aim-to-keep-pensacola-interstate-fairs-60-rides-safe-for-families",
-      "summary": "Nearly 60 rides get state inspections plus daily morning checks by the ride company's own inspectors."
+      "url": "https://weartv.com/news/local/pensacola-holiday-inn-stays-sold-out-for-weeks-housing-hurricane-isaias-recovery-crews",
+      "summary": "Out-of-state workers are filling local hotel rooms during storm cleanup."
     },
     {
-      "title": "Fire hits storage facility on Michigan Avenue",
+      "title": "Mississippi city sends supplies to Gulf Breeze",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/fire-rips-through-pensacola-storage-facility-on-michigan-avenue",
-      "summary": "A Tuesday-night blaze swept several units at an Extra Space Storage site; no injuries were reported."
+      "url": "https://weartv.com/news/local/mississippi-community-returns-katrina-favor-helps-gulf-breeze-after-hurricane",
+      "summary": "D'Iberville is repaying help it got after Katrina by delivering donated gear and materials."
     },
     {
-      "title": "Baptist Health Care marks 75 years",
+      "title": "Early voting up in Escambia, Santa Rosa and Okaloosa",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/baptist-health-care-marks-75-years-with-weeklong-celebrations-oct-19-23",
-      "summary": "The system is celebrating its 1951 start with a week of staff events at its locations."
+      "url": "https://weartv.com/news/local/floridas-division-of-elections-shows-early-voting-is-up-in-nwfl-despite-isaias-recovery",
+      "summary": "State figures show higher early turnout in the three counties despite storm recovery."
     },
     {
-      "title": "Beach Elks plan Halloween 5K and kids dash",
+      "title": "Three service members die in Cervantes Street crash",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/pensacola-beach-elks-lodge-to-host-halloween-5k-kids-dash-for-local-charities",
-      "summary": "The Oct 31 charity run on Pensacola Beach lets runners and kids wear costumes."
+      "url": "https://weartv.com/news/local/3-service-members-killed-in-pensacola-car-crash",
+      "summary": "A one-car crash around 1:30 AM Oct 24 killed three; police believe the car was speeding before hitting a barrier."
+    },
+    {
+      "title": "TSA PreCheck enrollment at Pensacola airport Nov 3 to 6",
+      "source": "WEAR",
+      "url": "https://weartv.com/news/local/tsa-precheck-enrollment-set-for-nov-3-6-at-pensacola-international-airport",
+      "summary": "Daily enrollment 9 AM to noon and 1 to 5 PM; the fee is $76.75 for five years."
     }
   ],
   "sources": [
@@ -927,5 +939,5 @@
       "url": "https://navarrepress.com/"
     }
   ],
-  "coverage_note": "Written Saturday, Oct 24. Weather: Fox Weather supplied highs, lows and rain chances through Oct 30 (it did not list Oct 24, so 1 percent comes from Weather Underground/Almanac readings); Oct 31 uses Weather Underground temperatures with a rough 10 percent rain estimate. Events draw on Local Pulse, Must Do Pensacola, the WEAR fair lineup and Allevents trunk-or-treat listings. NorthEscambia.com blocked automated reading (robots), so its fall festival list and Walnut Hill Heritage Festival could not be confirmed; Gonzalez, Beulah, Molino and Cantonment items are carried over from earlier checks and not reconfirmed. Fox10, WKRG, Visit Pensacola, the downtown calendar, PensacolaBeach.com and the Saenger/Blue Wahoos sites were not opened this run. No restaurant openings or closings were newly confirmed; Pelican and Casa Luvia remain unconfirmed. News is limited to WEAR headlines I read. The fair's Oct 30 act is Colt Ford in the official lineup but LOCASH in one local calendar."
+  "coverage_note": "Written Sunday, Oct 25. Weather is from AccuWeather's 10-day page. Events draw on Must Do Pensacola's October guide, Visit Pensacola, WEAR's fair lineup, Winterfest and Beach Guide pages. NorthEscambia.com blocks automated reading, and Local Pulse, Fox10, WKRG and the Saenger, Bay Center and Blue Wahoos sites could not be opened directly, so Gonzalez, Molino, Beulah and Cantonment items are carried over from earlier checks and not reconfirmed. The Ice Flyers dates are carried over; the schedule source I read gave no game list. The Nov 4 downtown lighting date is unconfirmed (one calendar shows Nov 5). No restaurant openings or closings were newly confirmed beyond post-Isaias reopenings. News is limited to WEAR."
 }
