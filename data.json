@@ -1,63 +1,51 @@
 {
-  "generated": "2026-10-25T02:56:00-05:00",
-  "weekend_note": "Dry and mild through Friday (highs near 80, rain chance 7 percent or less), then showers become possible Halloween weekend: about 25 percent Saturday and Sunday, rising to roughly 50 percent early next week. Picks: the Temptations Revue at the fair tonight, free Bands on the Beach Tuesday, Blue Angels practice Wednesday morning, the Palafox Halloween Market and Taste of the Beach on Saturday, and Boo at the Zoo. Ice Flyers games on Oct 30 and Nov 1 are indoors if the weekend turns wet. Storm recovery from Isaias is ongoing, so double-check smaller events.",
+  "generated": "2026-10-27T03:05:51-05:00",
+  "weekend_note": "Dry and pleasant through Friday (highs in the upper 70s to low 80s, no rain expected), then a modest shower chance on Halloween weekend: about 20 percent Saturday and 30 percent Sunday. Picks: free Bands on the Beach tonight, Blue Angels practice Wednesday morning, Taste of the Beach starting Thursday, the Palafox Halloween Market and Boo at the Zoo on Saturday. The Ice Flyers games on Oct 30 and Nov 1 are indoors if showers show up. Downtown police will add extra officers for Halloween weekend, and Isaias recovery is ongoing, so double-check smaller events.",
   "weather": [
     {
-      "date": "2026-10-25",
-      "hi": 79,
-      "lo": 57,
-      "rain": 1
-    },
-    {
-      "date": "2026-10-26",
-      "hi": 78,
-      "lo": 54,
-      "rain": 1
-    },
-    {
       "date": "2026-10-27",
-      "hi": 79,
-      "lo": 57,
-      "rain": 2
+      "hi": 78,
+      "lo": 56,
+      "rain": 0
     },
     {
       "date": "2026-10-28",
-      "hi": 78,
-      "lo": 58,
-      "rain": 4
+      "hi": 79,
+      "lo": 61,
+      "rain": 0
     },
     {
       "date": "2026-10-29",
-      "hi": 80,
+      "hi": 81,
       "lo": 65,
-      "rain": 7
+      "rain": 0
     },
     {
       "date": "2026-10-30",
-      "hi": 81,
-      "lo": 65,
-      "rain": 7
+      "hi": 82,
+      "lo": 67,
+      "rain": 0
     },
     {
       "date": "2026-10-31",
-      "hi": 80,
-      "lo": 65,
-      "rain": 25
+      "hi": 79,
+      "lo": 66,
+      "rain": 20
     },
     {
       "date": "2026-11-01",
-      "hi": 79,
-      "lo": 66,
-      "rain": 25
+      "hi": 76,
+      "lo": 65,
+      "rain": 30
     }
   ],
   "picks": [
-    "fair-temps",
     "bands",
     "angels",
-    "halloween-mkt",
     "taste",
-    "boo"
+    "halloween-mkt",
+    "boo",
+    "flyers"
   ],
   "weekly": [
     {
@@ -105,7 +93,6 @@
     {
       "id": "boo",
       "dates": [
-        "2026-10-25",
         "2026-10-31",
         "2026-11-01"
       ],
@@ -117,89 +104,6 @@
       "section": "seasonal",
       "note": "Rescheduled after Isaias canceled the first two weekends. Trick-or-treating, costumes and animal encounters.",
       "src": "https://localpulse.com/2026/10/local-pulse-weekend-top-10-61/"
-    },
-    {
-      "id": "gamedays",
-      "title": "Sunday Game Days at the Landing",
-      "time": "From 11 AM",
-      "t": "11:00",
-      "place": "The Landing, Pensacola Beach",
-      "area": "beaches",
-      "section": "entertainment",
-      "src": "https://pensacolabeach.com/october-events-in-pensacola-2/",
-      "note": "Free admission with food and drink specials, doors at 11 AM. Carried over from an earlier check; the Pensacola Beach calendar did not list it, so confirm first.",
-      "date": "2026-10-25"
-    },
-    {
-      "id": "howlin",
-      "date": "2026-10-25",
-      "title": "Howlin' Happy Hour (dog costume contest)",
-      "time": "2 to 5 PM",
-      "t": "14:00",
-      "place": "Coastal County Brewing Company, 3041 E Olive Rd",
-      "area": "elsewhere",
-      "section": "seasonal",
-      "note": "Dog costume contest plus a supplies donation drive; retractable leashes not allowed.",
-      "src": "https://localpulse.com/2026/10/local-pulse-weekend-top-10-61/"
-    },
-    {
-      "id": "blues",
-      "date": "2026-10-25",
-      "title": "Blues on the Bluff",
-      "time": "2 PM",
-      "t": "14:00",
-      "place": "Calvert's in the Heights",
-      "area": "downtown",
-      "section": "entertainment",
-      "note": "Outdoor show with Boogie Long on the bill; bring a lawn chair or blanket.",
-      "src": "https://localpulse.com/2026/10/local-pulse-weekend-top-10-61/"
-    },
-    {
-      "id": "fair-cows",
-      "date": "2026-10-25",
-      "title": "Cow Costume and Prettiest Cow Contest at the fair",
-      "time": "6:30 PM",
-      "t": "18:30",
-      "place": "Pensacola Interstate Fairgrounds, 6655 W. Mobile Hwy",
-      "area": "elsewhere",
-      "section": "seasonal",
-      "note": "Livestock arena contest open to the public; the fair runs through Nov 1.",
-      "src": "https://weartv.com/news/local/pensacola-interstate-fair-unveils-2026-entertainment-lineup-and-schedule"
-    },
-    {
-      "id": "fair-temps",
-      "date": "2026-10-25",
-      "title": "The Temptations Revue at the fair",
-      "time": "7:30 PM",
-      "t": "19:30",
-      "place": "Pepsi Open-Air Stage, Interstate Fairgrounds",
-      "area": "elsewhere",
-      "section": "entertainment",
-      "src": "https://localpulse.com/2026/08/pensacola-interstate-fair-unveils-star-studded-2026-entertainment-lineup-and-schedule/"
-    },
-    {
-      "id": "fair-foster",
-      "date": "2026-10-26",
-      "title": "John Foster at the fair",
-      "time": "7:30 PM",
-      "t": "19:30",
-      "place": "Pepsi Open-Air Stage, Interstate Fairgrounds",
-      "area": "elsewhere",
-      "section": "entertainment",
-      "note": "American Idol season 23 runner-up.",
-      "src": "https://localpulse.com/2026/08/pensacola-interstate-fair-unveils-star-studded-2026-entertainment-lineup-and-schedule/"
-    },
-    {
-      "id": "waitress",
-      "date": "2026-10-26",
-      "title": "Waitress (touring musical)",
-      "time": "See event page",
-      "t": "19:30",
-      "place": "Saenger Theatre, 118 S Palafox",
-      "area": "downtown",
-      "section": "entertainment",
-      "note": "Listed at the Saenger address on the downtown calendar.",
-      "src": "https://downtownpensacola.com/events"
     },
     {
       "id": "creek",
@@ -738,7 +642,7 @@
     {
       "name": "Pelican Bar and Grill",
       "status": "soon",
-      "when": "Was targeted for early October; still no opening confirmation found as of Oct 25",
+      "when": "Was targeted for early October; still no opening confirmation found as of Oct 27",
       "place": "1420 W Nine Mile Rd",
       "kind": "American",
       "note": "Steaks, seafood and casual fare with a full bar and arcade. Seats 120 to 150.",
@@ -747,11 +651,20 @@
     {
       "name": "Casa Luvia",
       "status": "soon",
-      "when": "Soft opening was planned for October; no confirmation found as of Oct 25",
+      "when": "Soft opening was planned for October; no confirmation found as of Oct 27",
       "place": "7748 N Davis Hwy",
       "kind": "Upscale Mexican",
       "note": "Handcrafted cocktails and plated dishes in a modern room.",
       "src": "https://www.mustdopensacola.com/news/new-businesses-opening-pensacola-fall-2026"
+    },
+    {
+      "name": "Whataburger (Gregory Street)",
+      "status": "open",
+      "when": "Reopened Oct 5 after being closed since February",
+      "place": "Gregory Street, downtown Pensacola",
+      "kind": "Fast food",
+      "note": "The downtown location came back with opening-day giveaways for early guests.",
+      "src": "https://weartv.com/gulf-coast-connected/gulf-coast-connected-whataburger-to-reopen-on-gregory-street-in-pensacola"
     },
     {
       "name": "Launch Family Entertainment",
@@ -765,7 +678,7 @@
     {
       "name": "Dill Dinkers Indoor Pickleball",
       "status": "soon",
-      "when": "Listed as early fall 2026; no exact date found as of Oct 25",
+      "when": "Listed as early fall 2026; no exact date found as of Oct 27",
       "place": "330 Gulf Breeze Pkwy, Gulf Breeze",
       "kind": "Pickleball",
       "note": "Four climate-controlled courts, a pro shop and event space.",
@@ -801,10 +714,22 @@
   ],
   "news": [
     {
-      "title": "Region still waiting on federal disaster declaration for Isaias",
+      "title": "Pensacola police adding downtown officers for Halloween weekend",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/northwest-florida-awaits-trump-action-on-major-disaster-declaration-for-hurricane-isaias",
-      "summary": "As of Oct 23 the governor's request is pending; approval would open individual FEMA aid."
+      "url": "https://weartv.com/news/local/pensacola-police-prepares-to-reinforce-downtown-security-for-halloween-weekend",
+      "summary": "The chief says more than a dozen extra officers will patrol downtown, and Seville Quarter will add door security and inspect fake weapons."
+    },
+    {
+      "title": "South Korean Navy ship makes first Pensacola port call",
+      "source": "WEAR",
+      "url": "https://weartv.com/news/local/south-korean-navy-ship-hansando-makes-first-ever-port-call-in-pensacola",
+      "summary": "The training ship Hansando, with nearly 400 aboard, is docked at NAS Pensacola through Thursday before heading to Baltimore."
+    },
+    {
+      "title": "FEMA funding for Northwest Florida still pending",
+      "source": "WEAR",
+      "url": "https://weartv.com/news/local/byron-donalds-campaigns-in-pensacola-as-nw-florida-fema-funding-remains-pending",
+      "summary": "Power is back and debris cleanup continues, but the major disaster declaration requested Oct 15 had not been signed as of Oct 26."
     },
     {
       "title": "Residents raise concerns about Mallory Park debris site",
@@ -817,30 +742,6 @@
       "source": "WEAR",
       "url": "https://weartv.com/news/local/escambia-county-temporarily-eases-contractor-rules-but-warns-of-unlicensed-contractors",
       "summary": "Looser rules run until December to speed roof repairs; officials flag big upfront payments as a red flag."
-    },
-    {
-      "title": "Recovery crews keep a Pensacola hotel full for weeks",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/local/pensacola-holiday-inn-stays-sold-out-for-weeks-housing-hurricane-isaias-recovery-crews",
-      "summary": "Out-of-state workers are filling local hotel rooms during storm cleanup."
-    },
-    {
-      "title": "Mississippi city sends supplies to Gulf Breeze",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/local/mississippi-community-returns-katrina-favor-helps-gulf-breeze-after-hurricane",
-      "summary": "D'Iberville is repaying help it got after Katrina by delivering donated gear and materials."
-    },
-    {
-      "title": "Early voting up in Escambia, Santa Rosa and Okaloosa",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/local/floridas-division-of-elections-shows-early-voting-is-up-in-nwfl-despite-isaias-recovery",
-      "summary": "State figures show higher early turnout in the three counties despite storm recovery."
-    },
-    {
-      "title": "Three service members die in Cervantes Street crash",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/local/3-service-members-killed-in-pensacola-car-crash",
-      "summary": "A one-car crash around 1:30 AM Oct 24 killed three; police believe the car was speeding before hitting a barrier."
     },
     {
       "title": "TSA PreCheck enrollment at Pensacola airport Nov 3 to 6",
@@ -939,5 +840,5 @@
       "url": "https://navarrepress.com/"
     }
   ],
-  "coverage_note": "Written Sunday, Oct 25. Weather is from AccuWeather's 10-day page. Events draw on Must Do Pensacola's October guide, Visit Pensacola, WEAR's fair lineup, Winterfest and Beach Guide pages. NorthEscambia.com blocks automated reading, and Local Pulse, Fox10, WKRG and the Saenger, Bay Center and Blue Wahoos sites could not be opened directly, so Gonzalez, Molino, Beulah and Cantonment items are carried over from earlier checks and not reconfirmed. The Ice Flyers dates are carried over; the schedule source I read gave no game list. The Nov 4 downtown lighting date is unconfirmed (one calendar shows Nov 5). No restaurant openings or closings were newly confirmed beyond post-Isaias reopenings. News is limited to WEAR."
+  "coverage_note": "Written Tuesday, Oct 27. Weather is WEAR's 7-day page (through Sunday Nov 1; Nov 2 and later not found) cross-checked with FOX10's outlook. Past events were dropped and no brand-new events were found: Must Do Pensacola, Local Pulse, NorthEscambia.com, Saenger, Bay Center and Blue Wahoos pages could not be opened, so Gonzalez, Molino, Beulah and Cantonment items are carried over from earlier checks and not reconfirmed. The Visit Pensacola fall page confirmed the festival dates for Nov 5 through Dec 12. Ice Flyers dates are carried over (the 2026-27 schedule article gave no game list). The only new restaurant item is the Oct 5 Whataburger reopening; pending openings stay unconfirmed. News is limited to WEAR, with the contractor, debris-site and TSA items carried from Oct 25."
 }
