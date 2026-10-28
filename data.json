@@ -1,48 +1,60 @@
 {
-  "generated": "2026-10-27T03:05:51-05:00",
-  "weekend_note": "Dry and pleasant through Friday (highs in the upper 70s to low 80s, no rain expected), then a modest shower chance on Halloween weekend: about 20 percent Saturday and 30 percent Sunday. Picks: free Bands on the Beach tonight, Blue Angels practice Wednesday morning, Taste of the Beach starting Thursday, the Palafox Halloween Market and Boo at the Zoo on Saturday. The Ice Flyers games on Oct 30 and Nov 1 are indoors if showers show up. Downtown police will add extra officers for Halloween weekend, and Isaias recovery is ongoing, so double-check smaller events.",
+  "generated": "2026-10-28T03:05:25-05:00",
+  "weekend_note": "Dry and warm through Friday (low 80s, no rain expected), then showers return for Halloween weekend: about 40 percent Saturday and 50 percent Sunday per FOX10, with a wetter day possible Wednesday. Picks: Blue Angels practice today, Taste of the Beach starting Thursday, the Palafox Halloween Market and Boo at the Zoo on Saturday, and Foo Foo Festival all week. The Ice Flyers games Friday and Sunday are indoors if showers hit. Isaias recovery continues and some smaller events may change, so double-check before heading out.",
   "weather": [
     {
-      "date": "2026-10-27",
-      "hi": 78,
-      "lo": 56,
-      "rain": 0
-    },
-    {
       "date": "2026-10-28",
-      "hi": 79,
+      "hi": 81,
       "lo": 61,
       "rain": 0
     },
     {
       "date": "2026-10-29",
-      "hi": 81,
+      "hi": 80,
       "lo": 65,
       "rain": 0
     },
     {
       "date": "2026-10-30",
       "hi": 82,
-      "lo": 67,
+      "lo": 68,
       "rain": 0
     },
     {
       "date": "2026-10-31",
+      "hi": 80,
+      "lo": 69,
+      "rain": 40
+    },
+    {
+      "date": "2026-11-01",
+      "hi": 77,
+      "lo": 67,
+      "rain": 50
+    },
+    {
+      "date": "2026-11-02",
+      "hi": 79,
+      "lo": 67,
+      "rain": 10
+    },
+    {
+      "date": "2026-11-03",
       "hi": 79,
       "lo": 66,
       "rain": 20
     },
     {
-      "date": "2026-11-01",
-      "hi": 76,
-      "lo": 65,
-      "rain": 30
+      "date": "2026-11-04",
+      "hi": 77,
+      "lo": 59,
+      "rain": 50
     }
   ],
   "picks": [
-    "bands",
     "angels",
     "taste",
+    "foofoo",
     "halloween-mkt",
     "boo",
     "flyers"
@@ -91,71 +103,6 @@
       "src": "https://weartv.com/newsletter-daily/families-attend-91st-pensacola-interstate-fair-for-fun-away-from-isaias-aftermath"
     },
     {
-      "id": "boo",
-      "dates": [
-        "2026-10-31",
-        "2026-11-01"
-      ],
-      "title": "Boo at the Zoo",
-      "time": "10 AM to 5 PM",
-      "t": "10:00",
-      "place": "Gulf Breeze Zoo",
-      "area": "elsewhere",
-      "section": "seasonal",
-      "note": "Rescheduled after Isaias canceled the first two weekends. Trick-or-treating, costumes and animal encounters.",
-      "src": "https://localpulse.com/2026/10/local-pulse-weekend-top-10-61/"
-    },
-    {
-      "id": "creek",
-      "date": "2026-10-27",
-      "title": "Carpenter Creek community storytelling session",
-      "time": "5:30 to 7 PM",
-      "t": "17:30",
-      "place": "St. Paul Lutheran Church, 4600 N Ninth Ave",
-      "area": "elsewhere",
-      "section": "free",
-      "free": true,
-      "note": "Hosted by the Pensacola and Perdido Bays Estuary Program; registration encouraged.",
-      "src": "https://localpulse.com/2026/10/carpenter-creek-storytelling-session-on-october-27th/"
-    },
-    {
-      "id": "trunk-equestrian",
-      "date": "2026-10-27",
-      "title": "Transformation Church Trunk or Treat",
-      "time": "6 PM",
-      "t": "18:00",
-      "place": "Escambia County Equestrian Center",
-      "area": "elsewhere",
-      "section": "seasonal",
-      "note": "Church-hosted trunk-or-treat on a Tuesday evening.",
-      "src": "https://allevents.in/pensacola/trunk-or-treat"
-    },
-    {
-      "id": "bands",
-      "date": "2026-10-27",
-      "title": "Bands on the Beach: Horseshoe Kitty",
-      "time": "7 to 9 PM",
-      "t": "19:00",
-      "place": "Gulfside Pavilion, Pensacola Beach",
-      "area": "beaches",
-      "section": "free",
-      "free": true,
-      "note": "Local Pulse-era listings showed Bands on the Beach canceled the week of Oct 19; confirm this Tuesday show before going.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-october-2026"
-    },
-    {
-      "id": "fair-whitetie",
-      "date": "2026-10-27",
-      "title": "White Tie Rock Ensemble at the fair",
-      "time": "7:30 PM",
-      "t": "19:30",
-      "place": "Pepsi Open-Air Stage, Interstate Fairgrounds",
-      "area": "elsewhere",
-      "section": "entertainment",
-      "note": "Monsters of Rock show.",
-      "src": "https://localpulse.com/2026/08/pensacola-interstate-fair-unveils-star-studded-2026-entertainment-lineup-and-schedule/"
-    },
-    {
       "id": "angels",
       "title": "Blue Angels practice",
       "time": "Base access 9 AM, flights around 10:30 AM",
@@ -166,6 +113,18 @@
       "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-october-19-25-2026",
       "note": "Practice days Oct 20 and Oct 28 (autograph day at the aviation museum). Must Do lists about 10:30 AM flights, watched from the museum flight line (base access required) or by boat; schedule can change. Oct 28 time not rechecked.",
       "date": "2026-10-28"
+    },
+    {
+      "id": "haunted-walk",
+      "date": "2026-10-28",
+      "title": "Pensacola Haunted Walking Tour",
+      "time": "See event page",
+      "t": "19:00",
+      "place": "Downtown Pensacola",
+      "area": "downtown",
+      "section": "seasonal",
+      "note": "Guided ghost-story walk through downtown; Visit Pensacola lists it for tonight. Confirm the start time before going.",
+      "src": "https://www.visitpensacola.com/blog/spooky-season-in-pensacola/"
     },
     {
       "id": "fair-lauren",
@@ -203,6 +162,18 @@
       "section": "seasonal",
       "note": "12 days of art, music and theater, Oct 29 to Nov 9. Includes the Lightspill art installation and Night Moves Music Fest; some events free, some ticketed.",
       "src": "https://localpulse.com/2026/08/pensacola-foo-foo-festival-releases-initial-calendar-of-events/"
+    },
+    {
+      "id": "frogs-kids",
+      "date": "2026-10-29",
+      "title": "Senor Frogs Kid's Halloween Party and Costume Contest",
+      "time": "See event page",
+      "t": "12:00",
+      "place": "Pensacola Beach",
+      "area": "beaches",
+      "section": "seasonal",
+      "note": "Kids' costume party at Pensacola Beach, listed for Thursday.",
+      "src": "https://www.visitpensacola.com/blog/spooky-season-in-pensacola/"
     },
     {
       "id": "fair-bee",
@@ -256,6 +227,18 @@
       "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-october-2026"
     },
     {
+      "id": "rocky-horror",
+      "date": "2026-10-30",
+      "title": "The Rocky Horror Show (stage production)",
+      "time": "See event page",
+      "t": "19:00",
+      "place": "Downtown Pensacola",
+      "area": "downtown",
+      "section": "entertainment",
+      "note": "Listed for Friday night downtown; venue and showtime not confirmed here.",
+      "src": "https://www.visitpensacola.com/blog/spooky-season-in-pensacola/"
+    },
+    {
       "id": "flyers",
       "dates": [
         "2026-10-30",
@@ -298,6 +281,21 @@
       "section": "seasonal",
       "note": "Costumes welcome; $35 entry, with proceeds going to local charities. Register at runpensacola.com.",
       "src": "https://weartv.com/news/local/pensacola-beach-elks-lodge-to-host-halloween-5k-kids-dash-for-local-charities"
+    },
+    {
+      "id": "boo",
+      "dates": [
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "title": "Boo at the Zoo",
+      "time": "10 AM to 5 PM",
+      "t": "10:00",
+      "place": "Gulf Breeze Zoo",
+      "area": "elsewhere",
+      "section": "seasonal",
+      "note": "Rescheduled after Isaias canceled the first two weekends. Trick-or-treating, costumes and animal encounters.",
+      "src": "https://localpulse.com/2026/10/local-pulse-weekend-top-10-61/"
     },
     {
       "id": "halloween-mkt",
@@ -347,6 +345,30 @@
       "section": "seasonal",
       "note": "Community fall festival. See event page for host and details.",
       "src": "https://allevents.in/cantonment"
+    },
+    {
+      "id": "halloween-beach",
+      "date": "2026-10-31",
+      "title": "Halloween bashes: Bamboo Willie's and Senor Frog's",
+      "time": "See event page",
+      "t": "18:00",
+      "place": "Pensacola Beach",
+      "area": "beaches",
+      "section": "seasonal",
+      "note": "Beach bars host costume contests and parties on Halloween night. Showers are possible, so expect some of it to move indoors.",
+      "src": "https://www.visitpensacola.com/blog/spooky-season-in-pensacola/"
+    },
+    {
+      "id": "halloween-dt",
+      "date": "2026-10-31",
+      "title": "Downtown Halloween costume contests and bar crawls",
+      "time": "See event page",
+      "t": "19:00",
+      "place": "Downtown Pensacola",
+      "area": "downtown",
+      "section": "seasonal",
+      "note": "Several downtown bars list contests and crawls. Police plan extra patrols downtown.",
+      "src": "https://www.visitpensacola.com/blog/spooky-season-in-pensacola/"
     },
     {
       "id": "fair-lacs",
@@ -475,6 +497,18 @@
       "src": "https://allevents.in/cantonment"
     },
     {
+      "id": "whitetie-stadium",
+      "date": "2026-11-13",
+      "title": "White Tie Rock Ensemble: Hits and Home Runs",
+      "time": "7 PM",
+      "t": "19:00",
+      "place": "Blue Wahoos Stadium",
+      "area": "downtown",
+      "section": "entertainment",
+      "note": "Classic rock night at the ballpark with field tables, club seats and standing room. Tickets through the Blue Wahoos.",
+      "src": "https://www.mlb.com/milb/pensacola/news/white-tie-rock-2026"
+    },
+    {
       "id": "pourplay",
       "date": "2026-11-14",
       "title": "Pour & Play at First City Art Center",
@@ -485,6 +519,18 @@
       "section": "seasonal",
       "note": "Local Pulse's vendor call confirms the date and time; ticket details not listed there, so see the event page.",
       "src": "https://localpulse.com/2026/10/first-city-art-center-seeks-local-vendors-for-two-upcoming-events/"
+    },
+    {
+      "id": "nephew",
+      "date": "2026-11-14",
+      "title": "Nephew Tommy's Black Tie House Party and Comedy Show",
+      "time": "See event page",
+      "t": "19:00",
+      "place": "Saenger Theatre, downtown",
+      "area": "downtown",
+      "section": "entertainment",
+      "note": "Comedy night at the Saenger.",
+      "src": "https://www.livenation.com/venue/KovZpZAFkJlA/pensacola-saenger-theatre-events"
     },
     {
       "id": "eggfest",
@@ -509,6 +555,18 @@
       "section": "seasonal",
       "note": "Humane Society dog event, rescheduled to Nov 15; free admission.",
       "src": "https://localpulse.com/2026/10/barktoberfest-rescheduled-to-november-15/"
+    },
+    {
+      "id": "whoselive",
+      "date": "2026-11-18",
+      "title": "Whose Live Anyway?",
+      "time": "See event page",
+      "t": "19:30",
+      "place": "Saenger Theatre, downtown",
+      "area": "downtown",
+      "section": "entertainment",
+      "note": "Improv comedy show at the Saenger.",
+      "src": "https://www.livenation.com/venue/KovZpZAFkJlA/pensacola-saenger-theatre-events"
     },
     {
       "id": "fabfour",
@@ -574,6 +632,18 @@
       "src": "https://pensacolawinterfest.org/2026-winterfest-calendar"
     },
     {
+      "id": "motown",
+      "date": "2026-11-28",
+      "title": "Motown Christmas",
+      "time": "See event page",
+      "t": "19:30",
+      "place": "Saenger Theatre, downtown",
+      "area": "downtown",
+      "section": "entertainment",
+      "note": "Holiday show at the Saenger.",
+      "src": "https://www.livenation.com/venue/KovZpZAFkJlA/pensacola-saenger-theatre-events"
+    },
+    {
       "id": "xmascarol",
       "date": "2026-11-30",
       "title": "A Christmas Carol at the Saenger",
@@ -599,6 +669,18 @@
       "src": "https://www.visitpensacola.com/events/signature-events/"
     },
     {
+      "id": "tomlin",
+      "date": "2026-12-04",
+      "title": "Christmas with Chris Tomlin",
+      "time": "See event page",
+      "t": "19:30",
+      "place": "Saenger Theatre, downtown",
+      "area": "downtown",
+      "section": "entertainment",
+      "note": "Holiday concert at the Saenger.",
+      "src": "https://www.livenation.com/venue/KovZpZAFkJlA/pensacola-saenger-theatre-events"
+    },
+    {
       "id": "santadrop",
       "date": "2026-12-05",
       "title": "Flora-Bama Santa Drop",
@@ -609,6 +691,18 @@
       "section": "seasonal",
       "note": "Santa skydives in, with kids' crafts, games, live music and a Toys for Tots donation drive.",
       "src": "https://beachguide.com/perdido-key/events"
+    },
+    {
+      "id": "kennyg",
+      "date": "2026-12-05",
+      "title": "Kenny G: Holiday and Hits Tour",
+      "time": "See event page",
+      "t": "19:30",
+      "place": "Saenger Theatre, downtown",
+      "area": "downtown",
+      "section": "entertainment",
+      "note": "Holiday-season concert at the Saenger.",
+      "src": "https://www.livenation.com/venue/KovZpZAFkJlA/pensacola-saenger-theatre-events"
     }
   ],
   "restaurants": [
@@ -642,7 +736,7 @@
     {
       "name": "Pelican Bar and Grill",
       "status": "soon",
-      "when": "Was targeted for early October; still no opening confirmation found as of Oct 27",
+      "when": "Was targeted for early October; still no opening confirmation found as of Oct 28",
       "place": "1420 W Nine Mile Rd",
       "kind": "American",
       "note": "Steaks, seafood and casual fare with a full bar and arcade. Seats 120 to 150.",
@@ -651,7 +745,7 @@
     {
       "name": "Casa Luvia",
       "status": "soon",
-      "when": "Soft opening was planned for October; no confirmation found as of Oct 27",
+      "when": "Soft opening was planned for October; no confirmation found as of Oct 28",
       "place": "7748 N Davis Hwy",
       "kind": "Upscale Mexican",
       "note": "Handcrafted cocktails and plated dishes in a modern room.",
@@ -678,7 +772,7 @@
     {
       "name": "Dill Dinkers Indoor Pickleball",
       "status": "soon",
-      "when": "Listed as early fall 2026; no exact date found as of Oct 27",
+      "when": "Listed as early fall 2026; no exact date found as of Oct 28",
       "place": "330 Gulf Breeze Pkwy, Gulf Breeze",
       "kind": "Pickleball",
       "note": "Four climate-controlled courts, a pro shop and event space.",
@@ -710,38 +804,53 @@
       "kind": "Restaurants",
       "note": "Georgio's Pizza and The Leisure Club had reopened Oct 15.",
       "src": "https://www.yahoo.com/news/weather-news/articles/pensacola-area-restaurants-facing-steep-090853732.html"
+    },
+    {
+      "name": "A&E Fabrics and Crafts",
+      "status": "closed",
+      "when": "Closing for good; going-out-of-business sale announced Oct 20",
+      "place": "N New Warrington Rd, Pensacola",
+      "kind": "Fabric and craft store (open since 1954)",
+      "note": "Owners cited Isaias roof damage and plans to retire.",
+      "src": "https://weartv.com/news/local/ae-fabric-and-crafts-in-pensacola-prepares-to-close-for-good-after-isaias-roof-damage"
     }
   ],
   "news": [
     {
-      "title": "Pensacola police adding downtown officers for Halloween weekend",
+      "title": "Major disaster declaration signed for Florida after Isaias",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/pensacola-police-prepares-to-reinforce-downtown-security-for-halloween-weekend",
-      "summary": "The chief says more than a dozen extra officers will patrol downtown, and Seville Quarter will add door security and inspect fake weapons."
+      "url": "https://weartv.com/news/local/trump-grants-major-disaster-declaration-for-florida-unlocking-federal-aid-after-isaias",
+      "summary": "Federal aid is now available to Northwest Florida; which of the eight requested counties, Escambia included, qualify for individual assistance is not yet decided."
     },
     {
-      "title": "South Korean Navy ship makes first Pensacola port call",
+      "title": "Neighbors complain about debris drop-off lot in Escambia County",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/south-korean-navy-ship-hansando-makes-first-ever-port-call-in-pensacola",
-      "summary": "The training ship Hansando, with nearly 400 aboard, is docked at NAS Pensacola through Thursday before heading to Baltimore."
+      "url": "https://weartv.com/news/local/hurricane-debris-drop-off-site-sparks-noise-and-dust-complaints-in-escambia-county",
+      "summary": "Residents on Mahogany Hill Road cite noise, dust and truck traffic; the state found the lot within standards and no end date is set."
     },
     {
-      "title": "FEMA funding for Northwest Florida still pending",
+      "title": "A&E Fabrics and Crafts to close after storm damage",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/byron-donalds-campaigns-in-pensacola-as-nw-florida-fema-funding-remains-pending",
-      "summary": "Power is back and debris cleanup continues, but the major disaster declaration requested Oct 15 had not been signed as of Oct 26."
+      "url": "https://weartv.com/news/local/ae-fabric-and-crafts-in-pensacola-prepares-to-close-for-good-after-isaias-roof-damage",
+      "summary": "The 1954 store on New Warrington Road is closing for good after its roof was badly damaged, with a clearance sale."
     },
     {
-      "title": "Residents raise concerns about Mallory Park debris site",
+      "title": "Navy names three sailors killed in Pensacola crash",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/pensacola-debris-site-causes-health-and-safety-concerns-but-city-says-it-meets-code",
-      "summary": "Neighbors cite fire and dust worries; the city says the site meets state code, will be monitored, and is to be cleared by December."
+      "url": "https://weartv.com/news/local/navy-identifies-three-sailors-killed-in-pensacola-car-crash",
+      "summary": "The wreck happened early Saturday at M Street and Cervantes; police are investigating with NCIS."
     },
     {
-      "title": "Escambia eases contractor licensing, warns of scams",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/local/escambia-county-temporarily-eases-contractor-rules-but-warns-of-unlicensed-contractors",
-      "summary": "Looser rules run until December to speed roof repairs; officials flag big upfront payments as a red flag."
+      "title": "City of Pensacola Isaias recovery update",
+      "source": "City of Pensacola",
+      "url": "https://www.cityofpensacola.com/m/newsflash/Home/Detail/5274",
+      "summary": "As of Oct 19, 14 parks had reopened, debris pickup was expected to take several passes, and the October neighborhood cleanup moved to Nov 21."
+    },
+    {
+      "title": "Pensacola Beach and Perdido Key access after Isaias",
+      "source": "Visit Pensacola",
+      "url": "https://www.visitpensacola.com/weather/tropical-weather-updates/",
+      "summary": "Public beaches are open, though some Pensacola Beach access points are closed and Fort Pickens has temporary closures; Perdido Key was largely unaffected."
     },
     {
       "title": "TSA PreCheck enrollment at Pensacola airport Nov 3 to 6",
@@ -840,5 +949,5 @@
       "url": "https://navarrepress.com/"
     }
   ],
-  "coverage_note": "Written Tuesday, Oct 27. Weather is WEAR's 7-day page (through Sunday Nov 1; Nov 2 and later not found) cross-checked with FOX10's outlook. Past events were dropped and no brand-new events were found: Must Do Pensacola, Local Pulse, NorthEscambia.com, Saenger, Bay Center and Blue Wahoos pages could not be opened, so Gonzalez, Molino, Beulah and Cantonment items are carried over from earlier checks and not reconfirmed. The Visit Pensacola fall page confirmed the festival dates for Nov 5 through Dec 12. Ice Flyers dates are carried over (the 2026-27 schedule article gave no game list). The only new restaurant item is the Oct 5 Whataburger reopening; pending openings stay unconfirmed. News is limited to WEAR, with the contractor, debris-site and TSA items carried from Oct 25."
+  "coverage_note": "Written Wednesday, Oct 28. Temperatures come from Weather Underground's 10-day page; rain chances for Oct 31 and Nov 1 come from FOX10 (a Mobile-area outlook), and the rain percentages for Nov 2 to 4 are my rough estimates from forecast precipitation amounts. Search results were thin: Must Do Pensacola, Local Pulse and NorthEscambia.com pages could not be opened, so Gonzalez, Molino, Beulah and Cantonment items are carried over from earlier checks and not reconfirmed, and no new restaurant openings were confirmed. New events came from Visit Pensacola's Halloween list, the Saenger listing and the Blue Wahoos. Ice Flyers dates are carried over. Several events show 'See event page' because times were not confirmed."
 }
