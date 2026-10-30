@@ -1,34 +1,28 @@
 {
-  "generated": "2026-10-29T03:10:00-05:00",
-  "weekend_note": "Warm and mostly dry Thursday and Friday (low 80s), then showers move in for Halloween weekend, with Sunday looking wetter than Saturday and a stormier day possible Wednesday. Picks: Taste of the Beach (free festival Saturday), the Palafox Halloween Market and Boo at the Zoo on Saturday, Rocky Horror at Pensacola Little Theatre starting Friday, The Lacs at the fair Saturday night, and Ice Flyers hockey indoors at the Bay Center. Isaias recovery is still affecting some events, so double-check before heading out.",
+  "generated": "2026-10-30T02:56:45-05:00",
+  "weekend_note": "Dry and warm Friday, then rain moves in: about a 40% chance Saturday afternoon rising to 60% Saturday night, and Sunday looks wetter, with a stormier day likely Wednesday. Picks: Taste of the Beach (free Saturday festival, go early), the Palafox Halloween Market and Boo at the Zoo in the morning, The Lacs at the fair Saturday night (outdoor stage), Rocky Horror at Pensacola Little Theatre (indoors) and Ice Flyers hockey (indoors). Isaias recovery is still affecting some events, so double-check before heading out.",
   "weather": [
     {
-      "date": "2026-10-29",
-      "hi": 82,
-      "lo": 67,
-      "rain": 0
-    },
-    {
       "date": "2026-10-30",
-      "hi": 81,
+      "hi": 82,
       "lo": 69,
       "rain": 0
     },
     {
       "date": "2026-10-31",
-      "hi": 80,
+      "hi": 81,
       "lo": 69,
-      "rain": 40
-    },
-    {
-      "date": "2026-11-01",
-      "hi": 76,
-      "lo": 66,
       "rain": 50
     },
     {
-      "date": "2026-11-02",
+      "date": "2026-11-01",
       "hi": 78,
+      "lo": 66,
+      "rain": 60
+    },
+    {
+      "date": "2026-11-02",
+      "hi": 79,
       "lo": 65,
       "rain": 10
     },
@@ -36,18 +30,24 @@
       "date": "2026-11-03",
       "hi": 78,
       "lo": 67,
-      "rain": 20
+      "rain": 10
     },
     {
       "date": "2026-11-04",
       "hi": 77,
       "lo": 60,
-      "rain": 60
+      "rain": 70
     },
     {
       "date": "2026-11-05",
       "hi": 74,
       "lo": 53,
+      "rain": 10
+    },
+    {
+      "date": "2026-11-06",
+      "hi": 73,
+      "lo": 52,
       "rain": 10
     }
   ],
@@ -129,32 +129,8 @@
       "src": "https://localpulse.com/2026/08/pensacola-foo-foo-festival-releases-initial-calendar-of-events/"
     },
     {
-      "id": "frogs-kids",
-      "date": "2026-10-29",
-      "title": "Senor Frogs Kid's Halloween Party and Costume Contest",
-      "time": "See event page",
-      "t": "12:00",
-      "place": "Pensacola Beach",
-      "area": "beaches",
-      "section": "seasonal",
-      "note": "Kids' costume party at Pensacola Beach, listed for Thursday.",
-      "src": "https://www.visitpensacola.com/blog/spooky-season-in-pensacola/"
-    },
-    {
-      "id": "fair-bee",
-      "date": "2026-10-29",
-      "title": "Bee Gees Now at the fair",
-      "time": "3:30 and 7 PM",
-      "t": "15:30",
-      "place": "Pepsi Open-Air Stage, Interstate Fairgrounds",
-      "area": "elsewhere",
-      "section": "entertainment",
-      "src": "https://localpulse.com/2026/08/pensacola-interstate-fair-unveils-star-studded-2026-entertainment-lineup-and-schedule/"
-    },
-    {
       "id": "rocky",
       "dates": [
-        "2026-10-29",
         "2026-10-30"
       ],
       "title": "Rocky Homicide Murder Mystery Dinner Theatre",
@@ -163,7 +139,7 @@
       "place": "Seville Quarter, Downtown Pensacola",
       "area": "downtown",
       "section": "entertainment",
-      "note": "Dinner theater at Seville Quarter on Oct 23, 24, 29 and 30; ticket prices not listed.",
+      "note": "Dinner theater at Seville Quarter, last listed night Oct 30; ticket prices not listed.",
       "src": "https://localpulse.com/2026/10/local-pulse-weekend-top-10-61/"
     },
     {
@@ -230,13 +206,13 @@
       "id": "rocky-horror",
       "date": "2026-10-30",
       "title": "The Rocky Horror Show (Pensacola Little Theatre)",
-      "time": "Opens Fri Oct 30, 7:30 PM; runs through Nov 8 (confirm other showtimes)",
+      "time": "Fri Oct 30, 7:30 PM; also Oct 31 and Nov 1, runs through Nov 8 (other showtimes not listed)",
       "t": "19:30",
       "place": "Pensacola Little Theatre, 400 S Jefferson St",
       "area": "downtown",
       "section": "entertainment",
-      "note": "Stage production opening Halloween weekend. One listing gave conflicting end dates, so check the theatre site.",
-      "src": "https://www.mustdopensacola.com/news/halloween-in-pensacola-2026-events-ghost-tours",
+      "note": "Stage production opening Halloween weekend. Ticket prices and later showtimes are not listed, so check the theatre site.",
+      "src": "https://localpulse.com/2026/10/local-pulse-weekend-top-10-62/",
       "end": "2026-11-08"
     },
     {
@@ -331,13 +307,13 @@
       "id": "halloween-beach",
       "date": "2026-10-31",
       "title": "Halloween bashes: Bamboo Willie's and Senor Frog's",
-      "time": "See event page",
+      "time": "Bamboo Willie's bash 8 PM; Sneaky Tiki costume contests 5 and 5:30 PM",
       "t": "18:00",
       "place": "Pensacola Beach",
       "area": "beaches",
       "section": "seasonal",
-      "note": "Beach bars host costume contests and parties on Halloween night. Showers are possible, so expect some of it to move indoors.",
-      "src": "https://www.mustdopensacola.com/news/halloween-in-pensacola-2026-events-ghost-tours"
+      "note": "Beach bar Halloween parties and costume contests; Bamboo Willie's lists $1,000 in prizes. Rain is likely Saturday night.",
+      "src": "https://localpulse.com/2026/10/local-pulse-weekend-top-10-62/"
     },
     {
       "id": "meowloween",
@@ -697,6 +673,46 @@
       "section": "entertainment",
       "note": "Holiday-season concert at the Saenger.",
       "src": "https://www.livenation.com/venue/KovZpZAFkJlA/pensacola-saenger-theatre-events"
+    },
+    {
+      "id": "the52",
+      "date": "2026-10-31",
+      "title": "Halloween at The 52 Saturday Market",
+      "time": "9 AM to noon",
+      "t": "09:00",
+      "place": "The 52 World, 8511 Myslak Way, Pensacola",
+      "area": "elsewhere",
+      "section": "free",
+      "free": true,
+      "note": "Free Halloween edition of the Saturday market; a guided art tour needs advance reservations.",
+      "src": "https://localpulse.com/2026/10/local-pulse-weekend-top-10-62/"
+    },
+    {
+      "id": "sidequest",
+      "date": "2026-10-31",
+      "title": "SIDEQUEST Halloween Show (18+)",
+      "time": "Doors 8 PM",
+      "t": "20:00",
+      "place": "Laguna's Adventure Park, Pensacola Beach",
+      "area": "beaches",
+      "section": "entertainment",
+      "note": "Ticketed through Eventim; price not listed.",
+      "src": "https://localpulse.com/2026/10/local-pulse-weekend-top-10-62/"
+    },
+    {
+      "id": "trot",
+      "dates": [
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "title": "Trick-or-Trot Horse Show",
+      "time": "See event page",
+      "t": "09:00",
+      "place": "Escambia County Equestrian Center, 7750 Mobile Hwy",
+      "area": "elsewhere",
+      "section": "seasonal",
+      "note": "Runs through the weekend; check the daily schedule.",
+      "src": "https://www.octaviusrealestate.com/this-weekend-in-pensacola/s77zyldt8tjsh66-8zlpz-dm7zp-tw3bx-62t43-s7zf9-9p5zh-zhdks-2g3gc-56n7h-b4r8z-3bcyz-6mzl8-jryr9-h7byy-e3cbw-6e5f2-y7eyk-g3w3k-aeb49-lws74"
     }
   ],
   "restaurants": [
@@ -811,16 +827,16 @@
   ],
   "news": [
     {
+      "title": "FEMA individual assistance approved for Escambia and seven other counties",
+      "source": "Yahoo News",
+      "url": "https://www.yahoo.com/news/us/articles/fema-individual-assistance-approved-escambia-170301220.html",
+      "summary": "Federal aid for housing, repairs and other storm needs was announced Oct 29 after the earlier public-assistance approval. Applications go through DisasterAssistance.gov, but the link was not active yet in the report."
+    },
+    {
       "title": "FEMA public assistance approved for Northwest Florida after Isaias",
       "source": "WKRG via Yahoo News",
       "url": "https://www.yahoo.com/news/weather-news/articles/fema-approves-public-assistance-northwest-225015046.html",
       "summary": "Public assistance money is flowing to local governments, with Pensacola reporting about $25 million in damage to city facilities. Aid for individual residents is still under review."
-    },
-    {
-      "title": "Disaster declaration approved, individual assistance still pending",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/nas-pensacola-shooting/northwest-florida-gets-disaster-declaration-but-individual-assistance-still-pending",
-      "summary": "Officials say damage assessments continue and residents can still report property damage through county links; a lawmaker expects Escambia and Santa Rosa approval soon."
     },
     {
       "title": "Pelican opens on W Nine Mile Road",
@@ -943,5 +959,5 @@
       "url": "https://navarrepress.com/"
     }
   ],
-  "coverage_note": "Written early Thursday, Oct 29. Temperatures come from Weather Underground's 10-day page, which gives rainfall amounts rather than percentages, so rain chances are carried from FOX10 for Oct 31 and Nov 1 and are my rough estimates for the other days. Local Pulse, WEAR's listing page and NorthEscambia.com could not be opened this run, so Gonzalez, Molino, Beulah and Cantonment items are carried over and not reconfirmed, and no new north-county events were found. Weekend updates came from Must Do Pensacola's Halloween guide and weekly list and the PensacolaBeach.com air show page. Ice Flyers dates, the Saenger shows and later November events are carried over from earlier runs. Casa Luvia's opening rests on a headline only."
+  "coverage_note": "Updated early Friday, Oct 30. Fresh sources read this run: Local Pulse's weekend guide for Oct 29 to Nov 9, an Octavius Real Estate weekend listing, FOX10's Oct 28-29 forecast articles and a Yahoo report on FEMA aid. FOX10 covers the Mobile area and gave only some highs and rain chances, so Pensacola lows and the other rain chances are carried over or my rough estimates, and Nov 6 is an estimate. Visit Pensacola, Must Do Pensacola, Downtown Pensacola, the Saenger and the team sites could not be opened this run, and NorthEscambia.com's cached home page showed no Gonzalez, Molino, Beulah or Cantonment events, so those listings and the Ice Flyers, Saenger and later-November items are carried over and not reconfirmed. Restaurant statuses are unchanged from the last run, and only one new news item was confirmed."
 }
