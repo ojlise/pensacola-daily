@@ -1,47 +1,41 @@
 {
-  "generated": "2026-10-31T03:00:17-05:00",
-  "weekend_note": "Showers arrive this weekend: roughly a 20% chance Saturday afternoon (up to 40% with storms Saturday night) and showers likely Sunday, about 60%, with breezy east winds. Saturday morning looks like the best window for Taste of the Beach (free festival, 10 AM to 4 PM), the Palafox Halloween Market and Boo at the Zoo. Indoor picks: Rocky Horror at Pensacola Little Theatre, the Victorian Seance at Barkley House, and Ice Flyers hockey Sunday at 4:05 PM. The fair's outdoor concerts, including The Lacs Saturday night, carry the most rain risk. Isaias recovery is still affecting some events, so double-check before heading out.",
+  "generated": "2026-11-01T02:54:37-06:00",
+  "weekend_note": "Today (Sunday) has showers likely, about 60%, so lean indoors: Ice Flyers hockey at 4:05 PM or Rocky Horror at Pensacola Little Theatre (runs through Nov 8). Monday and Tuesday look mostly dry, with another wet spell Wednesday (about 60%) for the First City Lights kickoff and the Palafox holiday market. Next weekend is the best of the stretch, mostly sunny and in the mid 70s: the free Blue Angels Homecoming Air Show Nov 6-7, the Great Gulfcoast Arts Festival and the Greek Festival Nov 6-8. Storm recovery from Isaias is still affecting some events, so double-check before heading out.",
   "weather": [
     {
-      "date": "2026-10-31",
-      "hi": 80,
-      "lo": 68,
-      "rain": 40
-    },
-    {
       "date": "2026-11-01",
-      "hi": 76,
-      "lo": 65,
+      "hi": 77,
+      "lo": 66,
       "rain": 60
     },
     {
       "date": "2026-11-02",
-      "hi": 78,
+      "hi": 79,
       "lo": 67,
       "rain": 10
     },
     {
       "date": "2026-11-03",
-      "hi": 78,
-      "lo": 68,
-      "rain": 30
+      "hi": 79,
+      "lo": 70,
+      "rain": 20
     },
     {
       "date": "2026-11-04",
-      "hi": 78,
-      "lo": 63,
+      "hi": 79,
+      "lo": 66,
       "rain": 60
     },
     {
       "date": "2026-11-05",
-      "hi": 76,
-      "lo": 60,
-      "rain": 10
+      "hi": 78,
+      "lo": 62,
+      "rain": 20
     },
     {
       "date": "2026-11-06",
-      "hi": 76,
-      "lo": 58,
+      "hi": 77,
+      "lo": 60,
       "rain": 10
     },
     {
@@ -49,15 +43,21 @@
       "hi": 76,
       "lo": 58,
       "rain": 10
+    },
+    {
+      "date": "2026-11-08",
+      "hi": 76,
+      "lo": 58,
+      "rain": 10
     }
   ],
   "picks": [
-    "taste",
-    "halloween-mkt",
-    "boo",
+    "flyers",
     "rocky-horror",
-    "seance",
-    "flyers"
+    "firstcity",
+    "airshow",
+    "gulfarts",
+    "greekfest"
   ],
   "weekly": [
     {
@@ -149,184 +149,6 @@
       "src": "https://downtownpensacola.com/events"
     },
     {
-      "id": "elks5k",
-      "date": "2026-10-31",
-      "title": "Pensacola Beach Elks Halloween 5K and Kids Monster Dash",
-      "time": "5K 7:30 AM; kids dash 9 AM",
-      "t": "07:30",
-      "place": "Pensacola Beach Boardwalk parking lot",
-      "area": "beaches",
-      "section": "seasonal",
-      "note": "Costumes welcome; $35 entry, with proceeds going to local charities. Register at runpensacola.com.",
-      "src": "https://weartv.com/news/local/pensacola-beach-elks-lodge-to-host-halloween-5k-kids-dash-for-local-charities"
-    },
-    {
-      "id": "the52",
-      "date": "2026-10-31",
-      "title": "Halloween at The 52 Saturday Market",
-      "time": "9 AM to noon",
-      "t": "09:00",
-      "place": "The 52 World, 8511 Myslak Way, Pensacola",
-      "area": "elsewhere",
-      "section": "free",
-      "free": true,
-      "note": "Free Halloween edition of the Saturday market; a guided art tour needs advance reservations.",
-      "src": "https://localpulse.com/2026/10/local-pulse-weekend-top-10-62/"
-    },
-    {
-      "id": "trot",
-      "dates": [
-        "2026-10-31",
-        "2026-11-01"
-      ],
-      "title": "Trick-or-Trot Horse Show",
-      "time": "See event page",
-      "t": "09:00",
-      "place": "Escambia County Equestrian Center, 7750 Mobile Hwy",
-      "area": "elsewhere",
-      "section": "seasonal",
-      "note": "Runs through the weekend; check the daily schedule.",
-      "src": "https://www.octaviusrealestate.com/this-weekend-in-pensacola/s77zyldt8tjsh66-8zlpz-dm7zp-tw3bx-62t43-s7zf9-9p5zh-zhdks-2g3gc-56n7h-b4r8z-3bcyz-6mzl8-jryr9-h7byy-e3cbw-6e5f2-y7eyk-g3w3k-aeb49-lws74"
-    },
-    {
-      "id": "boo",
-      "dates": [
-        "2026-10-31",
-        "2026-11-01"
-      ],
-      "title": "Boo at the Zoo",
-      "time": "10 AM to 5 PM",
-      "t": "10:00",
-      "place": "Gulf Breeze Zoo",
-      "area": "elsewhere",
-      "section": "seasonal",
-      "note": "Rescheduled after Isaias canceled the first two weekends. Trick-or-treating, costumes and animal encounters.",
-      "src": "https://localpulse.com/2026/10/local-pulse-weekend-top-10-61/"
-    },
-    {
-      "id": "halloween-mkt",
-      "date": "2026-10-31",
-      "title": "Palafox Market Halloween Market",
-      "time": "9 AM to 2 PM",
-      "t": "10:00",
-      "place": "MLK Jr. Plaza and Plaza Ferdinand",
-      "area": "downtown",
-      "section": "seasonal",
-      "note": "Free costume trick-or-treating with market vendors, a live-animal show, a free haunted trolley between the two parks, kids zone and bluegrass music. Mini train rides cost extra.",
-      "src": "https://www.visitpensacola.com/events/palafox-market-s-halloween-market/",
-      "free": true
-    },
-    {
-      "id": "floracostume",
-      "date": "2026-10-31",
-      "title": "Flora-Bama Halloween Costume Contest",
-      "time": "Evening; contest time not yet posted",
-      "t": "12:00",
-      "place": "Flora-Bama, Perdido Key",
-      "area": "beaches",
-      "section": "seasonal",
-      "note": "Free entry in costume; cash prizes of $600, $500 and $400 for the top three.",
-      "src": "https://localpulse.com/2026/10/local-pulse-weekend-top-10-62/"
-    },
-    {
-      "id": "barcrawl",
-      "date": "2026-10-31",
-      "title": "Halloween Bar Crawl Pensacola (21+)",
-      "time": "Check-in 4 to 6 PM; crawl 4 to 10 PM; after party 10 PM to midnight",
-      "t": "16:00",
-      "place": "Check-in at 86 Forks Bar + Table, 11B Palafox Place",
-      "area": "downtown",
-      "section": "entertainment",
-      "note": "Ticketed; price not listed.",
-      "src": "https://localpulse.com/2026/10/local-pulse-weekend-top-10-62/"
-    },
-    {
-      "id": "tikiterror",
-      "date": "2026-10-31",
-      "title": "Tiki Terror",
-      "time": "4 PM to 1 AM; costume contest 7 PM",
-      "t": "16:00",
-      "place": "Perfect Plain Brewing Co., 50 E Garden St",
-      "area": "downtown",
-      "section": "seasonal",
-      "note": "Open to the public; cover not listed.",
-      "src": "https://localpulse.com/2026/10/local-pulse-weekend-top-10-62/"
-    },
-    {
-      "id": "grove",
-      "date": "2026-10-31",
-      "title": "Halloween in the Grove",
-      "time": "5:30 to 8:30 PM",
-      "t": "17:30",
-      "place": "810 Neal Rd, Cantonment",
-      "area": "elsewhere",
-      "section": "seasonal",
-      "note": "Halloween night event in Cantonment. See event page for details.",
-      "src": "https://allevents.in/cantonment"
-    },
-    {
-      "id": "pineforest-fall",
-      "date": "2026-10-31",
-      "title": "Annual Fall Festival",
-      "time": "6 to 8 PM",
-      "t": "18:00",
-      "place": "3125 Pine Forest Rd, Cantonment",
-      "area": "elsewhere",
-      "section": "seasonal",
-      "note": "Community fall festival. See event page for host and details.",
-      "src": "https://allevents.in/cantonment"
-    },
-    {
-      "id": "halloween-beach",
-      "date": "2026-10-31",
-      "title": "Beach Halloween bashes: Bamboo Willie's and Sneaky Tiki",
-      "time": "Bamboo Willie's bash 8 PM; Sneaky Tiki costume contests 5 and 5:30 PM",
-      "t": "18:00",
-      "place": "Pensacola Beach",
-      "area": "beaches",
-      "section": "seasonal",
-      "note": "Beach bar Halloween parties and costume contests: Bamboo Willie's bash at 8 PM with $1,000 in prizes, plus pet and people contests at Sneaky Tiki at 5 and 5:30 PM. Rain is possible Saturday night.",
-      "src": "https://localpulse.com/2026/10/local-pulse-weekend-top-10-62/"
-    },
-    {
-      "id": "meowloween",
-      "date": "2026-10-31",
-      "title": "Coastal Cat Cafe Meowloween Pawty",
-      "time": "6 to 7:30 PM",
-      "t": "18:00",
-      "place": "Coastal Cat Cafe, 1508 W Garden St",
-      "area": "downtown",
-      "section": "seasonal",
-      "note": "$28 per person before fees; reservations recommended.",
-      "src": "https://www.mustdopensacola.com/news/halloween-in-pensacola-2026-events-ghost-tours"
-    },
-    {
-      "id": "seance",
-      "dates": [
-        "2026-10-31"
-      ],
-      "title": "Talking to the Dead: The Victorian Seance",
-      "time": "6:30, 7:30 and 8:30 PM",
-      "t": "18:30",
-      "place": "Barkley House, 410 S Florida Blanca St",
-      "area": "downtown",
-      "section": "entertainment",
-      "note": "$35 per adult; several sessions were reported sold out earlier.",
-      "src": "https://www.mustdopensacola.com/news/halloween-in-pensacola-2026-events-ghost-tours"
-    },
-    {
-      "id": "halloween-dt",
-      "date": "2026-10-31",
-      "title": "Downtown Halloween costume contests and bar crawls",
-      "time": "Evening of Oct 31; see event pages",
-      "t": "19:00",
-      "place": "Downtown Pensacola",
-      "area": "downtown",
-      "section": "seasonal",
-      "note": "Costume contests include O'Riley's (11 PM, 21+) and Tiki Terror on E Garden St (4 PM to 1 AM, contest 7 PM).",
-      "src": "https://www.mustdopensacola.com/news/halloween-in-pensacola-2026-events-ghost-tours"
-    },
-    {
       "id": "rocky-horror",
       "date": "2026-10-31",
       "title": "The Rocky Horror Show (Pensacola Little Theatre)",
@@ -340,28 +162,28 @@
       "end": "2026-11-08"
     },
     {
-      "id": "fair-lacs",
-      "date": "2026-10-31",
-      "title": "The Lacs at the fair",
-      "time": "7:30 PM",
-      "t": "19:30",
-      "place": "Pepsi Open-Air Stage, Interstate Fairgrounds",
+      "id": "trot",
+      "title": "Trick-or-Trot Horse Show",
+      "time": "See event page",
+      "t": "09:00",
+      "place": "Escambia County Equestrian Center, 7750 Mobile Hwy",
       "area": "elsewhere",
-      "section": "entertainment",
-      "src": "https://localpulse.com/2026/08/pensacola-interstate-fair-unveils-star-studded-2026-entertainment-lineup-and-schedule/",
-      "note": "Outdoor stage; Saturday night carries a chance of storms. Free with fair admission."
+      "section": "seasonal",
+      "note": "Runs through the weekend; check the daily schedule.",
+      "src": "https://www.octaviusrealestate.com/this-weekend-in-pensacola/s77zyldt8tjsh66-8zlpz-dm7zp-tw3bx-62t43-s7zf9-9p5zh-zhdks-2g3gc-56n7h-b4r8z-3bcyz-6mzl8-jryr9-h7byy-e3cbw-6e5f2-y7eyk-g3w3k-aeb49-lws74",
+      "date": "2026-11-01"
     },
     {
-      "id": "sidequest",
-      "date": "2026-10-31",
-      "title": "SIDEQUEST Halloween Show (18+)",
-      "time": "Doors 8 PM",
-      "t": "20:00",
-      "place": "Laguna's Adventure Park, Pensacola Beach",
-      "area": "beaches",
-      "section": "entertainment",
-      "note": "Ticketed through Eventim; price not listed.",
-      "src": "https://localpulse.com/2026/10/local-pulse-weekend-top-10-62/"
+      "id": "boo",
+      "title": "Boo at the Zoo",
+      "time": "10 AM to 5 PM (Nov 1 date carried over from earlier listing)",
+      "t": "10:00",
+      "place": "Gulf Breeze Zoo",
+      "area": "elsewhere",
+      "section": "seasonal",
+      "note": "Rescheduled after Isaias canceled the first two weekends. Trick-or-treating, costumes and animal encounters.",
+      "src": "https://localpulse.com/2026/10/local-pulse-weekend-top-10-61/",
+      "date": "2026-11-01"
     },
     {
       "id": "flyers",
@@ -400,6 +222,18 @@
       "src": "https://pensacolabeach.com/november-events-in-pensacola/"
     },
     {
+      "id": "firstcity",
+      "date": "2026-11-04",
+      "title": "First City Lights Festival",
+      "time": "Kickoff Nov 4 on Palafox; lights continue through the season. Times not listed",
+      "t": "17:00",
+      "place": "Palafox Street, downtown",
+      "area": "downtown",
+      "section": "seasonal",
+      "note": "Holiday-season kickoff with more than half a million lights, Santa's arrival, a lighting ceremony and shopping on Palafox. Nov 4 has a 60% rain chance, so check before going.",
+      "src": "https://pensacolabeach.com/november-events-in-pensacola/"
+    },
+    {
       "id": "holidaylight",
       "date": "2026-11-04",
       "title": "Downtown Holiday Lighting Ceremony",
@@ -425,19 +259,6 @@
       "src": "https://www.visitpensacola.com/seasonal-fun-in-pensacola/fall/"
     },
     {
-      "id": "firstcity",
-      "date": "2026-11-05",
-      "end": "2026-12-31",
-      "title": "First City Lights Festival",
-      "time": "Lights on Palafox; see event page",
-      "t": "17:00",
-      "place": "Palafox Street, downtown",
-      "area": "downtown",
-      "section": "seasonal",
-      "note": "Holiday lights along Palafox; Visit Pensacola says festivities start Nov 5.",
-      "src": "https://www.visitpensacola.com/events/signature-events/"
-    },
-    {
       "id": "airshow",
       "date": "2026-11-06",
       "end": "2026-11-07",
@@ -457,10 +278,10 @@
       "title": "Great Gulfcoast Arts Festival",
       "time": "See event page",
       "t": "10:00",
-      "place": "Seville Square, Downtown Pensacola",
+      "place": "Seville Square, downtown",
       "area": "downtown",
       "section": "seasonal",
-      "note": "Free juried arts festival with 200+ artists, live music and a Children's Festival on Saturday and Sunday.",
+      "note": "Free juried show with 200+ artists and live music; a Children's Festival runs Saturday and Sunday. Daily hours not listed.",
       "src": "https://pensacolabeach.com/november-events-in-pensacola/",
       "free": true
     },
@@ -474,7 +295,7 @@
       "place": "Annunciation Greek Orthodox Church",
       "area": "downtown",
       "section": "seasonal",
-      "note": "Church festival, dates per Visit Pensacola; hours and prices not listed there.",
+      "note": "Greek food, music, folk dancing and family activities. Hours not listed.",
       "src": "https://pensacolabeach.com/november-events-in-pensacola/"
     },
     {
@@ -487,8 +308,8 @@
       "place": "Ashton Brosnaham Soccer Complex",
       "area": "elsewhere",
       "section": "entertainment",
-      "note": "Conference tournament week at the county soccer complex.",
-      "src": "https://www.visitpensacola.com/events/signature-events/"
+      "note": "Women's SEC soccer championship tournament; match times not listed.",
+      "src": "https://pensacolabeach.com/november-events-in-pensacola/"
     },
     {
       "id": "festa",
@@ -558,11 +379,11 @@
       "title": "Pensacola EggFest",
       "time": "See event page",
       "t": "11:00",
-      "place": "See event page",
+      "place": "Hadji Shrine Temple",
       "area": "downtown",
       "section": "seasonal",
-      "note": "Backyard and competition barbecue event listed by Visit Pensacola; location, hours and prices not listed there.",
-      "src": "https://www.visitpensacola.com/seasonal-fun-in-pensacola/fall/"
+      "note": "Ticketed barbecue competition and food event benefiting local charities.",
+      "src": "https://pensacolabeach.com/november-events-in-pensacola/"
     },
     {
       "id": "barktoberfest",
@@ -613,6 +434,23 @@
       "src": "https://pensacolabeach.com/november-events-in-pensacola/"
     },
     {
+      "id": "winterfest",
+      "title": "Winterfest",
+      "time": "Times not listed; continues select nights through Christmas Eve",
+      "t": "17:30",
+      "place": "Downtown Pensacola",
+      "area": "downtown",
+      "section": "seasonal",
+      "note": "Holiday celebration on the Palafox area with falling snow, live performances, characters, Santa and trolley tours.",
+      "src": "https://pensacolabeach.com/november-events-in-pensacola/",
+      "dates": [
+        "2026-11-20",
+        "2026-11-22",
+        "2026-11-27",
+        "2026-11-28"
+      ]
+    },
+    {
       "id": "opera2",
       "dates": [
         "2026-11-20",
@@ -652,15 +490,16 @@
       "src": "https://www.beachguide.com/perdido-key/events"
     },
     {
-      "id": "winterfest",
+      "id": "elfparade",
       "date": "2026-11-27",
-      "title": "Winterfest opening night and Elf Parade",
-      "time": "Parade 2 PM; tours from 5:30 PM",
+      "title": "Elf Parade & Christmas Jubilee",
+      "time": "Parade 2 PM; festivities start earlier",
       "t": "14:00",
-      "place": "Downtown Pensacola",
+      "place": "Government and Palafox, downtown",
       "area": "downtown",
       "section": "seasonal",
-      "note": "Winterfest nights listed for Nov 20, 22, 27 and 28; the Elf Parade starts at 2 PM Nov 27 at Government and Palafox. Programming continues select nights through Christmas Eve.",
+      "free": true,
+      "note": "Costume and decorated-wagon parade with contests for costumes and decorating.",
       "src": "https://pensacolabeach.com/november-events-in-pensacola/"
     },
     {
@@ -871,58 +710,46 @@
   ],
   "news": [
     {
-      "title": "City park and facility closures continue after Isaias",
-      "source": "City of Pensacola",
-      "url": "https://www.cityofpensacola.com/m/newsflash/Home/Detail/5281",
-      "summary": "The city updated its list of open, closed and limited-hours parks on Oct 29 and asks residents to stay off playgrounds until they are inspected."
+      "title": "Pensacola Beach short-term rental rules up for possible vote Nov. 4",
+      "source": "WEAR",
+      "url": "https://weartv.com/news/local/pensacola-beach-short-term-rental-regulations-up-for-discussion-and-possible-vote-nov-4",
+      "summary": "The Santa Rosa Island Authority is weighing a draft requiring annual registration, inspection records, a 24/7 contact who responds within an hour, and a three-strike rule. The board meets at 5 PM Nov 4."
     },
     {
       "title": "FEMA individual assistance approved for Escambia and seven other counties",
-      "source": "Yahoo News",
-      "url": "https://www.yahoo.com/news/us/articles/fema-individual-assistance-approved-escambia-170301220.html",
-      "summary": "Federal aid for housing, repairs and other storm needs was announced Oct 29 after the earlier public-assistance approval. Applications go through DisasterAssistance.gov, but the link was not active yet in the report."
-    },
-    {
-      "title": "FEMA public assistance approved for Northwest Florida after Isaias",
-      "source": "WKRG via Yahoo News",
-      "url": "https://www.yahoo.com/news/weather-news/articles/fema-approves-public-assistance-northwest-225015046.html",
-      "summary": "Public assistance money is flowing to local governments, with Pensacola reporting about $25 million in damage to city facilities. Aid for individual residents is still under review."
-    },
-    {
-      "title": "Bayview Senior Center storm resource center closes Oct 30",
-      "source": "City of Pensacola",
-      "url": "https://www.cityofpensacola.com/m/newsflash/Home/Detail/5286",
-      "summary": "The multi-agency resource center set up for storm recovery had its last day of operation on Oct 30."
-    },
-    {
-      "title": "Debris removal costs and recycling restart",
-      "source": "City of Pensacola",
-      "url": "https://www.cityofpensacola.com/m/newsflash/Home/Detail/5274",
-      "summary": "As of Oct 19 the city estimated about $16 million in debris removal costs, with recycling pickup resuming Oct 26."
-    },
-    {
-      "title": "Pelican opens on W Nine Mile Road",
-      "source": "Pensacola News Journal via AOL",
-      "url": "https://www.aol.com/articles/pelican-brings-upscale-restaurant-lively-090754000.html",
-      "summary": "The restaurant, bar and liquor store began a soft opening Oct 19, with a grand opening planned Nov 7."
-    },
-    {
-      "title": "Pensacola Interstate Fair runs through Nov 1",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/families-attend-91st-pensacola-interstate-fair-for-fun-away-from-isaias-aftermath",
-      "summary": "The fair opened on schedule despite storm damage at the grounds; organizers said canceling was not feasible because the ride company had later commitments."
+      "url": "https://weartv.com/news/local/fema-individual-assistance-approved-for-escambia-santa-rosa-okaloosa-counties",
+      "summary": "Aid for housing, repairs and other needs was announced Oct 29. Apply at DisasterAssistance.gov; insured residents may still qualify for uninsured losses."
     },
     {
-      "title": "A&E Fabrics and Crafts to close after storm damage",
+      "title": "Storm-recovery job demand expected to last about six more months",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/ae-fabric-and-crafts-in-pensacola-prepares-to-close-for-good-after-isaias-roof-damage",
-      "summary": "The 1954 store on New Warrington Road is closing for good after roof damage and plans to retire."
+      "url": "https://weartv.com/news/local/storm-recovery-job-demand-across-northwest-florida-expected-to-stay-high-for-six-months",
+      "summary": "CareerSource Escarosa says debris removal, roofing and construction work will stay in demand. Pensacola's mayor said the first debris pass has roughly three weeks left."
+    },
+    {
+      "title": "Lewis Bear Company marks 150 years in Pensacola",
+      "source": "WEAR",
+      "url": "https://weartv.com/news/local/pensacola-lewis-bear-company-celebrates-150-years-of-community-impact",
+      "summary": "The family business, founded in 1876 and now in its fifth generation, held an anniversary celebration at its Pensacola headquarters Oct 29."
+    },
+    {
+      "title": "Foo Foo Fest opens with downtown Light Spill installation",
+      "source": "WEAR",
+      "url": "https://weartv.com/news/local/pensacolas-13th-annual-foo-foo-fest-begins-featuring-downtown-light-spill-installation",
+      "summary": "The 13th annual arts festival kicked off with a light installation downtown and runs through Nov 9."
     },
     {
       "title": "TSA PreCheck enrollment at Pensacola airport Nov 3 to 6",
       "source": "WEAR",
       "url": "https://weartv.com/news/local/tsa-precheck-enrollment-set-for-nov-3-6-at-pensacola-international-airport",
-      "summary": "Daily enrollment 9 AM to noon and 1 to 5 PM; the fee is $76.75 for five years."
+      "summary": "Daily enrollment 9 AM to noon and 1 to 5 PM; the fee is $76.75 for five years. Carried over from an earlier read."
+    },
+    {
+      "title": "City park and facility closures continue after Isaias",
+      "source": "City of Pensacola",
+      "url": "https://www.cityofpensacola.com/m/newsflash/Home/Detail/5281",
+      "summary": "The city updated its list of open, closed and limited-hours parks on Oct 29 and asks residents to stay off playgrounds until inspected. Carried over from an earlier read."
     }
   ],
   "sources": [
@@ -1019,5 +846,5 @@
       "url": "https://forecast.weather.gov/MapClick.php?lat=30.44&lon=-87.19"
     }
   ],
-  "coverage_note": "Updated early Saturday, Oct 31. Read this run: the NWS Pensacola forecast issued Oct 30 (Nov 6 and 7 lows and the Nov 7 rain chance are my estimates, and some rain chances are the night-period figure), Local Pulse's weekend guide dated Oct 29, PensacolaBeach.com's November events page, City of Pensacola news posts and Must Do Pensacola's Maynard's Donuts article. NorthEscambia.com pages would not load, so no Gonzalez, Molino, Beulah or Cantonment listings were added; north county coverage is thin. Visit Pensacola, the Saenger, Downtown Pensacola and the team sites were not opened, so Saenger shows and later-November items are carried over and not reconfirmed. Restaurant statuses are unchanged apart from the Maynard's addition, and the Oct 30 TSA, FEMA, Pelican, fair and A&E news items are carried over from earlier reads."
+  "coverage_note": "Updated Sunday, Nov 1. Read this run: the NWS Pensacola forecast issued Oct 31 (Monday, Friday and weekend rain chances were not stated and are my estimates; Nov 7 and 8 lows and the Nov 8 numbers are estimates), PensacolaBeach.com's November events page, and WEAR's local headlines and four articles. Local Pulse, Must Do Pensacola, the Saenger, Visit Pensacola, team sites and the City of Pensacola news page could not be opened this run, so December and Saenger items and restaurant statuses are carried over and not reconfirmed. NorthEscambia.com's pages showed only older content, so no Gonzalez, Molino, Beulah or Cantonment listings were added; north county coverage is thin."
 }
