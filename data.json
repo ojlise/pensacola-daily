@@ -1,84 +1,77 @@
 {
-  "generated": "2026-11-01T02:54:37-06:00",
-  "weekend_note": "Today (Sunday) has showers likely, about 60%, so lean indoors: Ice Flyers hockey at 4:05 PM or Rocky Horror at Pensacola Little Theatre (runs through Nov 8). Monday and Tuesday look mostly dry, with another wet spell Wednesday (about 60%) for the First City Lights kickoff and the Palafox holiday market. Next weekend is the best of the stretch, mostly sunny and in the mid 70s: the free Blue Angels Homecoming Air Show Nov 6-7, the Great Gulfcoast Arts Festival and the Greek Festival Nov 6-8. Storm recovery from Isaias is still affecting some events, so double-check before heading out.",
+  "generated": "2026-11-02T03:00:48-06:00",
+  "weekend_note": "Warm and mostly dry early in the week, with showers and storms most likely Tuesday night into Wednesday (about 50%), which could dampen the Wednesday evening First City Lights kickoff downtown. The Nov 6 to 8 weekend looks sunny, cooler and comfortable, a good fit for the free Blue Angels Homecoming Air Show, Great Gulfcoast Arts Festival, Greek Festival and Frank Brown songwriter shows, all mostly outdoors. Mozart & Bizet at the Saenger on Saturday night is the indoor pick. Hurricane Isaias recovery still affects some places, so double-check before heading out.",
   "weather": [
     {
-      "date": "2026-11-01",
-      "hi": 77,
-      "lo": 66,
-      "rain": 60
-    },
-    {
       "date": "2026-11-02",
-      "hi": 79,
-      "lo": 67,
-      "rain": 10
+      "hi": 80,
+      "lo": 68,
+      "rain": 5
     },
     {
       "date": "2026-11-03",
-      "hi": 79,
+      "hi": 80,
       "lo": 70,
-      "rain": 20
+      "rain": 35
     },
     {
       "date": "2026-11-04",
-      "hi": 79,
+      "hi": 81,
       "lo": 66,
-      "rain": 60
+      "rain": 50
     },
     {
       "date": "2026-11-05",
-      "hi": 78,
-      "lo": 62,
-      "rain": 20
+      "hi": 80,
+      "lo": 63,
+      "rain": 10
     },
     {
       "date": "2026-11-06",
-      "hi": 77,
-      "lo": 60,
-      "rain": 10
+      "hi": 78,
+      "lo": 58,
+      "rain": 5
     },
     {
       "date": "2026-11-07",
-      "hi": 76,
-      "lo": 58,
-      "rain": 10
+      "hi": 75,
+      "lo": 57,
+      "rain": 5
     },
     {
       "date": "2026-11-08",
-      "hi": 76,
-      "lo": 58,
+      "hi": 74,
+      "lo": 54,
+      "rain": 20
+    },
+    {
+      "date": "2026-11-09",
+      "hi": 68,
+      "lo": 48,
       "rain": 10
     }
   ],
   "picks": [
-    "flyers",
-    "rocky-horror",
-    "firstcity",
+    "holidaylight",
     "airshow",
     "gulfarts",
-    "greekfest"
+    "greekfest",
+    "frankbrown",
+    "mozart"
   ],
   "weekly": [
     {
       "day": "Saturday",
       "title": "Palafox Market",
       "place": "Downtown Pensacola",
-      "note": "Weekly Saturday market; this week is the Halloween edition (see events). PensacolaBeach.com lists regular Saturday markets Nov 7, 14, 21 and 28; hours not listed.",
-      "src": "https://pensacolabeach.com/november-events-in-pensacola/"
-    },
-    {
-      "day": "Wednesday",
-      "title": "Palafox Market Holiday Edition",
-      "place": "Plaza Ferdinand, then MLK Jr. Plaza",
-      "note": "4 to 8 PM, starting Nov 4 and running through Nov 25.",
-      "src": "https://pensacolabeach.com/november-events-in-pensacola/"
+      "note": "Weekly Saturday market. I could not confirm the Nov 7 edition, so check before heading downtown, especially with the Arts Festival nearby.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-october-2026"
     },
     {
       "day": "Sunday",
       "title": "Sunday Market on Palafox",
       "place": "Palafox Street, 11:30 AM to 3:30 PM",
-      "note": "Local Pulse listed it as canceled the weekend of Oct 17; no return date found this run, so confirm before going.",
+      "note": "Normally vendors, produce and music. Local Pulse listed it as canceled the weekend of Oct 17; no return date found, so confirm before going.",
       "src": "https://localpulse.com/2026/10/local-pulse-weekend-top-10-60/"
     }
   ],
@@ -97,32 +90,6 @@
       "src": "https://localpulse.com/2026/10/local-pulse-weekend-top-10-61/"
     },
     {
-      "id": "fair",
-      "date": "2026-10-23",
-      "end": "2026-11-01",
-      "title": "Pensacola Interstate Fair",
-      "time": "Opens 4 PM weekdays; hours vary by day",
-      "t": "16:00",
-      "place": "Pensacola Interstate Fairgrounds, 6655 W Mobile Hwy",
-      "area": "elsewhere",
-      "section": "seasonal",
-      "note": "Final weekend: Kids Day Oct 31 (free for ages 11 and under, 11 AM to 2 PM) and Last Blast Family Day Nov 1. Showers are likely Sunday.",
-      "src": "https://www.mustdopensacola.com/news/halloween-in-pensacola-2026-events-ghost-tours"
-    },
-    {
-      "id": "taste",
-      "date": "2026-10-29",
-      "end": "2026-11-01",
-      "title": "Taste of the Beach: A Culinary Journey",
-      "time": "Oct 29 sunset cruise; Oct 30 VIP trolley dinner; Oct 31 free festival 10 AM to 4 PM; Nov 1 brunch trolley",
-      "t": "10:00",
-      "place": "Pensacola Beach",
-      "area": "beaches",
-      "section": "seasonal",
-      "note": "Culinary showcase at Gulfside Pavilion with 16 restaurants, live music and kids cooking classes; trolley dinner and brunch experiences. Prices not listed.",
-      "src": "https://www.mustdopensacola.com/news/halloween-in-pensacola-2026-events-ghost-tours"
-    },
-    {
       "id": "foofoo",
       "date": "2026-10-29",
       "end": "2026-11-09",
@@ -132,77 +99,86 @@
       "place": "Venues around Pensacola",
       "area": "downtown",
       "section": "seasonal",
-      "note": "12 days of art, music and theater, Oct 29 to Nov 9. Includes the Lightspill art installation and Night Moves Music Fest; some events free, some ticketed.",
-      "src": "https://localpulse.com/2026/08/pensacola-foo-foo-festival-releases-initial-calendar-of-events/"
+      "note": "12-day arts festival through Nov 9: Lightspill, free Science on the Street installations on Palafox, Night Moves Music Fest (through Nov 8) and ticketed shows. Some events free.",
+      "src": "https://www.mustdopensacola.com/news/foo-foo-festival-rolls-on-pensacola-2026"
     },
     {
       "id": "lightspill",
       "date": "2026-10-29",
       "end": "2026-11-09",
       "title": "Lightspill",
-      "time": "See event page",
+      "time": "Runs daily; no ticket needed",
       "t": "19:00",
       "place": "223 S Palafox, downtown",
       "area": "downtown",
       "section": "seasonal",
-      "note": "Friends of Downtown event listed near-daily during the Foo Foo Festival stretch.",
-      "src": "https://downtownpensacola.com/events"
+      "note": "Outdoor installation of reflective spheres on the Artel Gallery building; free to see through Nov 9.",
+      "src": "https://www.mustdopensacola.com/news/foo-foo-festival-rolls-on-pensacola-2026",
+      "free": true
+    },
+    {
+      "id": "zipline",
+      "date": "2026-11-02",
+      "end": "2026-11-30",
+      "title": "Fall Foliage Zipline Tours",
+      "time": "See event page",
+      "t": "10:00",
+      "place": "Adventures Unlimited, 8974 Tomahawk Landing Rd, Milton",
+      "area": "elsewhere",
+      "section": "seasonal",
+      "note": "Canopy zipline tours through Nov 30, with camping, cabins and Coldwater Creek paddling.",
+      "src": "https://www.yahoo.com/entertainment/music/articles/great-gulfcoast-arts-greek-fest-100221202.html"
+    },
+    {
+      "id": "carnival",
+      "date": "2026-11-02",
+      "end": "2026-11-03",
+      "title": "Carnival of the Animals (Ballet Pensacola)",
+      "time": "Mon 1 PM and 5:30 PM, Tue 5:30 PM",
+      "t": "13:00",
+      "place": "Clark Family Cultural Center, 400 S Jefferson St",
+      "area": "downtown",
+      "section": "entertainment",
+      "note": "Original family production for Foo Foo Fest; ticket info on the festival site.",
+      "src": "https://www.yahoo.com/entertainment/music/articles/great-gulfcoast-arts-greek-fest-100221202.html"
+    },
+    {
+      "id": "mondayblues",
+      "date": "2026-11-02",
+      "title": "Monday Night Blues",
+      "time": "7 PM",
+      "t": "19:00",
+      "place": "Seville Quarter, 130 E Government St",
+      "area": "downtown",
+      "section": "entertainment",
+      "note": "Live blues with barbecue and beer specials.",
+      "src": "https://www.yahoo.com/entertainment/music/articles/great-gulfcoast-arts-greek-fest-100221202.html"
     },
     {
       "id": "rocky-horror",
-      "date": "2026-10-31",
+      "date": "2026-11-02",
       "title": "The Rocky Horror Show (Pensacola Little Theatre)",
-      "time": "Runs through Nov 8; Fri 7:30 PM confirmed (other showtimes not listed)",
+      "time": "Wed to Sun at 7:30 PM through Nov 8",
       "t": "19:30",
       "place": "Pensacola Little Theatre, 400 S Jefferson St",
       "area": "downtown",
       "section": "entertainment",
-      "note": "Stage production opening Halloween weekend. Ticket prices and later showtimes are not listed, so check the theatre site.",
-      "src": "https://localpulse.com/2026/10/local-pulse-weekend-top-10-62/",
+      "note": "Stage production at Pensacola Little Theatre, in its final week. Ticket prices not listed; check the theatre site.",
+      "src": "https://www.yahoo.com/entertainment/music/articles/great-gulfcoast-arts-greek-fest-100221202.html",
       "end": "2026-11-08"
     },
     {
-      "id": "trot",
-      "title": "Trick-or-Trot Horse Show",
+      "id": "sideshow",
+      "date": "2026-11-03",
+      "end": "2026-11-08",
+      "title": "Side Show (PenArts circus-inspired musical)",
       "time": "See event page",
-      "t": "09:00",
-      "place": "Escambia County Equestrian Center, 7750 Mobile Hwy",
-      "area": "elsewhere",
-      "section": "seasonal",
-      "note": "Runs through the weekend; check the daily schedule.",
-      "src": "https://www.octaviusrealestate.com/this-weekend-in-pensacola/s77zyldt8tjsh66-8zlpz-dm7zp-tw3bx-62t43-s7zf9-9p5zh-zhdks-2g3gc-56n7h-b4r8z-3bcyz-6mzl8-jryr9-h7byy-e3cbw-6e5f2-y7eyk-g3w3k-aeb49-lws74",
-      "date": "2026-11-01"
-    },
-    {
-      "id": "boo",
-      "title": "Boo at the Zoo",
-      "time": "10 AM to 5 PM (Nov 1 date carried over from earlier listing)",
-      "t": "10:00",
-      "place": "Gulf Breeze Zoo",
-      "area": "elsewhere",
-      "section": "seasonal",
-      "note": "Rescheduled after Isaias canceled the first two weekends. Trick-or-treating, costumes and animal encounters.",
-      "src": "https://localpulse.com/2026/10/local-pulse-weekend-top-10-61/",
-      "date": "2026-11-01"
-    },
-    {
-      "id": "flyers",
-      "dates": [
-        "2026-11-01",
-        "2026-11-13",
-        "2026-11-14",
-        "2026-11-25",
-        "2026-11-28",
-        "2026-12-05"
-      ],
-      "title": "Pensacola Ice Flyers home games",
-      "time": "Nov 1 at 4:05 PM; other dates 7:05 PM",
-      "t": "16:05",
-      "place": "Pensacola Bay Center",
+      "t": "19:30",
+      "place": "Gordon Community Art Center, 306 N De Villiers St",
       "area": "downtown",
       "section": "entertainment",
-      "src": "https://pensacolabeach.com/november-events-in-pensacola/",
-      "note": "Home games at the Bay Center: Nov 1, 13, 14, 25 and 28 confirmed by PensacolaBeach.com; the Dec 5 date is carried over, so confirm on the team site."
+      "note": "Ticketed Foo Foo Fest musical; showtimes not listed in what I read.",
+      "src": "https://www.mustdopensacola.com/news/foo-foo-festival-rolls-on-pensacola-2026"
     },
     {
       "id": "holidaymkt",
@@ -236,14 +212,26 @@
     {
       "id": "holidaylight",
       "date": "2026-11-04",
-      "title": "Downtown Holiday Lighting Ceremony",
-      "time": "Evening; see event page",
-      "t": "18:00",
-      "place": "309 S Palafox, downtown",
+      "title": "First City Lights kickoff and Holiday Haul",
+      "time": "5 PM",
+      "t": "17:00",
+      "place": "Downtown Pensacola (Plaza Ferdinand, Museum of History)",
       "area": "downtown",
       "section": "seasonal",
-      "note": "Santa arrives and the lights go on along Palafox, alongside the Palafox Market Holiday Edition (4 to 8 PM Wednesdays, Nov 4 at Plaza Ferdinand) and the 10th Annual Holiday Haul. Rain is likely that day.",
-      "src": "https://pensacolabeach.com/november-events-in-pensacola/"
+      "note": "Opening night of the holiday lights with Santa and the Grinch near the Museum of History and a mini-train at Plaza Ferdinand 5 to 8 PM; Holiday Haul shop open house at Rusted Arrow Mercantile also starts at 5. Storms are possible Wednesday.",
+      "src": "https://www.yahoo.com/entertainment/music/articles/great-gulfcoast-arts-greek-fest-100221202.html"
+    },
+    {
+      "id": "runway",
+      "date": "2026-11-04",
+      "title": "Rock the Runway: Living Art (Pensacola Opera)",
+      "time": "See event page",
+      "t": "19:00",
+      "place": "Saenger Theatre",
+      "area": "downtown",
+      "section": "entertainment",
+      "note": "Opera mixed with fashion, dance and visual projections for Foo Foo Fest.",
+      "src": "https://www.mustdopensacola.com/news/foo-foo-festival-rolls-on-pensacola-2026"
     },
     {
       "id": "frankbrown",
@@ -252,37 +240,61 @@
       "title": "Frank Brown Songwriters' Festival",
       "time": "See event page",
       "t": "12:00",
-      "place": "Venues around Pensacola and the Gulf Coast",
+      "place": "Perdido Key, Flora-Bama and Gulf Coast venues",
       "area": "elsewhere",
       "section": "entertainment",
-      "note": "Songwriter shows at many venues; Visit Pensacola lists the run as Nov 5 to 15.",
-      "src": "https://www.visitpensacola.com/seasonal-fun-in-pensacola/fall/"
+      "note": "42nd annual festival with 200+ songwriters and 600+ performances on stages across Perdido Key, Orange Beach and the Gulf Coast, including the Flora-Bama. Many shows are free.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-november-2-8-2026"
+    },
+    {
+      "id": "greatsouthern",
+      "date": "2026-11-05",
+      "title": "Great Southern Dinner (food and wine)",
+      "time": "5:30 PM",
+      "t": "17:30",
+      "place": "Jackson's Steakhouse, 400 S Palafox St",
+      "area": "downtown",
+      "section": "entertainment",
+      "note": "Five-course dinner with chefs from The Fish House, Five Sisters' Blues Cafe, Angelena's and Jackson's; $125.",
+      "src": "https://www.yahoo.com/entertainment/music/articles/great-gulfcoast-arts-greek-fest-100221202.html"
+    },
+    {
+      "id": "livingmuseum",
+      "date": "2026-11-05",
+      "title": "Living Museum: Anchored in History",
+      "time": "See event page",
+      "t": "18:00",
+      "place": "Pensacola Museum of History",
+      "area": "downtown",
+      "section": "entertainment",
+      "note": "Costumed performers portray historical figures. Tickets $8 adults, $5 ages 5 to 12, under 5 free.",
+      "src": "https://www.mustdopensacola.com/news/foo-foo-festival-rolls-on-pensacola-2026"
     },
     {
       "id": "airshow",
       "date": "2026-11-06",
       "end": "2026-11-07",
       "title": "NAS Pensacola Blue Angels Homecoming Air Show",
-      "time": "Gates 8 AM; show 9:30 AM; Blue Angels about 2 PM both days",
+      "time": "Gates 8 AM; show about 9:30 AM; Blue Angels about 2 PM",
       "t": "09:00",
       "place": "NAS Pensacola",
       "area": "elsewhere",
       "section": "entertainment",
-      "src": "https://pensacolabeach.com/nas-pensacola-blue-angels-homecoming-air-show/",
-      "note": "Free general admission; reserved box seating is $50 (per an earlier source)."
+      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-november-2-8-2026",
+      "note": "Final Blue Angels shows of 2026 and part of NAS Pensacola's 200th anniversary. General admission and parking are free; upgraded seating is sold separately. Expect big crowds. Boat cruises for viewing from the water have limited availability."
     },
     {
       "id": "gulfarts",
       "date": "2026-11-06",
       "end": "2026-11-08",
       "title": "Great Gulfcoast Arts Festival",
-      "time": "See event page",
+      "time": "Fri/Sat 9 AM to 5 PM, Sun 9 AM to 4 PM",
       "t": "10:00",
       "place": "Seville Square, downtown",
       "area": "downtown",
       "section": "seasonal",
-      "note": "Free juried show with 200+ artists and live music; a Children's Festival runs Saturday and Sunday. Daily hours not listed.",
-      "src": "https://pensacolabeach.com/november-events-in-pensacola/",
+      "note": "Free juried show with 200+ artists, live music, a children's arts festival, a student show and food.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-november-2-8-2026",
       "free": true
     },
     {
@@ -290,26 +302,99 @@
       "date": "2026-11-06",
       "end": "2026-11-08",
       "title": "Pensacola Greek Festival",
-      "time": "See event page",
+      "time": "Fri/Sat 11 AM to 9 PM, Sun 11 AM to 3 PM",
       "t": "11:00",
       "place": "Annunciation Greek Orthodox Church",
       "area": "downtown",
       "section": "seasonal",
-      "note": "Greek food, music, folk dancing and family activities. Hours not listed.",
-      "src": "https://pensacolabeach.com/november-events-in-pensacola/"
+      "note": "Free entry at Annunciation Greek Orthodox Church (1720 W Garden St); food is extra. Greek dishes, pastries, music, folk dancing and church tours.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-november-2-8-2026",
+      "free": true
+    },
+    {
+      "id": "lupe",
+      "date": "2026-11-06",
+      "title": "Lupe Fiasco at Vinyl Music Hall",
+      "time": "Doors 7 PM, show 8 PM",
+      "t": "20:00",
+      "place": "Vinyl Music Hall, 2 S Palafox St",
+      "area": "downtown",
+      "section": "entertainment",
+      "note": "All ages; tickets listed at $51.20.",
+      "src": "https://www.yahoo.com/entertainment/music/articles/great-gulfcoast-arts-greek-fest-100221202.html"
+    },
+    {
+      "id": "bourbon",
+      "date": "2026-11-07",
+      "title": "Bourbon and Bacon",
+      "time": "2 PM",
+      "t": "14:00",
+      "place": "O'Riley's Irish Pub, 321 S Palafox St",
+      "area": "downtown",
+      "section": "entertainment",
+      "note": "Bourbon tasting with gourmet bacon and optional cigars; $40 general, $70 VIP.",
+      "src": "https://www.yahoo.com/entertainment/music/articles/great-gulfcoast-arts-greek-fest-100221202.html"
+    },
+    {
+      "id": "emo",
+      "date": "2026-11-07",
+      "title": "Emo Orchestra with The Spill Canvas",
+      "time": "Doors 6 PM, show 7 PM",
+      "t": "19:00",
+      "place": "Vinyl Music Hall, 2 S Palafox St",
+      "area": "downtown",
+      "section": "entertainment",
+      "note": "All ages; tickets listed at $46.16.",
+      "src": "https://www.yahoo.com/entertainment/music/articles/great-gulfcoast-arts-greek-fest-100221202.html"
+    },
+    {
+      "id": "mozart",
+      "date": "2026-11-07",
+      "title": "Mozart & Bizet (Pensacola Symphony Orchestra)",
+      "time": "See event page",
+      "t": "19:30",
+      "place": "Saenger Theatre",
+      "area": "downtown",
+      "section": "entertainment",
+      "note": "Led by Peter Rubardt with pianist Carter Johnson; program also includes Stravinsky. Indoors.",
+      "src": "https://www.mustdopensacola.com/news/foo-foo-festival-rolls-on-pensacola-2026"
     },
     {
       "id": "sectsoccer",
       "date": "2026-11-08",
       "end": "2026-11-15",
       "title": "SEC Soccer Tournament",
-      "time": "See event page",
+      "time": "Match times not listed",
       "t": "09:00",
       "place": "Ashton Brosnaham Soccer Complex",
       "area": "elsewhere",
       "section": "entertainment",
-      "note": "Women's SEC soccer championship tournament; match times not listed.",
-      "src": "https://pensacolabeach.com/november-events-in-pensacola/"
+      "note": "SEC women's soccer tournament with the top 12 teams, Nov 8 to 15. Session and package tickets; children 5 and under free. Free Fan Fest from 11:30 AM on championship day, Nov 15.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-november-2-8-2026"
+    },
+    {
+      "id": "woodbox",
+      "date": "2026-11-08",
+      "title": "Wood Box Heroes benefit concert",
+      "time": "Doors 6 PM, show 7 PM",
+      "t": "19:00",
+      "place": "Vinyl Music Hall, 2 S Palafox St",
+      "area": "downtown",
+      "section": "entertainment",
+      "note": "Proceeds go to Gulf Coast Kid's House.",
+      "src": "https://www.yahoo.com/entertainment/music/articles/great-gulfcoast-arts-greek-fest-100221202.html"
+    },
+    {
+      "id": "vets",
+      "date": "2026-11-11",
+      "title": "Veterans Day Ceremony",
+      "time": "11 AM",
+      "t": "11:00",
+      "place": "Veterans Memorial Park, downtown",
+      "area": "downtown",
+      "section": "seasonal",
+      "note": "Music from the Blue Anchor Belles and McGuire's Irish Pub Pipe Band, with a keynote by retired Navy Cmdr. Keith Hoskins.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-november-2026"
     },
     {
       "id": "festa",
@@ -322,7 +407,7 @@
       "area": "downtown",
       "section": "seasonal",
       "note": "Postponed because of Isaias. Free admission.",
-      "src": "https://pensacolabeach.com/november-events-in-pensacola/",
+      "src": "https://weartv.com/news/local/festa-italiana-in-downtown-pensacola-rescheduled-to-mid-november-due-to-isaias",
       "free": true
     },
     {
@@ -348,6 +433,24 @@
       "section": "entertainment",
       "note": "Classic rock night at the ballpark with field tables, club seats and standing room. Tickets through the Blue Wahoos.",
       "src": "https://www.mlb.com/milb/pensacola/news/white-tie-rock-2026"
+    },
+    {
+      "id": "flyers",
+      "dates": [
+        "2026-11-13",
+        "2026-11-14",
+        "2026-11-25",
+        "2026-11-28",
+        "2026-12-05"
+      ],
+      "title": "Pensacola Ice Flyers home games",
+      "time": "7:05 PM",
+      "t": "19:05",
+      "place": "Pensacola Bay Center",
+      "area": "downtown",
+      "section": "entertainment",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-november-2026",
+      "note": "Nov 13 vs. Macon Mayhem (adult jersey giveaway), Nov 14 vs. Macon (Blue Angels Night), Nov 25 vs. Huntsville (Thanksgiving Eve), Nov 28 youth jersey giveaway night. Dec 5 carried over; confirm on the team site."
     },
     {
       "id": "pourplay",
@@ -377,13 +480,13 @@
       "id": "eggfest",
       "date": "2026-11-15",
       "title": "Pensacola EggFest",
-      "time": "See event page",
+      "time": "Noon to 3 PM (VIP entry 11 AM)",
       "t": "11:00",
-      "place": "Hadji Shrine Temple",
+      "place": "Hadji Temple, 800 W Nine Mile Rd",
       "area": "downtown",
       "section": "seasonal",
-      "note": "Ticketed barbecue competition and food event benefiting local charities.",
-      "src": "https://pensacolabeach.com/november-events-in-pensacola/"
+      "note": "Charity barbecue cook-off with Big Green Egg teams, entertainment and auctions; tailgating theme. General admission price not listed.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-november-2026"
     },
     {
       "id": "barktoberfest",
@@ -478,6 +581,18 @@
       "src": "https://www.tickpick.com/buy-derek-hough-tickets-saenger-theatre-fl-11-20-26-8pm/8150924/"
     },
     {
+      "id": "turkeytrot",
+      "date": "2026-11-26",
+      "title": "Trot for Thought Thanksgiving Turkey Trot",
+      "time": "Kids dash 8 AM, 5K 8:30 AM",
+      "t": "08:00",
+      "place": "Pensacola Beach",
+      "area": "beaches",
+      "section": "seasonal",
+      "note": "Thanksgiving 5K with a costume contest; registration fee not listed.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-november-2026"
+    },
+    {
       "id": "floraturkey",
       "date": "2026-11-26",
       "title": "Flora-Bama Thanksgiving Potluck",
@@ -501,6 +616,18 @@
       "free": true,
       "note": "Costume and decorated-wagon parade with contests for costumes and decorating.",
       "src": "https://pensacolabeach.com/november-events-in-pensacola/"
+    },
+    {
+      "id": "jingle",
+      "date": "2026-11-28",
+      "title": "Jingle Bells on the Bay Holiday Market",
+      "time": "10 AM to 3 PM",
+      "t": "10:00",
+      "place": "Sanders Beach-Corinne Jones Resource Center",
+      "area": "downtown",
+      "section": "seasonal",
+      "note": "Local vendors with handmade gifts and seasonal goods, plus food trucks.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-november-2026"
     },
     {
       "id": "motown",
@@ -629,20 +756,20 @@
     {
       "name": "Pelican",
       "status": "open",
-      "when": "Soft opening began Oct 19; grand opening set for Nov 7 (per PNJ, not reconfirmed)",
+      "when": "Soft opened Oct 19; grand opening Sat Nov 7",
       "place": "1420 W Nine Mile Rd",
       "kind": "Restaurant, bar and liquor store",
-      "note": "Upscale Southern Creole-style dining room, a sports-bar side with wings and pizza, a large liquor store, and a VR arcade planned to follow.",
-      "src": "https://www.aol.com/articles/pelican-brings-upscale-restaurant-lively-090754000.html"
+      "note": "Fine dining, a sports bar, a liquor store and a VR arcade under one roof.",
+      "src": "https://www.mustdopensacola.com/news/new-businesses-opening-pensacola-november-2026"
     },
     {
       "name": "Casa Luvia",
       "status": "open",
-      "when": "A Pensacola News Journal headline reports it has opened; I could not open the article, so confirm hours",
+      "when": "Soft opened in October; grand opening Sat Nov 7, celebration from 6:30 PM",
       "place": "7748 N Davis Hwy",
       "kind": "Upscale Mexican",
-      "note": "Handcrafted cocktails and plated dishes in a modern room.",
-      "src": "https://www.yahoo.com/lifestyle/articles/casa-luvia-opens-pensacola-offering-090357995.html"
+      "note": "Upscale Mexican spot in a remodeled former Denny's, with a cocktail focus.",
+      "src": "https://www.mustdopensacola.com/news/new-businesses-opening-pensacola-november-2026"
     },
     {
       "name": "Whataburger (Gregory Street)",
@@ -656,11 +783,11 @@
     {
       "name": "Launch Family Entertainment",
       "status": "open",
-      "when": "Opening day was Oct 16 per Must Do Pensacola; confirm hours with Launch",
+      "when": "Open since October; ribbon cutting Tue Nov 10 at 1:30 PM per Must Do, while a company release lists a Nov 14 grand opening",
       "place": "8102 N Davis Hwy",
       "kind": "Family fun center with a restaurant and bar",
       "note": "Trampolines, duckpin bowling, a ninja course, arcade and the KRAVE restaurant and bar.",
-      "src": "https://www.mustdopensacola.com/news/new-businesses-opening-pensacola-fall-2026"
+      "src": "https://www.mustdopensacola.com/news/new-businesses-opening-pensacola-november-2026"
     },
     {
       "name": "Dill Dinkers Indoor Pickleball",
@@ -674,11 +801,29 @@
     {
       "name": "Emerald Fortress",
       "status": "soon",
-      "when": "Grand opening Nov 4, 4:30 PM (carried over, not reconfirmed)",
+      "when": "Grand opening Wed Nov 4, 4:30 to 5 PM",
       "place": "319 E Nine Mile Rd",
       "kind": "Game and hobby store",
       "note": "Veteran-owned shop for trading cards, Warhammer and collectibles, with tournaments.",
-      "src": "https://www.mustdopensacola.com/news/new-businesses-opening-pensacola-fall-2026"
+      "src": "https://www.mustdopensacola.com/news/new-businesses-opening-pensacola-november-2026"
+    },
+    {
+      "name": "Jones' Shakes Pensacola",
+      "status": "soon",
+      "when": "Ribbon cutting Fri Nov 20, 11 to 11:30 AM; first regular service day not confirmed",
+      "place": "University Town Plaza",
+      "kind": "Milkshake shop",
+      "note": "Specialty shakes with hundreds of customizable flavor combinations.",
+      "src": "https://www.mustdopensacola.com/news/new-businesses-opening-pensacola-november-2026"
+    },
+    {
+      "name": "ZEN Pilates",
+      "status": "soon",
+      "when": "Grand opening Fri Nov 13, 11 to 11:30 AM",
+      "place": "6305 N Ninth Ave, Suite 1",
+      "kind": "Pilates studio",
+      "note": "Boutique studio with small-group and private classes.",
+      "src": "https://www.mustdopensacola.com/news/new-businesses-opening-pensacola-november-2026"
     },
     {
       "name": "Peg Leg Pete's, The Dock and other Pensacola Beach spots",
@@ -710,46 +855,52 @@
   ],
   "news": [
     {
-      "title": "Pensacola Beach short-term rental rules up for possible vote Nov. 4",
+      "title": "Escambia LOST sales tax renewal on the Nov 3 ballot",
+      "source": "Pensacola News Journal via Yahoo News",
+      "url": "https://yahoo.com/news/politics/articles/lost-failure-may-leave-escambia-090530182.html",
+      "summary": "Voters decide on extending the one-cent sales tax to 2038. Supporters say it would raise at least $1 billion; if it failed and statewide Amendment 3 passed, the county projects about a $120 million yearly gap."
+    },
+    {
+      "title": "Pensacola Beach short-term rental rules up for possible vote Nov 4",
       "source": "WEAR",
       "url": "https://weartv.com/news/local/pensacola-beach-short-term-rental-regulations-up-for-discussion-and-possible-vote-nov-4",
-      "summary": "The Santa Rosa Island Authority is weighing a draft requiring annual registration, inspection records, a 24/7 contact who responds within an hour, and a three-strike rule. The board meets at 5 PM Nov 4."
+      "summary": "The Santa Rosa Island Authority board meets at 5 PM Wednesday. The draft requires annual registration, a 24/7 local contact and parking documentation, with repeat violations leading to staff meetings and possible enforcement."
     },
     {
       "title": "FEMA individual assistance approved for Escambia and seven other counties",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/local/fema-individual-assistance-approved-for-escambia-santa-rosa-okaloosa-counties",
-      "summary": "Aid for housing, repairs and other needs was announced Oct 29. Apply at DisasterAssistance.gov; insured residents may still qualify for uninsured losses."
+      "source": "Yahoo News",
+      "url": "https://www.yahoo.com/news/us/articles/fema-individual-assistance-approved-escambia-170301220.html",
+      "summary": "Housing, repair and other storm aid was announced Oct 29, with applications through DisasterAssistance.gov."
     },
     {
-      "title": "Storm-recovery job demand expected to last about six more months",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/local/storm-recovery-job-demand-across-northwest-florida-expected-to-stay-high-for-six-months",
-      "summary": "CareerSource Escarosa says debris removal, roofing and construction work will stay in demand. Pensacola's mayor said the first debris pass has roughly three weeks left."
+      "title": "Navy identifies three sailors killed in Oct 24 Pensacola crash",
+      "source": "Pensacola News Journal via Yahoo News",
+      "url": "https://www.yahoo.com/news/articles/isaias-fema-aid-thanksgiving-dining-100351992.html",
+      "summary": "The Navy released the names of three airmen who died in a vehicle crash in Pensacola."
     },
     {
-      "title": "Lewis Bear Company marks 150 years in Pensacola",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/local/pensacola-lewis-bear-company-celebrates-150-years-of-community-impact",
-      "summary": "The family business, founded in 1876 and now in its fifth generation, held an anniversary celebration at its Pensacola headquarters Oct 29."
+      "title": "Escambia resident dies of Vibrio vulnificus infection",
+      "source": "Pensacola News Journal via Yahoo News",
+      "url": "https://www.yahoo.com/news/articles/isaias-fema-aid-thanksgiving-dining-100351992.html",
+      "summary": "The resident in their 70s is the sixth Florida death from the bacteria this year, with 34 statewide cases reported."
     },
     {
-      "title": "Foo Foo Fest opens with downtown Light Spill installation",
+      "title": "Pensacola gathers at Maritime Park for Making Strides walk",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/pensacolas-13th-annual-foo-foo-fest-begins-featuring-downtown-light-spill-installation",
-      "summary": "The 13th annual arts festival kicked off with a light installation downtown and runs through Nov 9."
+      "url": "https://weartv.com/news/local",
+      "summary": "Survivors and supporters took part in the 24th annual breast cancer awareness 5K."
     },
     {
       "title": "TSA PreCheck enrollment at Pensacola airport Nov 3 to 6",
       "source": "WEAR",
       "url": "https://weartv.com/news/local/tsa-precheck-enrollment-set-for-nov-3-6-at-pensacola-international-airport",
-      "summary": "Daily enrollment 9 AM to noon and 1 to 5 PM; the fee is $76.75 for five years. Carried over from an earlier read."
+      "summary": "Daily enrollment 9 AM to noon and 1 to 5 PM; the fee is $76.75 for five years."
     },
     {
-      "title": "City park and facility closures continue after Isaias",
-      "source": "City of Pensacola",
-      "url": "https://www.cityofpensacola.com/m/newsflash/Home/Detail/5281",
-      "summary": "The city updated its list of open, closed and limited-hours parks on Oct 29 and asks residents to stay off playgrounds until inspected. Carried over from an earlier read."
+      "title": "Pelican opens on W Nine Mile Road",
+      "source": "Pensacola News Journal via AOL",
+      "url": "https://www.aol.com/articles/pelican-brings-upscale-restaurant-lively-090754000.html",
+      "summary": "The restaurant, bar and liquor store soft opened Oct 19, with its grand opening planned for Nov 7."
     }
   ],
   "sources": [
@@ -846,5 +997,5 @@
       "url": "https://forecast.weather.gov/MapClick.php?lat=30.44&lon=-87.19"
     }
   ],
-  "coverage_note": "Updated Sunday, Nov 1. Read this run: the NWS Pensacola forecast issued Oct 31 (Monday, Friday and weekend rain chances were not stated and are my estimates; Nov 7 and 8 lows and the Nov 8 numbers are estimates), PensacolaBeach.com's November events page, and WEAR's local headlines and four articles. Local Pulse, Must Do Pensacola, the Saenger, Visit Pensacola, team sites and the City of Pensacola news page could not be opened this run, so December and Saenger items and restaurant statuses are carried over and not reconfirmed. NorthEscambia.com's pages showed only older content, so no Gonzalez, Molino, Beulah or Cantonment listings were added; north county coverage is thin."
+  "coverage_note": "Updated Monday, Nov 2. Read this run: Must Do Pensacola's Nov 2-8 and November guides and new-business roundup, Foo Foo coverage, Pensacola News Journal roundups via Yahoo, WEAR's local headlines, and forecasts from the National Weather Service (primary), Weather Underground and WeatherBug; Nov 9 weather is my rough blend. Visit Pensacola, Downtown Pensacola, the Saenger and the team sites could not be opened, and NorthEscambia.com would not load, so no Gonzalez, Molino, Beulah or Cantonment events were added and coverage of north Escambia is thin. Later-November and December items (Saenger shows, Snowball Derby, Flora-Bama events, Dec 5 Ice Flyers) are carried over and not reconfirmed. Only Emerald Fortress, Dill Dinkers and the new Jones' Shakes and ZEN Pilates are still marked soon."
 }
