@@ -1,53 +1,47 @@
 {
-  "generated": "2026-11-02T03:00:48-06:00",
-  "weekend_note": "Warm and mostly dry early in the week, with showers and storms most likely Tuesday night into Wednesday (about 50%), which could dampen the Wednesday evening First City Lights kickoff downtown. The Nov 6 to 8 weekend looks sunny, cooler and comfortable, a good fit for the free Blue Angels Homecoming Air Show, Great Gulfcoast Arts Festival, Greek Festival and Frank Brown songwriter shows, all mostly outdoors. Mozart & Bizet at the Saenger on Saturday night is the indoor pick. Hurricane Isaias recovery still affects some places, so double-check before heading out.",
+  "generated": "2026-11-03T02:59:28-06:00",
+  "weekend_note": "Showers are likely today (Tue) and tonight, with only about a 30% chance Wednesday evening for the First City Lights kickoff downtown. The Nov 6 to 8 weekend looks pleasant, with highs in the 70s and lows in the 50s and low 60s, and a 20% chance of showers Saturday night and Sunday. That suits the mostly outdoor picks: the free Blue Angels Homecoming Air Show, Great Gulfcoast Arts Festival, Greek Festival and Frank Brown songwriter shows. Mozart & Bizet at the Saenger on Saturday night is the indoor pick. Hurricane Isaias recovery still affects some places, so double-check before heading out.",
   "weather": [
-    {
-      "date": "2026-11-02",
-      "hi": 80,
-      "lo": 68,
-      "rain": 5
-    },
     {
       "date": "2026-11-03",
       "hi": 80,
-      "lo": 70,
-      "rain": 35
+      "lo": 71,
+      "rain": 50
     },
     {
       "date": "2026-11-04",
       "hi": 81,
-      "lo": 66,
-      "rain": 50
+      "lo": 67,
+      "rain": 30
     },
     {
       "date": "2026-11-05",
-      "hi": 80,
-      "lo": 63,
+      "hi": 81,
+      "lo": 64,
       "rain": 10
     },
     {
       "date": "2026-11-06",
-      "hi": 78,
-      "lo": 58,
+      "hi": 79,
+      "lo": 62,
       "rain": 5
     },
     {
       "date": "2026-11-07",
       "hi": 75,
-      "lo": 57,
-      "rain": 5
+      "lo": 58,
+      "rain": 20
     },
     {
       "date": "2026-11-08",
-      "hi": 74,
+      "hi": 72,
       "lo": 54,
       "rain": 20
     },
     {
       "date": "2026-11-09",
-      "hi": 68,
-      "lo": 48,
+      "hi": 71,
+      "lo": 50,
       "rain": 10
     }
   ],
@@ -143,18 +137,6 @@
       "src": "https://www.yahoo.com/entertainment/music/articles/great-gulfcoast-arts-greek-fest-100221202.html"
     },
     {
-      "id": "mondayblues",
-      "date": "2026-11-02",
-      "title": "Monday Night Blues",
-      "time": "7 PM",
-      "t": "19:00",
-      "place": "Seville Quarter, 130 E Government St",
-      "area": "downtown",
-      "section": "entertainment",
-      "note": "Live blues with barbecue and beer specials.",
-      "src": "https://www.yahoo.com/entertainment/music/articles/great-gulfcoast-arts-greek-fest-100221202.html"
-    },
-    {
       "id": "rocky-horror",
       "date": "2026-11-02",
       "title": "The Rocky Horror Show (Pensacola Little Theatre)",
@@ -206,7 +188,7 @@
       "place": "Palafox Street, downtown",
       "area": "downtown",
       "section": "seasonal",
-      "note": "Holiday-season kickoff with more than half a million lights, Santa's arrival, a lighting ceremony and shopping on Palafox. Nov 4 has a 60% rain chance, so check before going.",
+      "note": "Holiday-season kickoff with more than half a million lights, Santa's arrival, a lighting ceremony and shopping on Palafox. Nov 4 has about a 30% rain chance, so check before going.",
       "src": "https://pensacolabeach.com/november-events-in-pensacola/"
     },
     {
@@ -218,7 +200,7 @@
       "place": "Downtown Pensacola (Plaza Ferdinand, Museum of History)",
       "area": "downtown",
       "section": "seasonal",
-      "note": "Opening night of the holiday lights with Santa and the Grinch near the Museum of History and a mini-train at Plaza Ferdinand 5 to 8 PM; Holiday Haul shop open house at Rusted Arrow Mercantile also starts at 5. Storms are possible Wednesday.",
+      "note": "Opening night of the holiday lights with Santa and the Grinch near the Museum of History and a mini-train at Plaza Ferdinand 5 to 8 PM; Holiday Haul shop open house at Rusted Arrow Mercantile also starts at 5. A few showers are possible Wednesday (about 30%).",
       "src": "https://www.yahoo.com/entertainment/music/articles/great-gulfcoast-arts-greek-fest-100221202.html"
     },
     {
@@ -997,5 +979,5 @@
       "url": "https://forecast.weather.gov/MapClick.php?lat=30.44&lon=-87.19"
     }
   ],
-  "coverage_note": "Updated Monday, Nov 2. Read this run: Must Do Pensacola's Nov 2-8 and November guides and new-business roundup, Foo Foo coverage, Pensacola News Journal roundups via Yahoo, WEAR's local headlines, and forecasts from the National Weather Service (primary), Weather Underground and WeatherBug; Nov 9 weather is my rough blend. Visit Pensacola, Downtown Pensacola, the Saenger and the team sites could not be opened, and NorthEscambia.com would not load, so no Gonzalez, Molino, Beulah or Cantonment events were added and coverage of north Escambia is thin. Later-November and December items (Saenger shows, Snowball Derby, Flora-Bama events, Dec 5 Ice Flyers) are carried over and not reconfirmed. Only Emerald Fortress, Dill Dinkers and the new Jones' Shakes and ZEN Pilates are still marked soon."
+  "coverage_note": "Updated Tuesday, Nov 3. This run confirmed the November events list on PensacolaBeach.com and the National Weather Service forecast (Nov 3 to 9 only; rain chances for Nov 5 and 6 were not stated, so those are carried over and the Nov 9 low is a rough estimate). Many other pages (WEAR, Must Do Pensacola, Visit Pensacola, NorthEscambia.com) would not open, so news and restaurant items are carried over from Nov 2 and not refreshed, and no new Gonzalez, Molino, Beulah or Cantonment events were added; coverage of north Escambia is thin. Events dropped were those that ended before today, and Monday Night Blues was removed because the next date was not confirmed. Later-November and December items are carried over and not reconfirmed."
 }
