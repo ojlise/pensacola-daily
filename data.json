@@ -1,47 +1,47 @@
 {
-  "generated": "2026-11-03T02:59:28-06:00",
-  "weekend_note": "Showers are likely today (Tue) and tonight, with only about a 30% chance Wednesday evening for the First City Lights kickoff downtown. The Nov 6 to 8 weekend looks pleasant, with highs in the 70s and lows in the 50s and low 60s, and a 20% chance of showers Saturday night and Sunday. That suits the mostly outdoor picks: the free Blue Angels Homecoming Air Show, Great Gulfcoast Arts Festival, Greek Festival and Frank Brown songwriter shows. Mozart & Bizet at the Saenger on Saturday night is the indoor pick. Hurricane Isaias recovery still affects some places, so double-check before heading out.",
+  "generated": "2026-11-04T03:04:25-06:00",
+  "weekend_note": "Warm and mostly dry for the Nov 6 to 8 weekend: highs near 80 Friday, 75 Saturday and 69 Sunday, with lows dropping to the 50s. Rain chances are low, around 20% Sunday, and about 30% tonight and 20% Wednesday night into Thursday. Picks are mostly outdoors: the free Blue Angels Homecoming Air Show, Great Gulfcoast Arts Festival, Greek Festival and Frank Brown songwriter shows. Mozart & Bizet at the Saenger on Saturday night is the indoor pick. Hurricane Isaias recovery still affects some places, so double-check before heading out.",
   "weather": [
     {
-      "date": "2026-11-03",
-      "hi": 80,
-      "lo": 71,
-      "rain": 50
-    },
-    {
       "date": "2026-11-04",
-      "hi": 81,
-      "lo": 67,
+      "hi": 82,
+      "lo": 68,
       "rain": 30
     },
     {
       "date": "2026-11-05",
-      "hi": 81,
+      "hi": 80,
       "lo": 64,
-      "rain": 10
+      "rain": 20
     },
     {
       "date": "2026-11-06",
-      "hi": 79,
-      "lo": 62,
-      "rain": 5
+      "hi": 80,
+      "lo": 56,
+      "rain": 10
     },
     {
       "date": "2026-11-07",
       "hi": 75,
-      "lo": 58,
-      "rain": 20
+      "lo": 53,
+      "rain": 10
     },
     {
       "date": "2026-11-08",
-      "hi": 72,
-      "lo": 54,
+      "hi": 69,
+      "lo": 53,
       "rain": 20
     },
     {
       "date": "2026-11-09",
       "hi": 71,
-      "lo": 50,
+      "lo": 53,
+      "rain": 20
+    },
+    {
+      "date": "2026-11-10",
+      "hi": 72,
+      "lo": 54,
       "rain": 10
     }
   ],
@@ -124,19 +124,6 @@
       "src": "https://www.yahoo.com/entertainment/music/articles/great-gulfcoast-arts-greek-fest-100221202.html"
     },
     {
-      "id": "carnival",
-      "date": "2026-11-02",
-      "end": "2026-11-03",
-      "title": "Carnival of the Animals (Ballet Pensacola)",
-      "time": "Mon 1 PM and 5:30 PM, Tue 5:30 PM",
-      "t": "13:00",
-      "place": "Clark Family Cultural Center, 400 S Jefferson St",
-      "area": "downtown",
-      "section": "entertainment",
-      "note": "Original family production for Foo Foo Fest; ticket info on the festival site.",
-      "src": "https://www.yahoo.com/entertainment/music/articles/great-gulfcoast-arts-greek-fest-100221202.html"
-    },
-    {
       "id": "rocky-horror",
       "date": "2026-11-02",
       "title": "The Rocky Horror Show (Pensacola Little Theatre)",
@@ -176,7 +163,7 @@
       "place": "Plaza Ferdinand on Nov 4; MLK Jr. Plaza after that",
       "area": "downtown",
       "section": "seasonal",
-      "note": "Wednesday evening holiday market through Nov 25. Admission not listed.",
+      "note": "Wednesday evening holiday market through Nov 25. Nov 4 is at Plaza Ferdinand; Nov 11, 18 and 25 move to MLK Jr. Plaza. Admission not listed.",
       "src": "https://pensacolabeach.com/november-events-in-pensacola/"
     },
     {
@@ -270,12 +257,12 @@
       "date": "2026-11-06",
       "end": "2026-11-08",
       "title": "Great Gulfcoast Arts Festival",
-      "time": "Fri/Sat 9 AM to 5 PM, Sun 9 AM to 4 PM",
+      "time": "Fri/Sat 9 AM to 5 PM, Sun 9 AM to 4 PM; Children's Festival Sat/Sun 10 AM to 4 PM",
       "t": "10:00",
       "place": "Seville Square, downtown",
       "area": "downtown",
       "section": "seasonal",
-      "note": "Free juried show with 200+ artists, live music, a children's arts festival, a student show and food.",
+      "note": "Free juried show at Seville Square with 200+ artists, live music, a children's arts festival, a student show and food. No pets.",
       "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-november-2-8-2026",
       "free": true
     },
@@ -837,10 +824,16 @@
   ],
   "news": [
     {
-      "title": "Escambia LOST sales tax renewal on the Nov 3 ballot",
+      "title": "Escambia voters approve renewing the local option sales tax",
       "source": "Pensacola News Journal via Yahoo News",
-      "url": "https://yahoo.com/news/politics/articles/lost-failure-may-leave-escambia-090530182.html",
-      "summary": "Voters decide on extending the one-cent sales tax to 2038. Supporters say it would raise at least $1 billion; if it failed and statewide Amendment 3 passed, the county projects about a $120 million yearly gap."
+      "url": "https://www.yahoo.com/news/politics/articles/escambia-county-voters-approve-local-020637839.html",
+      "summary": "Unofficial results show about 82,000 yes votes to 27,000 no for a 10-year renewal of the one-cent tax, which pays for roads, buildings, stormwater, public safety equipment and other capital needs."
+    },
+    {
+      "title": "Benson re-elected, Litton wins open seat on ECUA board",
+      "source": "Pensacola News Journal via Yahoo News",
+      "url": "https://www.yahoo.com/news/politics/articles/lois-benson-greg-litton-win-014416159.html",
+      "summary": "Lois Benson kept her District 2 seat with about 58%, and Greg Litton won District 4, formerly held by the late Dale Perkins, in a three-way race."
     },
     {
       "title": "Pensacola Beach short-term rental rules up for possible vote Nov 4",
@@ -865,12 +858,6 @@
       "source": "Pensacola News Journal via Yahoo News",
       "url": "https://www.yahoo.com/news/articles/isaias-fema-aid-thanksgiving-dining-100351992.html",
       "summary": "The resident in their 70s is the sixth Florida death from the bacteria this year, with 34 statewide cases reported."
-    },
-    {
-      "title": "Pensacola gathers at Maritime Park for Making Strides walk",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/local",
-      "summary": "Survivors and supporters took part in the 24th annual breast cancer awareness 5K."
     },
     {
       "title": "TSA PreCheck enrollment at Pensacola airport Nov 3 to 6",
@@ -979,5 +966,5 @@
       "url": "https://forecast.weather.gov/MapClick.php?lat=30.44&lon=-87.19"
     }
   ],
-  "coverage_note": "Updated Tuesday, Nov 3. This run confirmed the November events list on PensacolaBeach.com and the National Weather Service forecast (Nov 3 to 9 only; rain chances for Nov 5 and 6 were not stated, so those are carried over and the Nov 9 low is a rough estimate). Many other pages (WEAR, Must Do Pensacola, Visit Pensacola, NorthEscambia.com) would not open, so news and restaurant items are carried over from Nov 2 and not refreshed, and no new Gonzalez, Molino, Beulah or Cantonment events were added; coverage of north Escambia is thin. Events dropped were those that ended before today, and Monday Night Blues was removed because the next date was not confirmed. Later-November and December items are carried over and not reconfirmed."
+  "coverage_note": "Updated Wednesday, Nov 4. Confirmed this run: the National Weather Service forecast (through Tue Nov 10 only; rain chances for Nov 6 and 7 were not stated, so 10% is an estimate, and the Nov 10 low is estimated), the November list on PensacolaBeach.com, Great Gulfcoast Arts Festival hours, and Nov 3 election results via Yahoo-syndicated PNJ. WEAR, Must Do Pensacola, Visit Pensacola, Local Pulse and NorthEscambia.com pages would not open, so other news and restaurant items are carried over from earlier runs, restaurant statuses were not advanced (Emerald Fortress's Nov 4 opening is unconfirmed), and no new Gonzalez, Molino, Beulah or Cantonment events were found; north Escambia coverage is thin. Later-November and December events are carried over and not reconfirmed."
 }
