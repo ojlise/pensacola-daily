@@ -1,71 +1,77 @@
 {
-  "generated": "2026-11-05T03:05:00-06:00",
-  "weekend_note": "Mostly dry this weekend, though a shower is possible Friday (about 25%): highs in the upper 70s Friday and Saturday (Saturday rain near 12%), then a cooler Sunday near 70 with only about a 7% chance. Picks: the free Blue Angels Homecoming Air Show (Fri and Sat, little shade so bring layers and sunglasses), Great Gulfcoast Arts Festival, Greek Festival and Frank Brown songwriter shows are outdoors or mixed. Mozart & Bizet at the Saenger and Lupe Fiasco at Vinyl Music Hall are the indoor picks. Isaias recovery still affects some places, so double-check before heading out.",
+  "generated": "2026-11-06T02:59:53-06:00",
+  "weekend_note": "A dry, cooler weekend: highs near 78 Friday and low 70s Saturday and Sunday, with rain chances of 5% or less and Saturday morning lows near 47, so bring a layer. Picks: the free Blue Angels Homecoming Air Show (Fri and Sat, little shade), Great Gulfcoast Arts Festival, Greek Festival and Frank Brown songwriter shows are outdoors or mixed. Mozart & Bizet at the Saenger and the free Museum of Art STEAM Day are the indoor picks. Rain returns Tue-Wed (Veterans Day ceremony Wed has a 71% rain chance). Isaias recovery still affects some places, so double-check before heading out.",
   "weather": [
     {
-      "date": "2026-11-05",
-      "hi": 80,
-      "lo": 62,
-      "rain": 25
-    },
-    {
       "date": "2026-11-06",
-      "hi": 77,
-      "lo": 59,
-      "rain": 25
+      "hi": 78,
+      "lo": 56,
+      "rain": 3
     },
     {
       "date": "2026-11-07",
-      "hi": 78,
-      "lo": 55,
-      "rain": 12
+      "hi": 72,
+      "lo": 47,
+      "rain": 3
     },
     {
       "date": "2026-11-08",
-      "hi": 70,
-      "lo": 54,
-      "rain": 7
+      "hi": 73,
+      "lo": 49,
+      "rain": 5
     },
     {
       "date": "2026-11-09",
-      "hi": 70,
-      "lo": 53,
-      "rain": 0
+      "hi": 75,
+      "lo": 51,
+      "rain": 11
     },
     {
       "date": "2026-11-10",
-      "hi": 71,
-      "lo": 48,
-      "rain": 49
+      "hi": 74,
+      "lo": 54,
+      "rain": 55
     },
     {
       "date": "2026-11-11",
+      "hi": 74,
+      "lo": 58,
+      "rain": 71
+    },
+    {
+      "date": "2026-11-12",
+      "hi": 73,
+      "lo": 52,
+      "rain": 23
+    },
+    {
+      "date": "2026-11-13",
       "hi": 69,
-      "lo": 51,
-      "rain": 13
+      "lo": 48,
+      "rain": 0
     }
   ],
   "picks": [
     "airshow",
     "gulfarts",
     "greekfest",
-    "frankbrown",
     "mozart",
-    "lupe"
+    "steamday",
+    "frankbrown"
   ],
   "weekly": [
     {
       "day": "Saturday",
       "title": "Palafox Market",
-      "place": "Downtown Pensacola",
-      "note": "Weekly Saturday market downtown. I could not confirm the Nov 7 edition, so check before heading downtown, especially with the Arts Festival nearby.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-october-2026"
+      "place": "MLK Jr. Plaza and Plaza Ferdinand, downtown",
+      "note": "Weekly Saturday market, confirmed for Nov 7 from 9 AM to 2 PM at MLK Jr. Plaza and Plaza Ferdinand. Free to browse.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-this-weekend-november-6-8-2026"
     },
     {
       "day": "Sunday",
       "title": "Sunday Market on Palafox",
       "place": "Palafox Street, 11:30 AM to 3:30 PM",
-      "note": "Normally vendors, produce and music. Local Pulse listed it as canceled the weekend of Oct 17; no return date found, so confirm before going.",
+      "note": "Local Pulse listed it as canceled the weekend of Oct 17, and Must Do's Nov 6-8 guide does not list a Sunday market. Confirm before going.",
       "src": "https://localpulse.com/2026/10/local-pulse-weekend-top-10-60/"
     }
   ],
@@ -192,30 +198,6 @@
       "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-november-2-8-2026"
     },
     {
-      "id": "greatsouthern",
-      "date": "2026-11-05",
-      "title": "Great Southern Dinner (food and wine)",
-      "time": "5:30 PM",
-      "t": "17:30",
-      "place": "Jackson's Steakhouse, 400 S Palafox St",
-      "area": "downtown",
-      "section": "entertainment",
-      "note": "Five-course dinner with chefs from The Fish House, Five Sisters' Blues Cafe, Angelena's and Jackson's; $125.",
-      "src": "https://www.yahoo.com/entertainment/music/articles/great-gulfcoast-arts-greek-fest-100221202.html"
-    },
-    {
-      "id": "livingmuseum",
-      "date": "2026-11-05",
-      "title": "Living Museum: Anchored in History",
-      "time": "See event page",
-      "t": "18:00",
-      "place": "Pensacola Museum of History",
-      "area": "downtown",
-      "section": "entertainment",
-      "note": "Costumed performers portray historical figures. Tickets $8 adults, $5 ages 5 to 12, under 5 free.",
-      "src": "https://www.mustdopensacola.com/news/foo-foo-festival-rolls-on-pensacola-2026"
-    },
-    {
       "id": "airshow",
       "date": "2026-11-06",
       "end": "2026-11-07",
@@ -225,8 +207,8 @@
       "place": "NAS Pensacola",
       "area": "elsewhere",
       "section": "entertainment",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-november-2-8-2026",
-      "note": "Final Blue Angels shows of 2026 and part of NAS Pensacola's 200th anniversary. General admission and parking are free; upgraded seating is sold separately. Expect big crowds. Boat cruises for viewing from the water have limited availability."
+      "src": "https://weartv.com/news/local/nas-pensacola-marks-200th-anniversary-as-blue-angels-to-close-season-with-home-show",
+      "note": "Final Blue Angels shows of 2026 and part of NAS Pensacola's 200th anniversary. Free general admission and parking; upgraded seating sold separately. A REAL ID is required for eligible adults. Expect big crowds. Boat cruises for water viewing have limited availability."
     },
     {
       "id": "gulfarts",
@@ -296,13 +278,13 @@
       "id": "mozart",
       "date": "2026-11-07",
       "title": "Mozart & Bizet (Pensacola Symphony Orchestra)",
-      "time": "See event page",
+      "time": "7:30 PM (dress rehearsal 1:30 PM, $10)",
       "t": "19:30",
       "place": "Saenger Theatre",
       "area": "downtown",
       "section": "entertainment",
       "note": "Led by Peter Rubardt with pianist Carter Johnson; program also includes Stravinsky. Indoors.",
-      "src": "https://www.mustdopensacola.com/news/foo-foo-festival-rolls-on-pensacola-2026"
+      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-this-weekend-november-6-8-2026"
     },
     {
       "id": "sectsoccer",
@@ -672,6 +654,35 @@
       "free": true,
       "note": "Free event introducing the new pro softball team's coach, staff and signed players ahead of its 2027 debut.",
       "src": "https://weartv.com/news/local/pensacola-gets-professional-womens-softball-team-will-play-at-blue-wahoos-stadium"
+    },
+    {
+      "id": "perdido-xmas",
+      "dates": [
+        "2026-11-13",
+        "2026-11-14"
+      ],
+      "title": "Perdido Key Christmas Market",
+      "time": "Fri 5 to 8 PM, Sat 9 AM to 1 PM",
+      "t": "17:00",
+      "place": "Villagio Perdido Town Centre, 13700 Perdido Key Dr",
+      "area": "beaches",
+      "section": "free",
+      "free": true,
+      "note": "Free holiday market with handmade goods from local makers and photos with Santa.",
+      "src": "https://www.visitpensacola.com/events/perdido-key-christmas-market1/"
+    },
+    {
+      "id": "steamday",
+      "date": "2026-11-07",
+      "title": "Pensacola Museum of Art STEAM Day",
+      "time": "10 AM to 4 PM",
+      "t": "10:00",
+      "place": "Pensacola Museum of Art, 407 S Jefferson St",
+      "area": "downtown",
+      "section": "free",
+      "free": true,
+      "note": "Free admission. Ticketed workshops on insects and nature printing run in the morning and afternoon with limited spots; prices not listed.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-this-weekend-november-6-8-2026"
     }
   ],
   "restaurants": [
@@ -759,7 +770,7 @@
     {
       "name": "Emerald Fortress",
       "status": "soon",
-      "when": "Grand opening Wed Nov 4, 4:30 to 5 PM",
+      "when": "Grand opening was set for Wed Nov 4, 4:30 to 5 PM; opening not yet reconfirmed",
       "place": "319 E Nine Mile Rd",
       "kind": "Game and hobby store",
       "note": "Veteran-owned shop for trading cards, Warhammer and collectibles, with tournaments.",
@@ -813,16 +824,28 @@
   ],
   "news": [
     {
+      "title": "Vinson edges ahead in Escambia District 4 race; recount set for Saturday",
+      "source": "WEAR",
+      "url": "https://weartv.com/news/local/vinson-pulls-ahead-in-escambia-county-district-4-race-recount-set-for-saturday",
+      "summary": "Joe Vinson leads incumbent Ashlee Hofberger by 19 votes after the canvassing review. A machine recount starts Nov 7, and overseas military ballots could push the final result past Nov 13."
+    },
+    {
+      "title": "County warns mixed storm debris piles could delay pickup",
+      "source": "WEAR",
+      "url": "https://weartv.com/news/local/keep-it-separate-escambia-county-warns-mixed-storm-debris-piles-could-delay-pickup",
+      "summary": "Escambia says trees and limbs must be kept apart from construction debris, and mixed piles may wait longer. Questions go to 850-332-1226."
+    },
+    {
+      "title": "NAS Pensacola marks 200th anniversary as Blue Angels close season with home show",
+      "source": "WEAR",
+      "url": "https://weartv.com/news/local/nas-pensacola-marks-200th-anniversary-as-blue-angels-to-close-season-with-home-show",
+      "summary": "The free homecoming air show runs Friday and Saturday, with more than 300,000 visitors expected over both days."
+    },
+    {
       "title": "Florida Vibe pro softball team coming to Blue Wahoos Stadium",
       "source": "WEAR",
       "url": "https://weartv.com/news/local/pensacola-gets-professional-womens-softball-team-will-play-at-blue-wahoos-stadium",
       "summary": "The Professional Softball League club starts play in 2027 with about 20 mostly weekend home games; a free welcome event is set for Nov 16."
-    },
-    {
-      "title": "Deputies arrest Pensacola man after shots fired at a car",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/local/pensacola-man-charged-with-attempted-homicide-after-shooting-at-car-with-woman-child",
-      "summary": "The Escambia sheriff's office says a 26-year-old was arrested Nov 1 at a Plantation Road motel; no one was hurt."
     },
     {
       "title": "Area high school football district results, Nov 3-4",
@@ -847,18 +870,6 @@
       "source": "Yahoo News",
       "url": "https://www.yahoo.com/news/us/articles/fema-individual-assistance-approved-escambia-170301220.html",
       "summary": "Housing, repair and other storm aid was announced Oct 29, with applications through DisasterAssistance.gov."
-    },
-    {
-      "title": "Navy identifies three sailors killed in Oct 24 Pensacola crash",
-      "source": "Pensacola News Journal via Yahoo News",
-      "url": "https://www.yahoo.com/news/articles/isaias-fema-aid-thanksgiving-dining-100351992.html",
-      "summary": "The Navy released the names of three airmen who died in a vehicle crash in Pensacola."
-    },
-    {
-      "title": "Escambia resident dies of Vibrio vulnificus infection",
-      "source": "Pensacola News Journal via Yahoo News",
-      "url": "https://www.yahoo.com/news/articles/isaias-fema-aid-thanksgiving-dining-100351992.html",
-      "summary": "The resident in their 70s is the sixth Florida death from the bacteria this year, with 34 statewide cases reported."
     }
   ],
   "sources": [
@@ -955,5 +966,5 @@
       "url": "https://forecast.weather.gov/MapClick.php?lat=30.44&lon=-87.19"
     }
   ],
-  "coverage_note": "Updated early Thursday, Nov 5. New this run: WEAR's Nov 2 softball and arrest stories, a Nov 5 Yahoo Sports football roundup, and AccuWeather's Pensacola forecast (it covered through Nov 11, so the forecast shows seven days). Other news, restaurant and event items were carried over from the Nov 4 update. Visit Pensacola's calendar, Downtown Pensacola, the Saenger and team sites could not be opened, NorthEscambia.com's cached pages were months old, and no Gonzalez, Molino, Beulah or Cantonment events or new restaurant openings were confirmed, so north Escambia coverage is thin. Emerald Fortress's Nov 4 opening was not reconfirmed, and later-November and December events are carried over."
+  "coverage_note": "Updated Friday, Nov 6. New this run: AccuWeather's forecast (Nov 6 to 13), WEAR's recount, storm-debris and air show stories, and Must Do Pensacola's Nov 6-8 weekend guide, plus the Perdido Key Christmas Market and museum STEAM Day. Other news, restaurant and later-event items were carried over from the Nov 5 update. Visit Pensacola's calendar, Local Pulse, Downtown Pensacola, the Saenger and team sites could not be opened; NorthEscambia.com's page showed older cached content, so no Gonzalez, Molino, Beulah or Cantonment events were confirmed and north Escambia coverage is thin. No new restaurant openings were confirmed beyond the carried-over list, and Emerald Fortress's Nov 4 opening and December event details are unconfirmed."
 }
