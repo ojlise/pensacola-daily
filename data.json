@@ -1,63 +1,51 @@
 {
-  "generated": "2026-11-06T02:59:53-06:00",
-  "weekend_note": "A dry, cooler weekend: highs near 78 Friday and low 70s Saturday and Sunday, with rain chances of 5% or less and Saturday morning lows near 47, so bring a layer. Picks: the free Blue Angels Homecoming Air Show (Fri and Sat, little shade), Great Gulfcoast Arts Festival, Greek Festival and Frank Brown songwriter shows are outdoors or mixed. Mozart & Bizet at the Saenger and the free Museum of Art STEAM Day are the indoor picks. Rain returns Tue-Wed (Veterans Day ceremony Wed has a 71% rain chance). Isaias recovery still affects some places, so double-check before heading out.",
+  "generated": "2026-11-07T02:55:45-06:00",
+  "weekend_note": "A dry, cool stretch: highs in the low-to-mid 70s with essentially no rain through Tuesday, though Saturday morning lows are near 47, so bring a layer. The earlier rain signal for Tue-Wed has faded, with only a 10% chance for Veterans Day (Wed) and 20% Thursday. Picks: the free Great Gulfcoast Arts Festival and the Greek Festival (both end Sunday) and the Frank Brown songwriter shows are outdoors or mixed. Mozart & Bizet at the Saenger is the indoor pick, and Festa Italiana follows Nov 13-14. Isaias recovery still affects some places, so double-check before heading out.",
   "weather": [
     {
-      "date": "2026-11-06",
-      "hi": 78,
-      "lo": 56,
-      "rain": 3
-    },
-    {
       "date": "2026-11-07",
-      "hi": 72,
+      "hi": 73,
       "lo": 47,
-      "rain": 3
+      "rain": 0
     },
     {
       "date": "2026-11-08",
       "hi": 73,
-      "lo": 49,
-      "rain": 5
+      "lo": 50,
+      "rain": 0
     },
     {
       "date": "2026-11-09",
-      "hi": 75,
-      "lo": 51,
-      "rain": 11
+      "hi": 74,
+      "lo": 53,
+      "rain": 0
     },
     {
       "date": "2026-11-10",
-      "hi": 74,
-      "lo": 54,
-      "rain": 55
+      "hi": 75,
+      "lo": 55,
+      "rain": 0
     },
     {
       "date": "2026-11-11",
-      "hi": 74,
+      "hi": 75,
       "lo": 58,
-      "rain": 71
+      "rain": 10
     },
     {
       "date": "2026-11-12",
-      "hi": 73,
-      "lo": 52,
-      "rain": 23
-    },
-    {
-      "date": "2026-11-13",
-      "hi": 69,
-      "lo": 48,
-      "rain": 0
+      "hi": 74,
+      "lo": 51,
+      "rain": 20
     }
   ],
   "picks": [
-    "airshow",
     "gulfarts",
     "greekfest",
     "mozart",
-    "steamday",
-    "frankbrown"
+    "frankbrown",
+    "vets",
+    "festa"
   ],
   "weekly": [
     {
@@ -237,18 +225,6 @@
       "note": "Free entry at Annunciation Greek Orthodox Church (1720 W Garden St); food is extra. Greek dishes, pastries, music, folk dancing and church tours.",
       "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-november-2-8-2026",
       "free": true
-    },
-    {
-      "id": "lupe",
-      "date": "2026-11-06",
-      "title": "Lupe Fiasco at Vinyl Music Hall",
-      "time": "Doors 7 PM, show 8 PM",
-      "t": "20:00",
-      "place": "Vinyl Music Hall, 2 S Palafox St",
-      "area": "downtown",
-      "section": "entertainment",
-      "note": "All ages; tickets listed at $51.20.",
-      "src": "https://www.yahoo.com/entertainment/music/articles/great-gulfcoast-arts-greek-fest-100221202.html"
     },
     {
       "id": "bourbon",
@@ -770,7 +746,7 @@
     {
       "name": "Emerald Fortress",
       "status": "soon",
-      "when": "Grand opening was set for Wed Nov 4, 4:30 to 5 PM; opening not yet reconfirmed",
+      "when": "Grand opening was scheduled for Wed Nov 4, 4:30 to 5 PM; I could not confirm it happened",
       "place": "319 E Nine Mile Rd",
       "kind": "Game and hobby store",
       "note": "Veteran-owned shop for trading cards, Warhammer and collectibles, with tournaments.",
@@ -820,26 +796,41 @@
       "kind": "Fabric and craft store (open since 1954)",
       "note": "Owners cited Isaias roof damage and plans to retire.",
       "src": "https://weartv.com/news/local/ae-fabric-and-crafts-in-pensacola-prepares-to-close-for-good-after-isaias-roof-damage"
+    },
+    {
+      "name": "V. Paul's Italian Ristorante",
+      "status": "closed",
+      "when": "Closed Nov 3 after 12 years; booked events still scheduled",
+      "place": "29 Palafox Place, downtown",
+      "kind": "Italian restaurant",
+      "note": "No reason was given for the closure.",
+      "src": "https://www.mustdopensacola.com/news/v-pauls-italian-ristorante-closes-downtown-pensacola"
     }
   ],
   "news": [
     {
-      "title": "Vinson edges ahead in Escambia District 4 race; recount set for Saturday",
+      "title": "Escambia breaks ground on new Myrtle Grove fire station",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/vinson-pulls-ahead-in-escambia-county-district-4-race-recount-set-for-saturday",
-      "summary": "Joe Vinson leads incumbent Ashlee Hofberger by 19 votes after the canvassing review. A machine recount starts Nov 7, and overseas military ballots could push the final result past Nov 13."
+      "url": "https://weartv.com/news/local/escambia-county-breaks-ground-on-new-myrtle-grove-fire-station",
+      "summary": "The roughly 12,780-square-foot, three-bay Station 11 is paid for with voter-approved sales tax money; building starts this month with completion expected in fall 2027."
+    },
+    {
+      "title": "Three Pensacola men arrested on federal fentanyl charges",
+      "source": "WEAR",
+      "url": "https://weartv.com/news/local/3-pensacola-men-arrested-on-fentanyl-distribution-charges-after-feds-raid-multiple-homes",
+      "summary": "Searches of several Escambia homes on Oct 29 turned up close to two pounds of fentanyl, firearms and over $100,000 in cash; the men are held pending further proceedings."
     },
     {
       "title": "County warns mixed storm debris piles could delay pickup",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/keep-it-separate-escambia-county-warns-mixed-storm-debris-piles-could-delay-pickup",
-      "summary": "Escambia says trees and limbs must be kept apart from construction debris, and mixed piles may wait longer. Questions go to 850-332-1226."
+      "url": "https://weartv.com/newsletter-daily/keep-it-separate-escambia-county-warns-mixed-storm-debris-piles-could-delay-pickup",
+      "summary": "Officials ask residents to keep vegetative and construction debris separate; mixed loads get turned away and can affect FEMA reimbursement. Questions go to 850-332-1226."
     },
     {
-      "title": "NAS Pensacola marks 200th anniversary as Blue Angels close season with home show",
+      "title": "District 4 commission race goes to a recount",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/nas-pensacola-marks-200th-anniversary-as-blue-angels-to-close-season-with-home-show",
-      "summary": "The free homecoming air show runs Friday and Saturday, with more than 300,000 visitors expected over both days."
+      "url": "https://weartv.com/news/local/just-3-votes-now-separate-hofberger-vinson-in-escambia-county-district-4-race",
+      "summary": "As of Nov 4 the margin between Hofberger and Vinson was about three votes out of more than 26,000; a machine recount was set to begin Saturday with a possible manual recount Sunday. Final result not confirmed."
     },
     {
       "title": "Florida Vibe pro softball team coming to Blue Wahoos Stadium",
@@ -848,22 +839,10 @@
       "summary": "The Professional Softball League club starts play in 2027 with about 20 mostly weekend home games; a free welcome event is set for Nov 16."
     },
     {
-      "title": "Area high school football district results, Nov 3-4",
-      "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/pensacola-area-nov-3-4-041431536.html",
-      "summary": "Pine Forest and Pace clinched district titles; Tate beat Navarre 55-7 and Escambia topped Gulf Breeze 30-0."
-    },
-    {
       "title": "Escambia voters approve renewing the local option sales tax",
       "source": "Pensacola News Journal via Yahoo News",
       "url": "https://www.yahoo.com/news/politics/articles/escambia-county-voters-approve-local-020637839.html",
       "summary": "Unofficial results show about 82,000 yes votes to 27,000 no for a 10-year renewal of the one-cent tax, which pays for roads, buildings, stormwater, public safety equipment and other capital needs."
-    },
-    {
-      "title": "Benson re-elected, Litton wins open seat on ECUA board",
-      "source": "Pensacola News Journal via Yahoo News",
-      "url": "https://www.yahoo.com/news/politics/articles/lois-benson-greg-litton-win-014416159.html",
-      "summary": "Lois Benson kept her District 2 seat with about 58%, and Greg Litton won District 4, formerly held by the late Dale Perkins, in a three-way race."
     },
     {
       "title": "FEMA individual assistance approved for Escambia and seven other counties",
@@ -966,5 +945,5 @@
       "url": "https://forecast.weather.gov/MapClick.php?lat=30.44&lon=-87.19"
     }
   ],
-  "coverage_note": "Updated Friday, Nov 6. New this run: AccuWeather's forecast (Nov 6 to 13), WEAR's recount, storm-debris and air show stories, and Must Do Pensacola's Nov 6-8 weekend guide, plus the Perdido Key Christmas Market and museum STEAM Day. Other news, restaurant and later-event items were carried over from the Nov 5 update. Visit Pensacola's calendar, Local Pulse, Downtown Pensacola, the Saenger and team sites could not be opened; NorthEscambia.com's page showed older cached content, so no Gonzalez, Molino, Beulah or Cantonment events were confirmed and north Escambia coverage is thin. No new restaurant openings were confirmed beyond the carried-over list, and Emerald Fortress's Nov 4 opening and December event details are unconfirmed."
+  "coverage_note": "Updated early Saturday, Nov 7. New this run: Must Do Pensacola's openings roundup and V. Paul's closing, PensacolaBeach.com's November calendar, the Great Gulfcoast Arts Festival hours, WEAR's 7-day forecast and four WEAR/local news stories. Forecast covers only Nov 7-12 because the sources I could read stopped there, and it is much drier than yesterday's for Tue-Wed. Visit Pensacola, Downtown Pensacola, WKRG, the Saenger, team sites and NWS could not be opened, and NorthEscambia.com's cached pages were months old, so no Gonzalez, Molino, Beulah or Cantonment events or openings were confirmed and north Escambia coverage is thin. Emerald Fortress's Nov 4 opening and the recount outcome were not confirmed; later-November and December events are carried over from earlier runs."
 }
