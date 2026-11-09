@@ -1,41 +1,53 @@
 {
-  "generated": "2026-11-08T02:52:00-06:00",
-  "weekend_note": "Dry and mild through Thursday (mid-70s, no rain in the NWS forecast), then a cold front drops Friday to the mid 60s with lows near 42 and Saturday to the low 60s, so bring a jacket for the Nov 13-15 weekend. Picks: the Veterans Day Ceremony (Wed), the SS United States reef sinking viewing options (Thu), then Festa Italiana, the Fall Food Truck Fest, Frank Brown songwriter shows and EggFest, mostly outdoors. The Saenger's Music for Families (Sat) and the Ice Flyers at the Bay Center are indoor backups. Isaias recovery still affects some places, so double-check before heading out.",
+  "generated": "2026-11-09T02:55:00-06:00",
+  "weekend_note": "Mild and dry-looking through Thursday (low 70s), then a cold snap: Friday near 64, Saturday only mid 50s with a low near 39, and Sunday upper 50s. Dress warm for the Nov 13-15 weekend. Picks: Veterans Day Ceremony (Wed), the SS United States reef sinking viewing (Thu, a legal challenge was pending Nov 5), then Festa Italiana, the Fall Food Truck Fest and EggFest, all outdoors. The Saenger-area Music for Families (Sat) and the Ice Flyers at the Bay Center are indoor backups. Isaias recovery still affects some places, so double-check before heading out.",
   "weather": [
     {
-      "date": "2026-11-08",
-      "hi": 72,
-      "lo": 48,
-      "rain": 0
-    },
-    {
       "date": "2026-11-09",
-      "hi": 75,
-      "lo": 52,
+      "hi": 74,
+      "lo": 56,
       "rain": 0
     },
     {
       "date": "2026-11-10",
-      "hi": 75,
-      "lo": 55,
-      "rain": 0
-    },
-    {
-      "date": "2026-11-11",
-      "hi": 75,
+      "hi": 73,
       "lo": 58,
       "rain": 0
     },
     {
+      "date": "2026-11-11",
+      "hi": 70,
+      "lo": 62,
+      "rain": 0
+    },
+    {
       "date": "2026-11-12",
-      "hi": 75,
-      "lo": 48,
+      "hi": 71,
+      "lo": 49,
       "rain": 0
     },
     {
       "date": "2026-11-13",
-      "hi": 65,
+      "hi": 64,
+      "lo": 41,
+      "rain": 0
+    },
+    {
+      "date": "2026-11-14",
+      "hi": 56,
+      "lo": 39,
+      "rain": 0
+    },
+    {
+      "date": "2026-11-15",
+      "hi": 58,
       "lo": 42,
+      "rain": 0
+    },
+    {
+      "date": "2026-11-16",
+      "hi": 59,
+      "lo": 41,
       "rain": 0
     }
   ],
@@ -44,8 +56,8 @@
     "ssus",
     "festa",
     "foodtruck",
-    "frankbrown",
-    "eggfest"
+    "eggfest",
+    "psofamilies"
   ],
   "weekly": [
     {
@@ -64,19 +76,6 @@
     }
   ],
   "events": [
-    {
-      "id": "farms",
-      "date": "2026-10-10",
-      "end": "2026-11-08",
-      "title": "Milton pumpkin patches and farms",
-      "time": "Sweet Season: Sat 9-5, Sun 11-5",
-      "t": "10:00",
-      "place": "Sweet Season Farms and Holland Farms, Milton",
-      "area": "elsewhere",
-      "section": "seasonal",
-      "note": "Sweet Season Farms (2260 Horn Rd, Milton) reopened after the storm: open Sat 9 AM to 5 PM and Sun 11 AM to 5 PM through Nov 8, though its corn maze was damaged. Holland Farms reopened for pumpkin-patch weekends; check its page for hours.",
-      "src": "https://localpulse.com/2026/10/local-pulse-weekend-top-10-61/"
-    },
     {
       "id": "foofoo",
       "date": "2026-10-29",
@@ -116,32 +115,6 @@
       "section": "seasonal",
       "note": "Canopy zipline tours through Nov 30, with camping, cabins and Coldwater Creek paddling.",
       "src": "https://www.yahoo.com/entertainment/music/articles/great-gulfcoast-arts-greek-fest-100221202.html"
-    },
-    {
-      "id": "rocky-horror",
-      "date": "2026-11-02",
-      "title": "The Rocky Horror Show (Pensacola Little Theatre)",
-      "time": "Wed to Sun at 7:30 PM through Nov 8",
-      "t": "19:30",
-      "place": "Pensacola Little Theatre, 400 S Jefferson St",
-      "area": "downtown",
-      "section": "entertainment",
-      "note": "Stage production at Pensacola Little Theatre, in its final week. Ticket prices not listed; check the theatre site.",
-      "src": "https://www.yahoo.com/entertainment/music/articles/great-gulfcoast-arts-greek-fest-100221202.html",
-      "end": "2026-11-08"
-    },
-    {
-      "id": "sideshow",
-      "date": "2026-11-03",
-      "end": "2026-11-08",
-      "title": "Side Show (PenArts circus-inspired musical)",
-      "time": "See event page",
-      "t": "19:30",
-      "place": "Gordon Community Art Center, 306 N De Villiers St",
-      "area": "downtown",
-      "section": "entertainment",
-      "note": "Ticketed Foo Foo Fest musical; showtimes not listed in what I read.",
-      "src": "https://www.mustdopensacola.com/news/foo-foo-festival-rolls-on-pensacola-2026"
     },
     {
       "id": "holidaymkt",
@@ -186,34 +159,6 @@
       "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-november-2-8-2026"
     },
     {
-      "id": "gulfarts",
-      "date": "2026-11-06",
-      "end": "2026-11-08",
-      "title": "Great Gulfcoast Arts Festival",
-      "time": "Fri/Sat 9 AM to 5 PM, Sun 9 AM to 4 PM; Children's Festival Sat/Sun 10 AM to 4 PM",
-      "t": "10:00",
-      "place": "Seville Square, downtown",
-      "area": "downtown",
-      "section": "seasonal",
-      "note": "Free juried show at Seville Square with 200+ artists, live music, a children's arts festival, a student show and food. No pets.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-november-2-8-2026",
-      "free": true
-    },
-    {
-      "id": "greekfest",
-      "date": "2026-11-06",
-      "end": "2026-11-08",
-      "title": "Pensacola Greek Festival",
-      "time": "Fri/Sat 11 AM to 9 PM, Sun 11 AM to 3 PM",
-      "t": "11:00",
-      "place": "Annunciation Greek Orthodox Church",
-      "area": "downtown",
-      "section": "seasonal",
-      "note": "Free entry at Annunciation Greek Orthodox Church (1720 W Garden St); food is extra. Greek dishes, pastries, music, folk dancing and church tours.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-november-2-8-2026",
-      "free": true
-    },
-    {
       "id": "sectsoccer",
       "date": "2026-11-08",
       "end": "2026-11-15",
@@ -225,18 +170,6 @@
       "section": "entertainment",
       "note": "SEC women's soccer tournament with the top 12 teams, Nov 8 to 15. Session and package tickets; children 5 and under free. Free Fan Fest from 11:30 AM on championship day, Nov 15.",
       "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-november-2-8-2026"
-    },
-    {
-      "id": "woodbox",
-      "date": "2026-11-08",
-      "title": "Wood Box Heroes benefit concert",
-      "time": "Doors 6 PM, show 7 PM",
-      "t": "19:00",
-      "place": "Vinyl Music Hall, 2 S Palafox St",
-      "area": "downtown",
-      "section": "entertainment",
-      "note": "Proceeds go to Gulf Coast Kid's House.",
-      "src": "https://www.yahoo.com/entertainment/music/articles/great-gulfcoast-arts-greek-fest-100221202.html"
     },
     {
       "id": "vets",
@@ -844,12 +777,6 @@
   ],
   "news": [
     {
-      "title": "Blue Angels close 2026 season at NAS Pensacola Homecoming Air Show",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/local/blue-angels-wrap-2026-show-season-at-nas-pensacola-homecoming-airshow",
-      "summary": "The two-day show ending Nov 7 drew more than 300,000 spectators and was the team's last of 32 shows this year."
-    },
-    {
       "title": "Vinson leads Escambia District 4 race as recount proceeds",
       "source": "WEAR",
       "url": "https://weartv.com/news/local/vinson-pulls-ahead-in-escambia-county-district-4-race-recount-set-for-saturday",
@@ -866,6 +793,12 @@
       "source": "FOX10",
       "url": "https://www.fox10tv.com/2026/11/01/heres-look-events-associated-with-deployment-ss-united-states/",
       "summary": "Deployment is planned for Thursday, weather permitting, with a Nov 11 sendoff ceremony and a livestream expected."
+    },
+    {
+      "title": "Group asks federal judge to block SS United States sinking",
+      "source": "WEAR",
+      "url": "https://weartv.com/news/local/preservation-group-asks-federal-judge-to-block-planned-sinking-of-ss-united-states",
+      "summary": "A preservation group says paint on the ship could harm Gulf waters; as of Nov 5 no ruling was reported and the sinking was still planned for about 23 miles southwest of Destin."
     },
     {
       "title": "Escambia breaks ground on new Myrtle Grove fire station",
@@ -986,5 +919,5 @@
       "url": "https://forecast.weather.gov/MapClick.php?lat=30.44&lon=-87.19"
     }
   ],
-  "coverage_note": "Updated Sunday morning, Nov 8. New this run: Must Do Pensacola's November guide, PensacolaBeach.com and Downtown Pensacola calendars, Visit Pensacola's fall page, the NWS forecast, and WEAR/FOX10 stories. The NWS page gives temperatures through Saturday Nov 14 but no rain percentages and no precipitation, so rain shows 0 and Nov 14 is omitted (no low listed). Several pages (Must Do weekend guide, WEAR and Local Pulse home pages) would not open, and NorthEscambia.com could not be read, so no Gonzalez, Molino, Beulah or Cantonment events were newly confirmed and north Escambia coverage is thin. Restaurant statuses are carried over from earlier runs and not re-confirmed, including the Nov 7 grand openings and Emerald Fortress. Calendar-only items say 'See event page' where times were not shown."
+  "coverage_note": "Updated Monday morning, Nov 9. Refreshed from the Pensacola Beach November calendar, NorthEscambia.com's home page and WEAR pages; events that ended Nov 8 were dropped. Forecast highs and lows come from WeatherBug (it lists no rain chances, so rain shows 0 and is unconfirmed). Several searches returned only old pages, the NWS and Must Do pages would not open, and no Gonzalez, Molino, Beulah or Cantonment events were found, so north Escambia coverage is thin. Restaurant statuses are carried over and not re-confirmed this run. Calendar-only items say 'See event page' where times were not shown."
 }
