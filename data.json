@@ -1,47 +1,41 @@
 {
-  "generated": "2026-11-09T02:55:00-06:00",
-  "weekend_note": "Mild and dry-looking through Thursday (low 70s), then a cold snap: Friday near 64, Saturday only mid 50s with a low near 39, and Sunday upper 50s. Dress warm for the Nov 13-15 weekend. Picks: Veterans Day Ceremony (Wed), the SS United States reef sinking viewing (Thu, a legal challenge was pending Nov 5), then Festa Italiana, the Fall Food Truck Fest and EggFest, all outdoors. The Saenger-area Music for Families (Sat) and the Ice Flyers at the Bay Center are indoor backups. Isaias recovery still affects some places, so double-check before heading out.",
+  "generated": "2026-11-10T02:59:54-06:00",
+  "weekend_note": "Mild and mostly dry through Thursday (a 20% rain chance Wednesday for Veterans Day and the SS United States sinking), then a cold snap: Friday high 67, Saturday only low 60s, Sunday mid 60s, with overnight lows near 40 possible. Picks: Veterans Day Ceremony and the SS United States reef sinking (both Wed, now moved up a day), then Festa Italiana, the Fall Food Truck Fest and EggFest, all outdoors, so bundle up. The Saenger-area Music for Families (Sat) and the Ice Flyers at the Bay Center are indoor backups. Isaias recovery still affects some places, so double-check before heading out.",
   "weather": [
     {
-      "date": "2026-11-09",
-      "hi": 74,
+      "date": "2026-11-10",
+      "hi": 77,
       "lo": 56,
       "rain": 0
     },
     {
-      "date": "2026-11-10",
-      "hi": 73,
-      "lo": 58,
-      "rain": 0
-    },
-    {
       "date": "2026-11-11",
-      "hi": 70,
-      "lo": 62,
-      "rain": 0
+      "hi": 73,
+      "lo": 59,
+      "rain": 20
     },
     {
       "date": "2026-11-12",
-      "hi": 71,
-      "lo": 49,
+      "hi": 76,
+      "lo": 48,
       "rain": 0
     },
     {
       "date": "2026-11-13",
-      "hi": 64,
+      "hi": 67,
       "lo": 41,
       "rain": 0
     },
     {
       "date": "2026-11-14",
-      "hi": 56,
-      "lo": 39,
+      "hi": 62,
+      "lo": 44,
       "rain": 0
     },
     {
       "date": "2026-11-15",
-      "hi": 58,
-      "lo": 42,
+      "hi": 64,
+      "lo": 52,
       "rain": 0
     },
     {
@@ -76,33 +70,6 @@
     }
   ],
   "events": [
-    {
-      "id": "foofoo",
-      "date": "2026-10-29",
-      "end": "2026-11-09",
-      "title": "Foo Foo Festival",
-      "time": "Times vary",
-      "t": "12:00",
-      "place": "Venues around Pensacola",
-      "area": "downtown",
-      "section": "seasonal",
-      "note": "12-day arts festival through Nov 9: Lightspill, free Science on the Street installations on Palafox, Night Moves Music Fest (through Nov 8) and ticketed shows. Some events free.",
-      "src": "https://www.mustdopensacola.com/news/foo-foo-festival-rolls-on-pensacola-2026"
-    },
-    {
-      "id": "lightspill",
-      "date": "2026-10-29",
-      "end": "2026-11-09",
-      "title": "Lightspill",
-      "time": "Runs daily; no ticket needed",
-      "t": "19:00",
-      "place": "223 S Palafox, downtown",
-      "area": "downtown",
-      "section": "seasonal",
-      "note": "Outdoor installation of reflective spheres on the Artel Gallery building; free to see through Nov 9.",
-      "src": "https://www.mustdopensacola.com/news/foo-foo-festival-rolls-on-pensacola-2026",
-      "free": true
-    },
     {
       "id": "zipline",
       "date": "2026-11-02",
@@ -168,8 +135,8 @@
       "place": "Ashton Brosnaham Soccer Complex",
       "area": "elsewhere",
       "section": "entertainment",
-      "note": "SEC women's soccer tournament with the top 12 teams, Nov 8 to 15. Session and package tickets; children 5 and under free. Free Fan Fest from 11:30 AM on championship day, Nov 15.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-november-2-8-2026"
+      "note": "SEC women's soccer tournament at Ashton Brosnaham; quarterfinals Tue, semifinals Thu, championship Sun Nov 15. Tickets via the Pensacola Sports site; price not listed. Free Fan Fest from 11:30 AM on championship day, per an earlier Must Do guide.",
+      "src": "https://weartv.com/news/local/sec-womens-soccer-tournament-opens-in-pensacola-at-ashton-brosnaham-athletic-park"
     },
     {
       "id": "vets",
@@ -193,8 +160,8 @@
       "place": "Seville Square, Downtown",
       "area": "downtown",
       "section": "seasonal",
-      "note": "Postponed from Oct 9-10 after Isaias. Free admission; Visit Pensacola and Downtown Pensacola list Seville Square (an earlier listing said Fountain Park).",
-      "src": "https://www.visitpensacola.com/seasonal-fun-in-pensacola/fall/",
+      "note": "Postponed from Oct 9-10 after Isaias. Free admission. Venue is listed as Seville Square on Visit Pensacola but Fountain Park on PensacolaBeach.com's November list, so confirm the spot before heading down.",
+      "src": "https://pensacolabeach.com/november-events-in-pensacola/",
       "free": true
     },
     {
@@ -533,15 +500,15 @@
     },
     {
       "id": "ssus",
-      "date": "2026-11-12",
+      "date": "2026-11-11",
       "title": "SS United States reef deployment (Destin-Fort Walton Beach)",
-      "time": "Operations begin 10 AM; viewing party at AJ's in Destin from 9 AM",
-      "t": "09:00",
+      "time": "Sinking planned 11 AM; viewing party at AJ's in Destin at noon",
+      "t": "11:00",
       "place": "Gulf off Destin; viewing party at AJ's Seafood and Oyster Bar, Destin",
       "area": "elsewhere",
       "section": "entertainment",
-      "note": "The ocean liner is planned to be sunk as an artificial reef, weather permitting. A public sendoff is set for Wed Nov 11 at 1:30 PM at the Destin-Fort Walton Beach Convention Center. Downtown Pensacola also lists a watch party at 130 E Government St, time not listed.",
-      "src": "https://www.fox10tv.com/2026/11/01/heres-look-events-associated-with-deployment-ss-united-states/"
+      "note": "Officials moved the planned artificial-reef sinking up from Thu Nov 12 to Veterans Day because of a high-wind forecast. The ship is to go down about 22 nautical miles southwest of Destin; a live feed is planned at the viewing party and at thessus.com. Earlier-listed sendoff and Pensacola watch-party times were not re-confirmed, so check before going.",
+      "src": "https://weartv.com/news/local/okaloosa-county-moves-ss-united-states-sinking-up-to-wednesday-amid-heavy-wind-forecast"
     },
     {
       "id": "foodtruck",
@@ -777,52 +744,52 @@
   ],
   "news": [
     {
-      "title": "Vinson leads Escambia District 4 race as recount proceeds",
+      "title": "SS United States sinking moved up to Wednesday, Nov. 11",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/vinson-pulls-ahead-in-escambia-county-district-4-race-recount-set-for-saturday",
-      "summary": "After provisional ballots were reviewed, the elections site showed Vinson ahead of Hofberger by 19 votes; a machine recount was due to start Nov 7, and overseas ballots could keep the final result unknown past Nov 13."
+      "url": "https://weartv.com/news/local/okaloosa-county-moves-ss-united-states-sinking-up-to-wednesday-amid-heavy-wind-forecast",
+      "summary": "Okaloosa County moved the reef deployment from Thursday to Veterans Day at 11 AM because of a heavy-wind forecast; a viewing party with a live feed is planned in Destin at noon."
     },
     {
-      "title": "FPL tells some Pensacola neighborhoods they may qualify for underground lines",
+      "title": "A month after Isaias, FEMA aid is reaching Northwest Florida",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/some-pensacola-neighborhoods-flagged-as-eligible-for-fpl-underground-power-line-conversion",
-      "summary": "Flyers began going out Nov 6 under the Storm Secure Underground Program; design and construction would take roughly two years."
+      "url": "https://weartv.com/news/local/one-month-after-hurricane-isaias-fema-aid-reaches-storm-victims-in-northwest-florida",
+      "summary": "FEMA has approved over $34 million, about $20 million of it in Escambia. The Individual Assistance deadline is Dec. 26, with resource centers in Brownsville and Ferry Pass open 7 AM to 7 PM daily."
     },
     {
-      "title": "SS United States set to become artificial reef off Destin Nov 12",
-      "source": "FOX10",
-      "url": "https://www.fox10tv.com/2026/11/01/heres-look-events-associated-with-deployment-ss-united-states/",
-      "summary": "Deployment is planned for Thursday, weather permitting, with a Nov 11 sendoff ceremony and a livestream expected."
-    },
-    {
-      "title": "Group asks federal judge to block SS United States sinking",
+      "title": "Pensacola weighs $1,000 fee to remove large live oaks",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/preservation-group-asks-federal-judge-to-block-planned-sinking-of-ss-united-states",
-      "summary": "A preservation group says paint on the ship could harm Gulf waters; as of Nov 5 no ruling was reported and the sinking was still planned for about 23 miles southwest of Destin."
+      "url": "https://weartv.com/news/local/city-of-pensacola-proposes-1000-live-oak-removal-fee-and-inch-for-inch-replanting-rule",
+      "summary": "The proposed tree rules add a fee for removing oaks 40 inches or wider and an inch-for-inch replanting standard; council is expected to take a first reading and hold a public hearing Thursday at 5:30 PM."
     },
     {
-      "title": "Escambia breaks ground on new Myrtle Grove fire station",
+      "title": "State grants Pensacola $1.2M for bollards in New Palafox project",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/escambia-county-breaks-ground-on-new-myrtle-grove-fire-station",
-      "summary": "The roughly 12,780-square-foot, three-bay Station 11 is paid for with voter-approved sales tax money; building starts this month with completion expected in fall 2027."
+      "url": "https://weartv.com/news/local/florida-grants-pensacola-12m-for-crash-rated-bollards-in-new-palafox-project",
+      "summary": "The money covers crash-rated bollards on Palafox between Garden and Main, about half the original $2.4 million estimate, so the scope will shrink."
     },
     {
-      "title": "County warns mixed storm debris piles could delay pickup",
+      "title": "Milton cold-weather shelter closes; nonprofits plan rides to Pensacola",
       "source": "WEAR",
-      "url": "https://weartv.com/newsletter-daily/keep-it-separate-escambia-county-warns-mixed-storm-debris-piles-could-delay-pickup",
-      "summary": "Officials ask residents to keep vegetative and construction debris separate; mixed loads get turned away and can affect FEMA reimbursement. Questions go to 850-332-1226."
+      "url": "https://weartv.com/news/local/cold-weather-shelter-in-milton-closes-nonprofits-plan-free-transport-to-pensacola",
+      "summary": "Opening Doors and Waterfront Rescue Mission plan free transport and overnight shelter when temperatures fall below 40, with lows near that mark possible this weekend."
     },
     {
-      "title": "FEMA individual assistance approved for Escambia and seven other counties",
-      "source": "Yahoo News",
-      "url": "https://www.yahoo.com/news/us/articles/fema-individual-assistance-approved-escambia-170301220.html",
-      "summary": "Housing, repair and other storm aid was announced Oct 29, with applications through DisasterAssistance.gov."
+      "title": "Escambia eases contractor rules after Isaias, warns of scams",
+      "source": "WEAR",
+      "url": "https://weartv.com/news/local/escambia-county-temporarily-eases-contractor-rules-but-warns-of-unlicensed-contractors",
+      "summary": "Out-of-state contractors can work in the county and re-roofing rules are loosened through December; officials flag big up-front payments as a red flag."
+    },
+    {
+      "title": "SEC women's soccer returns to Pensacola for a fifth year",
+      "source": "WEAR",
+      "url": "https://weartv.com/news/local/sec-womens-soccer-tournament-opens-in-pensacola-at-ashton-brosnaham-athletic-park",
+      "summary": "Twelve teams opened play at Ashton Brosnaham with higher attendance; semifinals are Thursday and the championship is Nov. 15."
     },
     {
       "title": "Florida Vibe pro softball team coming to Blue Wahoos Stadium",
       "source": "WEAR",
       "url": "https://weartv.com/news/local/pensacola-gets-professional-womens-softball-team-will-play-at-blue-wahoos-stadium",
-      "summary": "The Professional Softball League club starts play in 2027 with about 20 mostly weekend home games; a free welcome event is set for Nov 16."
+      "summary": "The Professional Softball League club starts play in 2027; a free welcome event is set for Nov 16."
     }
   ],
   "sources": [
@@ -919,5 +886,5 @@
       "url": "https://forecast.weather.gov/MapClick.php?lat=30.44&lon=-87.19"
     }
   ],
-  "coverage_note": "Updated Monday morning, Nov 9. Refreshed from the Pensacola Beach November calendar, NorthEscambia.com's home page and WEAR pages; events that ended Nov 8 were dropped. Forecast highs and lows come from WeatherBug (it lists no rain chances, so rain shows 0 and is unconfirmed). Several searches returned only old pages, the NWS and Must Do pages would not open, and no Gonzalez, Molino, Beulah or Cantonment events were found, so north Escambia coverage is thin. Restaurant statuses are carried over and not re-confirmed this run. Calendar-only items say 'See event page' where times were not shown."
+  "coverage_note": "Updated Tuesday, Nov 10. Forecast highs, lows and rain chances come from WEAR's 7-day page (it lists weekdays only and may lag a day; Nov 16 is carried over from the previous run, rain unconfirmed). Fresh details come from WEAR, the PensacolaBeach.com November calendar and Must Do's Nov 1 openings article. Events that ended by Nov 9 were dropped, and the SS United States entry moved to Nov 11. Must Do's news index, the Saenger site and Visit Pensacola's date listings would not load, and NorthEscambia.com's home page showed no public events for Gonzalez, Molino, Beulah or Cantonment, so north Escambia coverage is thin. Restaurant statuses are carried over and not re-confirmed this run. Items marked 'See event page' had no times on the sources I read."
 }
