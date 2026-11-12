@@ -1,57 +1,63 @@
 {
-  "generated": "2026-11-10T02:59:54-06:00",
-  "weekend_note": "Mild and mostly dry through Thursday (a 20% rain chance Wednesday for Veterans Day and the SS United States sinking), then a cold snap: Friday high 67, Saturday only low 60s, Sunday mid 60s, with overnight lows near 40 possible. Picks: Veterans Day Ceremony and the SS United States reef sinking (both Wed, now moved up a day), then Festa Italiana, the Fall Food Truck Fest and EggFest, all outdoors, so bundle up. The Saenger-area Music for Families (Sat) and the Ice Flyers at the Bay Center are indoor backups. Isaias recovery still affects some places, so double-check before heading out.",
+  "generated": "2026-11-12T02:55:12-06:00",
+  "weekend_note": "A cold snap arrives: Friday high 64, Saturday only 58, Sunday 62, with lows from 42 to 50 and dry skies all weekend (a 20% rain chance shows up Monday). Picks: Festa Italiana (Fri-Sat), the Fall Food Truck Fest and Launch's grand opening (Sat), then EggFest and SEC soccer championship day (Sun), all outdoors except Launch, so bundle up. White Tie Rock at the ballpark Friday night and the Ice Flyers at the Bay Center are fallback evening options.",
   "weather": [
-    {
-      "date": "2026-11-10",
-      "hi": 77,
-      "lo": 56,
-      "rain": 0
-    },
-    {
-      "date": "2026-11-11",
-      "hi": 73,
-      "lo": 59,
-      "rain": 20
-    },
     {
       "date": "2026-11-12",
       "hi": 76,
-      "lo": 48,
+      "lo": 49,
       "rain": 0
     },
     {
       "date": "2026-11-13",
-      "hi": 67,
-      "lo": 41,
+      "hi": 64,
+      "lo": 42,
       "rain": 0
     },
     {
       "date": "2026-11-14",
-      "hi": 62,
-      "lo": 44,
+      "hi": 58,
+      "lo": 46,
       "rain": 0
     },
     {
       "date": "2026-11-15",
-      "hi": 64,
-      "lo": 52,
+      "hi": 62,
+      "lo": 50,
       "rain": 0
     },
     {
       "date": "2026-11-16",
+      "hi": 62,
+      "lo": 50,
+      "rain": 20
+    },
+    {
+      "date": "2026-11-17",
       "hi": 59,
-      "lo": 41,
+      "lo": 51,
+      "rain": 0
+    },
+    {
+      "date": "2026-11-18",
+      "hi": 66,
+      "lo": 51,
+      "rain": 0
+    },
+    {
+      "date": "2026-11-19",
+      "hi": 67,
+      "lo": 54,
       "rain": 0
     }
   ],
   "picks": [
-    "vets",
-    "ssus",
     "festa",
     "foodtruck",
     "eggfest",
-    "psofamilies"
+    "launchgo",
+    "sectsoccer",
+    "whitetie-stadium"
   ],
   "weekly": [
     {
@@ -84,22 +90,6 @@
       "src": "https://www.yahoo.com/entertainment/music/articles/great-gulfcoast-arts-greek-fest-100221202.html"
     },
     {
-      "id": "holidaymkt",
-      "dates": [
-        "2026-11-11",
-        "2026-11-18",
-        "2026-11-25"
-      ],
-      "title": "Palafox Market Holiday Edition",
-      "time": "4 to 8 PM Wednesdays",
-      "t": "16:00",
-      "place": "Plaza Ferdinand on Nov 4; MLK Jr. Plaza after that",
-      "area": "downtown",
-      "section": "seasonal",
-      "note": "Wednesday evening holiday market through Nov 25. Nov 4 is at Plaza Ferdinand; Nov 11, 18 and 25 move to MLK Jr. Plaza. Admission not listed.",
-      "src": "https://pensacolabeach.com/november-events-in-pensacola/"
-    },
-    {
       "id": "firstcity",
       "date": "2026-11-04",
       "title": "First City Lights Festival",
@@ -122,8 +112,8 @@
       "place": "Perdido Key, Flora-Bama and Gulf Coast venues",
       "area": "elsewhere",
       "section": "entertainment",
-      "note": "42nd annual festival with 200+ songwriters and 600+ performances on stages across Perdido Key, Orange Beach and the Gulf Coast, including the Flora-Bama. Many shows are free.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-november-2-8-2026"
+      "note": "Final weekend of the 42nd annual festival with 200+ songwriters across Perdido Key, Orange Beach and Gulf Coast venues. Many shows are free; see the official schedule for times.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-november-9-15-2026"
     },
     {
       "id": "sectsoccer",
@@ -135,20 +125,24 @@
       "place": "Ashton Brosnaham Soccer Complex",
       "area": "elsewhere",
       "section": "entertainment",
-      "note": "SEC women's soccer tournament at Ashton Brosnaham; quarterfinals Tue, semifinals Thu, championship Sun Nov 15. Tickets via the Pensacola Sports site; price not listed. Free Fan Fest from 11:30 AM on championship day, per an earlier Must Do guide.",
-      "src": "https://weartv.com/news/local/sec-womens-soccer-tournament-opens-in-pensacola-at-ashton-brosnaham-athletic-park"
+      "note": "SEC women's soccer tournament at Ashton Brosnaham, ending with championship day Sun Nov 15. Free Fan Fest from 11:30 AM until halftime of the final; match times and ticket prices are on the official site.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-november-9-15-2026"
     },
     {
-      "id": "vets",
-      "date": "2026-11-11",
-      "title": "Veterans Day Ceremony",
-      "time": "11 AM",
-      "t": "11:00",
-      "place": "Veterans Memorial Park, downtown",
+      "id": "holidaymkt",
+      "dates": [
+        "2026-11-11",
+        "2026-11-18",
+        "2026-11-25"
+      ],
+      "title": "Palafox Market Holiday Edition",
+      "time": "4 to 8 PM Wednesdays",
+      "t": "16:00",
+      "place": "Plaza Ferdinand on Nov 4; MLK Jr. Plaza after that",
       "area": "downtown",
       "section": "seasonal",
-      "note": "Music from the Blue Anchor Belles and McGuire's Irish Pub Pipe Band, with a keynote by retired Navy Cmdr. Keith Hoskins.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-november-2026"
+      "note": "Wednesday evening holiday market through Nov 25. Nov 4 is at Plaza Ferdinand; Nov 11, 18 and 25 move to MLK Jr. Plaza. Admission not listed.",
+      "src": "https://pensacolabeach.com/november-events-in-pensacola/"
     },
     {
       "id": "festa",
@@ -157,12 +151,28 @@
       "title": "Festa Italiana (moved from Oct 9-10)",
       "time": "11 AM to 6 PM",
       "t": "12:00",
-      "place": "Seville Square, Downtown",
+      "place": "Fountain Park, near Seville Square, downtown",
       "area": "downtown",
       "section": "seasonal",
-      "note": "Postponed from Oct 9-10 after Isaias. Free admission. Venue is listed as Seville Square on Visit Pensacola but Fountain Park on PensacolaBeach.com's November list, so confirm the spot before heading down.",
-      "src": "https://pensacolabeach.com/november-events-in-pensacola/",
+      "note": "Postponed from Oct 9-10 after Isaias. Free admission; Italian food, music, cultural demonstrations and a kids' area. Must Do lists Fountain Park as the venue.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-november-9-15-2026",
       "free": true
+    },
+    {
+      "id": "perdido-xmas",
+      "dates": [
+        "2026-11-13",
+        "2026-11-14"
+      ],
+      "title": "Perdido Key Christmas Market",
+      "time": "Fri 5 to 8 PM, Sat 9 AM to 1 PM",
+      "t": "17:00",
+      "place": "Villagio Perdido Town Centre, 13700 Perdido Key Dr",
+      "area": "beaches",
+      "section": "free",
+      "free": true,
+      "note": "Free holiday market with handmade goods from local makers and photos with Santa.",
+      "src": "https://www.visitpensacola.com/events/perdido-key-christmas-market1/"
     },
     {
       "id": "harvestfest",
@@ -175,6 +185,18 @@
       "section": "seasonal",
       "note": "See event page for host and details.",
       "src": "https://allevents.in/cantonment"
+    },
+    {
+      "id": "eggvip",
+      "date": "2026-11-13",
+      "title": "EggFest VIP Dinner",
+      "time": "Evening, time not listed",
+      "t": "18:30",
+      "place": "See event page",
+      "area": "downtown",
+      "section": "seasonal",
+      "note": "Kickoff dinner for Sunday's EggFest; price and venue not listed.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-november-9-15-2026"
     },
     {
       "id": "whitetie-stadium",
@@ -205,6 +227,42 @@
       "section": "entertainment",
       "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-november-2026",
       "note": "Nov 13 vs. Macon Mayhem (adult jersey giveaway), Nov 14 vs. Macon (Blue Angels Night), Nov 25 vs. Huntsville (Thanksgiving Eve), Nov 28 youth jersey giveaway night. Dec 5 carried over; confirm on the team site."
+    },
+    {
+      "id": "launchgo",
+      "date": "2026-11-14",
+      "title": "Launch Family Entertainment grand opening",
+      "time": "9 AM",
+      "t": "09:00",
+      "place": "8102 N Davis Hwy, Ferry Pass Plaza",
+      "area": "elsewhere",
+      "section": "entertainment",
+      "note": "Giveaways of jump passes for early guests; requires a grand-opening ticket purchase and waiver, first come, first served.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-november-9-15-2026"
+    },
+    {
+      "id": "psofamilies",
+      "date": "2026-11-14",
+      "title": "Pensacola Symphony Orchestra: Music for Families",
+      "time": "See event page",
+      "t": "10:00",
+      "place": "500 N Palafox St (Saenger Theatre)",
+      "area": "downtown",
+      "section": "entertainment",
+      "note": "Family-oriented symphony concert; time and tickets not shown on the calendar.",
+      "src": "https://downtownpensacola.com/events"
+    },
+    {
+      "id": "foodtruck",
+      "date": "2026-11-14",
+      "title": "Pensacola Fall Food Truck Fest",
+      "time": "11 AM to 7 PM",
+      "t": "11:00",
+      "place": "Community Maritime Park, 301 W Main St",
+      "area": "downtown",
+      "section": "seasonal",
+      "note": "Food truck festival organized by APEX Shows and Events; admission price not listed.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-november-9-15-2026"
     },
     {
       "id": "pourplay",
@@ -239,8 +297,8 @@
       "place": "Hadji Temple, 800 W Nine Mile Rd",
       "area": "downtown",
       "section": "seasonal",
-      "note": "Charity barbecue cook-off with Big Green Egg teams, entertainment and auctions; tailgating theme. General admission price not listed.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-november-2026"
+      "note": "Charity barbecue cook-off with Big Green Egg teams and a tailgating theme. General admission $35, VIP $75 with early entry, kids under 10 free. A VIP dinner is held the evening before.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-november-9-15-2026"
     },
     {
       "id": "barktoberfest",
@@ -253,6 +311,19 @@
       "section": "seasonal",
       "note": "Humane Society dog event, rescheduled to Nov 15; free admission.",
       "src": "https://localpulse.com/2026/10/barktoberfest-rescheduled-to-november-15/"
+    },
+    {
+      "id": "vibe",
+      "date": "2026-11-16",
+      "title": "Florida Vibe softball team welcome ceremony",
+      "time": "5 PM (gates 4:30 PM)",
+      "t": "17:00",
+      "place": "Blue Wahoos Stadium",
+      "area": "downtown",
+      "section": "free",
+      "free": true,
+      "note": "Free event introducing the new pro softball team's coach, staff and signed players ahead of its 2027 debut.",
+      "src": "https://weartv.com/news/local/pensacola-gets-professional-womens-softball-team-will-play-at-blue-wahoos-stadium"
     },
     {
       "id": "whoselive",
@@ -279,6 +350,19 @@
       "src": "https://tixel.com/us/tickets/pensacola-saenger-theatre"
     },
     {
+      "id": "jonesshakes",
+      "date": "2026-11-20",
+      "title": "Jones' Shakes ribbon cutting",
+      "time": "11 to 11:30 AM",
+      "t": "11:00",
+      "place": "University Town Plaza",
+      "area": "elsewhere",
+      "section": "free",
+      "free": true,
+      "note": "Chamber ribbon cutting for the new milkshake shop.",
+      "src": "https://www.mustdopensacola.com/news/new-businesses-opening-pensacola-november-2026"
+    },
+    {
       "id": "gallerynight",
       "date": "2026-11-20",
       "title": "Gallery Night: Festival of Living Art",
@@ -298,8 +382,8 @@
       "place": "Downtown Pensacola",
       "area": "downtown",
       "section": "seasonal",
-      "note": "Holiday celebration on the Palafox area with falling snow, live performances, characters, Santa and trolley tours.",
-      "src": "https://pensacolabeach.com/november-events-in-pensacola/",
+      "note": "Holiday celebration around Palafox Place with a free Christmas Special at 5 PM on event nights; other experiences (Polar Express Tour, Grinch's Merry Match) are ticketed and more dates are planned in December.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-november-2026",
       "dates": [
         "2026-11-20",
         "2026-11-22",
@@ -335,6 +419,30 @@
       "src": "https://www.tickpick.com/buy-derek-hough-tickets-saenger-theatre-fl-11-20-26-8pm/8150924/"
     },
     {
+      "id": "pensinvite",
+      "date": "2026-11-21",
+      "title": "Pensacola Invitational 2026",
+      "time": "See event page",
+      "t": "12:00",
+      "place": "Pensacola Bay Center, 201 E Gregory St",
+      "area": "downtown",
+      "section": "entertainment",
+      "note": "Sport and schedule not shown on the calendar listing.",
+      "src": "https://downtownpensacola.com/events"
+    },
+    {
+      "id": "changingseasons",
+      "date": "2026-11-21",
+      "title": "Changing Seasons benefit concert",
+      "time": "See event page",
+      "t": "19:00",
+      "place": "500 N Palafox St (Saenger Theatre)",
+      "area": "downtown",
+      "section": "entertainment",
+      "note": "Benefit concert listed on the Downtown Pensacola calendar.",
+      "src": "https://downtownpensacola.com/events"
+    },
+    {
       "id": "turkeytrot",
       "date": "2026-11-26",
       "title": "Trot for Thought Thanksgiving Turkey Trot",
@@ -362,7 +470,7 @@
       "id": "elfparade",
       "date": "2026-11-27",
       "title": "Elf Parade & Christmas Jubilee",
-      "time": "Lineup 12:30 PM, parade 2 PM",
+      "time": "Lineup 12:30 PM, judging 1:25 PM, parade 2 PM",
       "t": "14:00",
       "place": "Government and Palafox, downtown",
       "area": "downtown",
@@ -407,6 +515,18 @@
       "free": true,
       "note": "Local shopping, food and music; free.",
       "src": "https://pensacolabeach.com/november-events-in-pensacola/"
+    },
+    {
+      "id": "northhill",
+      "date": "2026-11-29",
+      "title": "North Hill Tour of Homes",
+      "time": "12 to 5 PM",
+      "t": "12:00",
+      "place": "North Hill Historic District",
+      "area": "downtown",
+      "section": "seasonal",
+      "note": "Tour of six historic homes alongside the free Christmas Market at Alabama Square; home tours need tickets (price not listed).",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-november-2026"
     },
     {
       "id": "xmascarol",
@@ -470,92 +590,15 @@
       "src": "https://www.livenation.com/venue/KovZpZAFkJlA/pensacola-saenger-theatre-events"
     },
     {
-      "id": "vibe",
-      "date": "2026-11-16",
-      "title": "Florida Vibe softball team welcome ceremony",
-      "time": "5 PM (gates 4:30 PM)",
-      "t": "17:00",
-      "place": "Blue Wahoos Stadium",
-      "area": "downtown",
-      "section": "free",
-      "free": true,
-      "note": "Free event introducing the new pro softball team's coach, staff and signed players ahead of its 2027 debut.",
-      "src": "https://weartv.com/news/local/pensacola-gets-professional-womens-softball-team-will-play-at-blue-wahoos-stadium"
-    },
-    {
-      "id": "perdido-xmas",
-      "dates": [
-        "2026-11-13",
-        "2026-11-14"
-      ],
-      "title": "Perdido Key Christmas Market",
-      "time": "Fri 5 to 8 PM, Sat 9 AM to 1 PM",
-      "t": "17:00",
-      "place": "Villagio Perdido Town Centre, 13700 Perdido Key Dr",
-      "area": "beaches",
-      "section": "free",
-      "free": true,
-      "note": "Free holiday market with handmade goods from local makers and photos with Santa.",
-      "src": "https://www.visitpensacola.com/events/perdido-key-christmas-market1/"
-    },
-    {
-      "id": "ssus",
-      "date": "2026-11-11",
-      "title": "SS United States reef deployment (Destin-Fort Walton Beach)",
-      "time": "Sinking planned 11 AM; viewing party at AJ's in Destin at noon",
-      "t": "11:00",
-      "place": "Gulf off Destin; viewing party at AJ's Seafood and Oyster Bar, Destin",
-      "area": "elsewhere",
-      "section": "entertainment",
-      "note": "Officials moved the planned artificial-reef sinking up from Thu Nov 12 to Veterans Day because of a high-wind forecast. The ship is to go down about 22 nautical miles southwest of Destin; a live feed is planned at the viewing party and at thessus.com. Earlier-listed sendoff and Pensacola watch-party times were not re-confirmed, so check before going.",
-      "src": "https://weartv.com/news/local/okaloosa-county-moves-ss-united-states-sinking-up-to-wednesday-amid-heavy-wind-forecast"
-    },
-    {
-      "id": "foodtruck",
-      "date": "2026-11-14",
-      "title": "Pensacola Fall Food Truck Fest",
+      "id": "gingerbread",
+      "date": "2026-12-12",
+      "title": "Gingerbread House Competition",
       "time": "See event page",
       "t": "12:00",
-      "place": "301 W Main St, downtown",
+      "place": "220 W Garden St",
       "area": "downtown",
       "section": "seasonal",
-      "note": "Listed on the Downtown Pensacola calendar; hours and vendors not shown there.",
-      "src": "https://downtownpensacola.com/events"
-    },
-    {
-      "id": "psofamilies",
-      "date": "2026-11-14",
-      "title": "Pensacola Symphony Orchestra: Music for Families",
-      "time": "See event page",
-      "t": "10:00",
-      "place": "500 N Palafox St (Saenger Theatre)",
-      "area": "downtown",
-      "section": "entertainment",
-      "note": "Family-oriented symphony concert; time and tickets not shown on the calendar.",
-      "src": "https://downtownpensacola.com/events"
-    },
-    {
-      "id": "changingseasons",
-      "date": "2026-11-21",
-      "title": "Changing Seasons benefit concert",
-      "time": "See event page",
-      "t": "19:00",
-      "place": "500 N Palafox St (Saenger Theatre)",
-      "area": "downtown",
-      "section": "entertainment",
-      "note": "Benefit concert listed on the Downtown Pensacola calendar.",
-      "src": "https://downtownpensacola.com/events"
-    },
-    {
-      "id": "pensinvite",
-      "date": "2026-11-21",
-      "title": "Pensacola Invitational 2026",
-      "time": "See event page",
-      "t": "12:00",
-      "place": "Pensacola Bay Center, 201 E Gregory St",
-      "area": "downtown",
-      "section": "entertainment",
-      "note": "Sport and schedule not shown on the calendar listing.",
+      "note": "Listed on the Downtown Pensacola calendar.",
       "src": "https://downtownpensacola.com/events"
     },
     {
@@ -569,18 +612,6 @@
       "section": "seasonal",
       "note": "Annual downtown holiday parade.",
       "src": "https://www.visitpensacola.com/seasonal-fun-in-pensacola/fall/"
-    },
-    {
-      "id": "gingerbread",
-      "date": "2026-12-12",
-      "title": "Gingerbread House Competition",
-      "time": "See event page",
-      "t": "12:00",
-      "place": "220 W Garden St",
-      "area": "downtown",
-      "section": "seasonal",
-      "note": "Listed on the Downtown Pensacola calendar.",
-      "src": "https://downtownpensacola.com/events"
     },
     {
       "id": "nutcracker",
@@ -663,11 +694,11 @@
     {
       "name": "Launch Family Entertainment",
       "status": "open",
-      "when": "Open since October; ribbon cutting Tue Nov 10 at 1:30 PM per Must Do, while a company release lists a Nov 14 grand opening",
+      "when": "Open since October; ribbon cutting was Nov 10 and a public grand opening with giveaways is Sat Nov 14 at 9 AM",
       "place": "8102 N Davis Hwy",
       "kind": "Family fun center with a restaurant and bar",
       "note": "Trampolines, duckpin bowling, a ninja course, arcade and the KRAVE restaurant and bar.",
-      "src": "https://www.mustdopensacola.com/news/new-businesses-opening-pensacola-november-2026"
+      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-november-9-15-2026"
     },
     {
       "name": "Dill Dinkers Indoor Pickleball",
@@ -681,7 +712,7 @@
     {
       "name": "Emerald Fortress",
       "status": "soon",
-      "when": "Grand opening was scheduled for Wed Nov 4, 4:30 to 5 PM; I could not confirm it happened",
+      "when": "Grand opening was scheduled for Nov 4; not re-confirmed",
       "place": "319 E Nine Mile Rd",
       "kind": "Game and hobby store",
       "note": "Veteran-owned shop for trading cards, Warhammer and collectibles, with tournaments.",
@@ -744,52 +775,46 @@
   ],
   "news": [
     {
-      "title": "SS United States sinking moved up to Wednesday, Nov. 11",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/local/okaloosa-county-moves-ss-united-states-sinking-up-to-wednesday-amid-heavy-wind-forecast",
-      "summary": "Okaloosa County moved the reef deployment from Thursday to Veterans Day at 11 AM because of a heavy-wind forecast; a viewing party with a live feed is planned in Destin at noon."
+      "title": "SS United States sunk off Okaloosa County to become world's largest artificial reef",
+      "source": "FOX10",
+      "url": "https://www.fox10tv.com/2026/11/11/ss-united-states-set-be-sunk-today-become-artificial-reef/",
+      "summary": "The former ocean liner was set for a 1 PM Veterans Day sinking in the Gulf off Okaloosa County; officials hope the reef draws divers and tourists. Follow-up outlets report it went down."
     },
     {
-      "title": "A month after Isaias, FEMA aid is reaching Northwest Florida",
+      "title": "Pensacola begins budget cuts across all 18 departments",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/one-month-after-hurricane-isaias-fema-aid-reaches-storm-victims-in-northwest-florida",
-      "summary": "FEMA has approved over $34 million, about $20 million of it in Escambia. The Individual Assistance deadline is Dec. 26, with resource centers in Brownsville and Ferry Pass open 7 AM to 7 PM daily."
+      "url": "https://weartv.com/news/local/pensacola-begins-budget-cuts-across-all-18-city-departments-as-leaders-plan-next-steps",
+      "summary": "After Amendment 3 passed, the mayor projects $4.2 million less property tax revenue next year, growing to a $7.2 million shortfall by October 2028."
     },
     {
-      "title": "Pensacola weighs $1,000 fee to remove large live oaks",
+      "title": "Baptist Hospital plans 40 new acute-care beds",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/city-of-pensacola-proposes-1000-live-oak-removal-fee-and-inch-for-inch-replanting-rule",
-      "summary": "The proposed tree rules add a fee for removing oaks 40 inches or wider and an inch-for-inch replanting standard; council is expected to take a first reading and hold a public hearing Thursday at 5:30 PM."
+      "url": "https://weartv.com/news/local/pensacola-baptist-hospital-to-add-40-acute-care-beds-aims-to-hire-80-or-more-nurses",
+      "summary": "The beds go in the Henderson building at the main campus; the hospital may hire 80 or more nurses, with open interviews in November and December."
     },
     {
-      "title": "State grants Pensacola $1.2M for bollards in New Palafox project",
+      "title": "Panhandle Ice Pier taking shape in Pace",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/florida-grants-pensacola-12m-for-crash-rated-bollards-in-new-palafox-project",
-      "summary": "The money covers crash-rated bollards on Palafox between Garden and Main, about half the original $2.4 million estimate, so the scope will shrink."
+      "url": "https://weartv.com/news/local/panhandle-ice-pier-taking-shape-in-pace-with-year-round-hockey-rink-skating-and-rentals",
+      "summary": "A privately funded year-round rink with skate rentals is under construction and expected to open by summer 2027."
     },
     {
-      "title": "Milton cold-weather shelter closes; nonprofits plan rides to Pensacola",
+      "title": "FPL flags some Pensacola neighborhoods for underground power lines",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/cold-weather-shelter-in-milton-closes-nonprofits-plan-free-transport-to-pensacola",
-      "summary": "Opening Doors and Waterfront Rescue Mission plan free transport and overnight shelter when temperatures fall below 40, with lows near that mark possible this weekend."
+      "url": "https://weartv.com/news/local/some-pensacola-neighborhoods-flagged-as-eligible-for-fpl-underground-power-line-conversion",
+      "summary": "Residents are getting flyers about the Storm Secure Underground Program; outreach is early and design plus construction takes about two years."
     },
     {
-      "title": "Escambia eases contractor rules after Isaias, warns of scams",
+      "title": "UWF police make arrest in online bomb threat case",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/escambia-county-temporarily-eases-contractor-rules-but-warns-of-unlicensed-contractors",
-      "summary": "Out-of-state contractors can work in the county and re-roofing rules are loosened through December; officials flag big up-front payments as a red flag."
+      "url": "https://weartv.com/news/local/individual-arrested-after-uwf-police-completes-investigation-into-alleged-bomb-threat",
+      "summary": "Campus police arrested an individual after finishing their investigation into a recent online threat."
     },
     {
-      "title": "SEC women's soccer returns to Pensacola for a fifth year",
+      "title": "Blue Angels Elementary honors veterans with hallway salute",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/sec-womens-soccer-tournament-opens-in-pensacola-at-ashton-brosnaham-athletic-park",
-      "summary": "Twelve teams opened play at Ashton Brosnaham with higher attendance; semifinals are Thursday and the championship is Nov. 15."
-    },
-    {
-      "title": "Florida Vibe pro softball team coming to Blue Wahoos Stadium",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/local/pensacola-gets-professional-womens-softball-team-will-play-at-blue-wahoos-stadium",
-      "summary": "The Professional Softball League club starts play in 2027; a free welcome event is set for Nov 16."
+      "url": "https://weartv.com/news/local/blue-angels-elementary-honors-veterans-with-hallway-salute-in-pensacola",
+      "summary": "The Pensacola school held a salute the day before Veterans Day."
     }
   ],
   "sources": [
@@ -886,5 +911,5 @@
       "url": "https://forecast.weather.gov/MapClick.php?lat=30.44&lon=-87.19"
     }
   ],
-  "coverage_note": "Updated Tuesday, Nov 10. Forecast highs, lows and rain chances come from WEAR's 7-day page (it lists weekdays only and may lag a day; Nov 16 is carried over from the previous run, rain unconfirmed). Fresh details come from WEAR, the PensacolaBeach.com November calendar and Must Do's Nov 1 openings article. Events that ended by Nov 9 were dropped, and the SS United States entry moved to Nov 11. Must Do's news index, the Saenger site and Visit Pensacola's date listings would not load, and NorthEscambia.com's home page showed no public events for Gonzalez, Molino, Beulah or Cantonment, so north Escambia coverage is thin. Restaurant statuses are carried over and not re-confirmed this run. Items marked 'See event page' had no times on the sources I read."
+  "coverage_note": "Updated Thursday, Nov 12. Forecast from WeatherBug's 9-day page; it lists rain chance only for Mon Nov 16 (20%), so other days show 0 as unstated. Events come from Must Do's Nov 9-15 guide and November guide plus carried-over listings; the SS United States entry was dropped after its Nov 11 sinking. News comes from WEAR and FOX10. NorthEscambia.com pages mostly would not load and its home page showed no Gonzalez, Molino, Beulah or Cantonment events, so north Escambia coverage is thin. Restaurant statuses were mostly carried over; only Launch was updated. Items marked 'See event page' had no times on the sources I read."
 }
