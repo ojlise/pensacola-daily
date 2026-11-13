@@ -1,13 +1,7 @@
 {
-  "generated": "2026-11-12T02:55:12-06:00",
-  "weekend_note": "A cold snap arrives: Friday high 64, Saturday only 58, Sunday 62, with lows from 42 to 50 and dry skies all weekend (a 20% rain chance shows up Monday). Picks: Festa Italiana (Fri-Sat), the Fall Food Truck Fest and Launch's grand opening (Sat), then EggFest and SEC soccer championship day (Sun), all outdoors except Launch, so bundle up. White Tie Rock at the ballpark Friday night and the Ice Flyers at the Bay Center are fallback evening options.",
+  "generated": "2026-11-13T03:00:06-06:00",
+  "weekend_note": "Chilly but no rain is listed for the weekend: Friday high 64, Saturday only 58, Sunday 61, with lows from 42 to 48. Rain returns Monday (40%). Picks: Festa Italiana (Fri-Sat), Bands on the Bayou, the Fall Food Truck Fest and Launch's grand opening (Sat), then EggFest (Sun), all outdoors except Launch, so bundle up. White Tie Rock at the ballpark Friday night is a good evening option, and the Ice Flyers play at the Bay Center Friday and Saturday. Monday's free Florida Vibe softball welcome falls on the wetter day.",
   "weather": [
-    {
-      "date": "2026-11-12",
-      "hi": 76,
-      "lo": 49,
-      "rain": 0
-    },
     {
       "date": "2026-11-13",
       "hi": 64,
@@ -17,46 +11,52 @@
     {
       "date": "2026-11-14",
       "hi": 58,
-      "lo": 46,
+      "lo": 44,
       "rain": 0
     },
     {
       "date": "2026-11-15",
-      "hi": 62,
-      "lo": 50,
+      "hi": 61,
+      "lo": 48,
       "rain": 0
     },
     {
       "date": "2026-11-16",
-      "hi": 62,
-      "lo": 50,
-      "rain": 20
+      "hi": 61,
+      "lo": 53,
+      "rain": 40
     },
     {
       "date": "2026-11-17",
-      "hi": 59,
-      "lo": 51,
+      "hi": 64,
+      "lo": 56,
       "rain": 0
     },
     {
       "date": "2026-11-18",
-      "hi": 66,
-      "lo": 51,
+      "hi": 68,
+      "lo": 57,
       "rain": 0
     },
     {
       "date": "2026-11-19",
+      "hi": 68,
+      "lo": 60,
+      "rain": 0
+    },
+    {
+      "date": "2026-11-20",
       "hi": 67,
-      "lo": 54,
+      "lo": 63,
       "rain": 0
     }
   ],
   "picks": [
     "festa",
+    "bandsbayou",
     "foodtruck",
-    "eggfest",
     "launchgo",
-    "sectsoccer",
+    "eggfest",
     "whitetie-stadium"
   ],
   "weekly": [
@@ -131,17 +131,16 @@
     {
       "id": "holidaymkt",
       "dates": [
-        "2026-11-11",
         "2026-11-18",
         "2026-11-25"
       ],
       "title": "Palafox Market Holiday Edition",
       "time": "4 to 8 PM Wednesdays",
       "t": "16:00",
-      "place": "Plaza Ferdinand on Nov 4; MLK Jr. Plaza after that",
+      "place": "MLK Jr. Plaza",
       "area": "downtown",
       "section": "seasonal",
-      "note": "Wednesday evening holiday market through Nov 25. Nov 4 is at Plaza Ferdinand; Nov 11, 18 and 25 move to MLK Jr. Plaza. Admission not listed.",
+      "note": "Wednesday evening holiday market through Nov 25, held at MLK Jr. Plaza. Admission not listed.",
       "src": "https://pensacolabeach.com/november-events-in-pensacola/"
     },
     {
@@ -190,13 +189,13 @@
       "id": "eggvip",
       "date": "2026-11-13",
       "title": "EggFest VIP Dinner",
-      "time": "Evening, time not listed",
+      "time": "5:30 to 9 PM",
       "t": "18:30",
-      "place": "See event page",
+      "place": "Hadji Temple, 800 W Nine Mile Rd",
       "area": "downtown",
       "section": "seasonal",
-      "note": "Kickoff dinner for Sunday's EggFest; price and venue not listed.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-november-9-15-2026"
+      "note": "Kickoff dinner and celebrity auction for Sunday's EggFest; price not listed.",
+      "src": "https://localpulse.com/2026/11/local-pulse-weekend-top-10-64/"
     },
     {
       "id": "whitetie-stadium",
@@ -237,20 +236,20 @@
       "place": "8102 N Davis Hwy, Ferry Pass Plaza",
       "area": "elsewhere",
       "section": "entertainment",
-      "note": "Giveaways of jump passes for early guests; requires a grand-opening ticket purchase and waiver, first come, first served.",
+      "note": "Public grand opening at the new fun center; the first 150 guests get free jumping for a year per Local Pulse. Opening time is from Must Do's guide.",
       "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-november-9-15-2026"
     },
     {
       "id": "psofamilies",
       "date": "2026-11-14",
       "title": "Pensacola Symphony Orchestra: Music for Families",
-      "time": "See event page",
-      "t": "10:00",
-      "place": "500 N Palafox St (Saenger Theatre)",
+      "time": "Doors 2 PM, concert 3 PM",
+      "t": "15:00",
+      "place": "First Baptist Church, 500 N Palafox St",
       "area": "downtown",
       "section": "entertainment",
-      "note": "Family-oriented symphony concert; time and tickets not shown on the calendar.",
-      "src": "https://downtownpensacola.com/events"
+      "note": "Family-oriented symphony concert with activities afterward. Tickets $10 general; ages 3 and under free.",
+      "src": "https://localpulse.com/2026/11/local-pulse-weekend-top-10-64/"
     },
     {
       "id": "foodtruck",
@@ -297,8 +296,8 @@
       "place": "Hadji Temple, 800 W Nine Mile Rd",
       "area": "downtown",
       "section": "seasonal",
-      "note": "Charity barbecue cook-off with Big Green Egg teams and a tailgating theme. General admission $35, VIP $75 with early entry, kids under 10 free. A VIP dinner is held the evening before.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-november-9-15-2026"
+      "note": "General admission $35 (kids under 10 free); VIP $75 with entry at 11 AM.",
+      "src": "https://localpulse.com/2026/11/local-pulse-weekend-top-10-64/"
     },
     {
       "id": "barktoberfest",
@@ -625,6 +624,31 @@
       "section": "entertainment",
       "note": "Three-day run listed on the Downtown Pensacola calendar.",
       "src": "https://downtownpensacola.com/events"
+    },
+    {
+      "id": "bandsbayou",
+      "date": "2026-11-14",
+      "title": "Bands on the Bayou: Cowboy Park",
+      "time": "Food vendors 4 PM, music 5 to 7 PM",
+      "t": "16:00",
+      "place": "Bayview Park, 2001 E Lloyd St",
+      "area": "downtown",
+      "section": "free",
+      "free": true,
+      "note": "Free live music at the bayside park with food vendors.",
+      "src": "https://localpulse.com/2026/11/local-pulse-weekend-top-10-64/"
+    },
+    {
+      "id": "awkojog",
+      "date": "2026-11-14",
+      "title": "AWKO Justice Jog 5K and Kids Fun Run",
+      "time": "5K 7 to 8 AM, kids run 8 AM",
+      "t": "07:00",
+      "place": "Starts at 17 E Main St, downtown",
+      "area": "downtown",
+      "section": "seasonal",
+      "note": "5K entry $35, kids run $25, per Local Pulse.",
+      "src": "https://localpulse.com/2026/11/local-pulse-weekend-top-10-64/"
     }
   ],
   "restaurants": [
@@ -694,11 +718,11 @@
     {
       "name": "Launch Family Entertainment",
       "status": "open",
-      "when": "Open since October; ribbon cutting was Nov 10 and a public grand opening with giveaways is Sat Nov 14 at 9 AM",
+      "when": "Open since October; ribbon cutting was Nov 10 and a public grand opening is Sat Nov 14 (first 150 guests get free jumping for a year)",
       "place": "8102 N Davis Hwy",
       "kind": "Family fun center with a restaurant and bar",
       "note": "Trampolines, duckpin bowling, a ninja course, arcade and the KRAVE restaurant and bar.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-november-9-15-2026"
+      "src": "https://localpulse.com/2026/11/local-pulse-weekend-top-10-64/"
     },
     {
       "name": "Dill Dinkers Indoor Pickleball",
@@ -775,46 +799,52 @@
   ],
   "news": [
     {
-      "title": "SS United States sunk off Okaloosa County to become world's largest artificial reef",
-      "source": "FOX10",
-      "url": "https://www.fox10tv.com/2026/11/11/ss-united-states-set-be-sunk-today-become-artificial-reef/",
-      "summary": "The former ocean liner was set for a 1 PM Veterans Day sinking in the Gulf off Okaloosa County; officials hope the reef draws divers and tourists. Follow-up outlets report it went down."
+      "title": "Divers plan to reach SS United States reef as soon as Friday",
+      "source": "WEAR",
+      "url": "https://weartv.com/news/local/divers-plan-to-access-ss-united-states-reef-as-soon-as-friday-after-24-hour-safety-wait",
+      "summary": "After the ship's sinking, a day-long safety wait must pass before divers can first reach the new artificial reef."
+    },
+    {
+      "title": "Pensacola marks Veterans Day with parade, ceremony and WWII flyover",
+      "source": "WEAR",
+      "url": "https://weartv.com/news/local/pensacola-marks-veterans-day-at-11th-hour-with-parade-ceremony-and-wwii-flyover",
+      "summary": "Veterans from all branches were honored, with a World War II aircraft flyover."
+    },
+    {
+      "title": "Florida Vibe softball team to play at Blue Wahoos Stadium starting in 2027",
+      "source": "WEAR",
+      "url": "https://weartv.com/news/local/florida-vibe-to-call-pensacolas-blue-wahoos-stadium-home-starting-in-2027",
+      "summary": "The stadium field will be reconfigured to host both softball and baseball. A free welcome event is Monday, Nov 16."
+    },
+    {
+      "title": "Pensacola woman leaves Baptist Hospital after 184 days on ECMO",
+      "source": "WEAR",
+      "url": "https://weartv.com/news/local/her-courage-pensacola-woman-leaves-baptist-hospital-after-184-days-on-ecmo",
+      "summary": "A patient was discharged after more than six months on life support."
+    },
+    {
+      "title": "Manna Food Pantries sees sustained surge in need after Isaias",
+      "source": "WEAR",
+      "url": "https://weartv.com/news/local/manna-food-pantries-sees-sustained-surge-in-need-for-nwfl-families-after-isaias",
+      "summary": "The food bank network reports continued high demand from Northwest Florida families."
+    },
+    {
+      "title": "Man arrested at Gulf Breeze High football game, police say",
+      "source": "WEAR",
+      "url": "https://weartv.com/news/local/police-gulf-breeze-man-arrested-at-high-school-game-with-knives-and-loaded-handgun",
+      "summary": "Police say the man was accused of impersonating law enforcement and was carrying knives and a concealed handgun."
     },
     {
       "title": "Pensacola begins budget cuts across all 18 departments",
       "source": "WEAR",
       "url": "https://weartv.com/news/local/pensacola-begins-budget-cuts-across-all-18-city-departments-as-leaders-plan-next-steps",
-      "summary": "After Amendment 3 passed, the mayor projects $4.2 million less property tax revenue next year, growing to a $7.2 million shortfall by October 2028."
-    },
-    {
-      "title": "Baptist Hospital plans 40 new acute-care beds",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/local/pensacola-baptist-hospital-to-add-40-acute-care-beds-aims-to-hire-80-or-more-nurses",
-      "summary": "The beds go in the Henderson building at the main campus; the hospital may hire 80 or more nurses, with open interviews in November and December."
+      "summary": "After Amendment 3 passed, the city is cutting across departments as leaders plan next steps."
     },
     {
       "title": "Panhandle Ice Pier taking shape in Pace",
       "source": "WEAR",
       "url": "https://weartv.com/news/local/panhandle-ice-pier-taking-shape-in-pace-with-year-round-hockey-rink-skating-and-rentals",
       "summary": "A privately funded year-round rink with skate rentals is under construction and expected to open by summer 2027."
-    },
-    {
-      "title": "FPL flags some Pensacola neighborhoods for underground power lines",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/local/some-pensacola-neighborhoods-flagged-as-eligible-for-fpl-underground-power-line-conversion",
-      "summary": "Residents are getting flyers about the Storm Secure Underground Program; outreach is early and design plus construction takes about two years."
-    },
-    {
-      "title": "UWF police make arrest in online bomb threat case",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/local/individual-arrested-after-uwf-police-completes-investigation-into-alleged-bomb-threat",
-      "summary": "Campus police arrested an individual after finishing their investigation into a recent online threat."
-    },
-    {
-      "title": "Blue Angels Elementary honors veterans with hallway salute",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/local/blue-angels-elementary-honors-veterans-with-hallway-salute-in-pensacola",
-      "summary": "The Pensacola school held a salute the day before Veterans Day."
     }
   ],
   "sources": [
@@ -911,5 +941,5 @@
       "url": "https://forecast.weather.gov/MapClick.php?lat=30.44&lon=-87.19"
     }
   ],
-  "coverage_note": "Updated Thursday, Nov 12. Forecast from WeatherBug's 9-day page; it lists rain chance only for Mon Nov 16 (20%), so other days show 0 as unstated. Events come from Must Do's Nov 9-15 guide and November guide plus carried-over listings; the SS United States entry was dropped after its Nov 11 sinking. News comes from WEAR and FOX10. NorthEscambia.com pages mostly would not load and its home page showed no Gonzalez, Molino, Beulah or Cantonment events, so north Escambia coverage is thin. Restaurant statuses were mostly carried over; only Launch was updated. Items marked 'See event page' had no times on the sources I read."
+  "coverage_note": "Updated Friday, Nov 13. Forecast from WeatherBug's 10-day page, which lists rain chance only for Mon Nov 16 (40%), so other days show 0 as unstated. Weekend events were checked against Local Pulse's Nov 12 Top 10 and Visit Pensacola's Nov 13 listings; later events are mostly carried over from earlier checks, and many still say 'See event page'. News comes from WEAR only. The WKRG and City of Pensacola pages showed no usable dates, and NorthEscambia.com's pages looked stale (older articles), so north Escambia, Gonzalez, Molino, Beulah and Cantonment coverage is thin. Restaurant statuses were mostly carried over; only Launch was updated."
 }
