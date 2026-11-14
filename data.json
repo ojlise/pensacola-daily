@@ -1,63 +1,63 @@
 {
-  "generated": "2026-11-13T03:00:06-06:00",
-  "weekend_note": "Chilly but no rain is listed for the weekend: Friday high 64, Saturday only 58, Sunday 61, with lows from 42 to 48. Rain returns Monday (40%). Picks: Festa Italiana (Fri-Sat), Bands on the Bayou, the Fall Food Truck Fest and Launch's grand opening (Sat), then EggFest (Sun), all outdoors except Launch, so bundle up. White Tie Rock at the ballpark Friday night is a good evening option, and the Ice Flyers play at the Bay Center Friday and Saturday. Monday's free Florida Vibe softball welcome falls on the wetter day.",
+  "generated": "2026-11-14T02:55:01-06:00",
+  "weekend_note": "Cold and dry this weekend: frost is possible early Saturday, with a high only near 59, then a mild rebound to the mid 60s Sunday. Rain chances return around Monday and Tuesday (about 20%). Picks are mostly outdoors, so bundle up: Festa Italiana (last day), the Fall Food Truck Fest, Bands on the Bayou and EggFest. For indoors, try the Ice Flyers' Blue Angels Night at the Bay Center Saturday or the Symphony's Music for Families. Sunday's SEC women's soccer final is outdoors too. Isaias recovery still affects some places, so double-check before heading out.",
   "weather": [
     {
-      "date": "2026-11-13",
-      "hi": 64,
-      "lo": 42,
-      "rain": 0
-    },
-    {
       "date": "2026-11-14",
-      "hi": 58,
-      "lo": 44,
+      "hi": 59,
+      "lo": 39,
       "rain": 0
     },
     {
       "date": "2026-11-15",
-      "hi": 61,
-      "lo": 48,
+      "hi": 64,
+      "lo": 51,
       "rain": 0
     },
     {
       "date": "2026-11-16",
-      "hi": 61,
+      "hi": 60,
       "lo": 53,
-      "rain": 40
+      "rain": 20
     },
     {
       "date": "2026-11-17",
-      "hi": 64,
-      "lo": 56,
-      "rain": 0
+      "hi": 70,
+      "lo": 54,
+      "rain": 20
     },
     {
       "date": "2026-11-18",
-      "hi": 68,
-      "lo": 57,
-      "rain": 0
-    },
-    {
-      "date": "2026-11-19",
-      "hi": 68,
+      "hi": 72,
       "lo": 60,
       "rain": 0
     },
     {
+      "date": "2026-11-19",
+      "hi": 73,
+      "lo": 61,
+      "rain": 0
+    },
+    {
       "date": "2026-11-20",
-      "hi": 67,
-      "lo": 63,
+      "hi": 73,
+      "lo": 61,
+      "rain": 0
+    },
+    {
+      "date": "2026-11-21",
+      "hi": 71,
+      "lo": 56,
       "rain": 0
     }
   ],
   "picks": [
     "festa",
-    "bandsbayou",
     "foodtruck",
-    "launchgo",
+    "bandsbayou",
+    "flyers",
     "eggfest",
-    "whitetie-stadium"
+    "sectsoccer"
   ],
   "weekly": [
     {
@@ -112,21 +112,21 @@
       "place": "Perdido Key, Flora-Bama and Gulf Coast venues",
       "area": "elsewhere",
       "section": "entertainment",
-      "note": "Final weekend of the 42nd annual festival with 200+ songwriters across Perdido Key, Orange Beach and Gulf Coast venues. Many shows are free; see the official schedule for times.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-november-9-15-2026"
+      "note": "Final weekend of the 42nd festival; hundreds of songwriters across Perdido Key, Orange Beach and other Gulf Coast stages. Many shows are free, headliners cost more.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-this-weekend-pensacola-november-13-15-2026"
     },
     {
       "id": "sectsoccer",
-      "date": "2026-11-08",
+      "date": "2026-11-14",
       "end": "2026-11-15",
-      "title": "SEC Soccer Tournament",
-      "time": "Match times not listed",
+      "title": "SEC Women's Soccer Tournament: semifinals and championship",
+      "time": "Semifinals Sat; Fan Fest 11:30 AM and final 1:30 PM Sun",
       "t": "09:00",
       "place": "Ashton Brosnaham Soccer Complex",
       "area": "elsewhere",
       "section": "entertainment",
-      "note": "SEC women's soccer tournament at Ashton Brosnaham, ending with championship day Sun Nov 15. Free Fan Fest from 11:30 AM until halftime of the final; match times and ticket prices are on the official site.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-november-9-15-2026"
+      "note": "Sunday's title match has a free Fan Fest with food trucks and activities; match tickets are required (kids 5 and under free). Clear bag policy.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-this-weekend-pensacola-november-13-15-2026"
     },
     {
       "id": "holidaymkt",
@@ -148,71 +148,31 @@
       "date": "2026-11-13",
       "end": "2026-11-14",
       "title": "Festa Italiana (moved from Oct 9-10)",
-      "time": "11 AM to 6 PM",
+      "time": "11 AM to 6 PM (last day)",
       "t": "12:00",
-      "place": "Fountain Park, near Seville Square, downtown",
+      "place": "Fountain Park near Seville Square, downtown",
       "area": "downtown",
       "section": "seasonal",
-      "note": "Postponed from Oct 9-10 after Isaias. Free admission; Italian food, music, cultural demonstrations and a kids' area. Must Do lists Fountain Park as the venue.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-november-9-15-2026",
+      "note": "Italian food, music, cultural demos, prize drawings and a kids tent. Free entry, food and drinks extra; proceeds go to local charities and scholarships.",
+      "src": "https://localpulse.com/2026/11/local-pulse-weekend-top-10-64/",
       "free": true
     },
     {
       "id": "perdido-xmas",
-      "dates": [
-        "2026-11-13",
-        "2026-11-14"
-      ],
       "title": "Perdido Key Christmas Market",
-      "time": "Fri 5 to 8 PM, Sat 9 AM to 1 PM",
+      "time": "9 AM to 1 PM",
       "t": "17:00",
-      "place": "Villagio Perdido Town Centre, 13700 Perdido Key Dr",
+      "place": "Villagio Town Centre, 13700 Perdido Key Dr.",
       "area": "beaches",
       "section": "free",
       "free": true,
-      "note": "Free holiday market with handmade goods from local makers and photos with Santa.",
-      "src": "https://www.visitpensacola.com/events/perdido-key-christmas-market1/"
-    },
-    {
-      "id": "harvestfest",
-      "date": "2026-11-13",
-      "title": "Harvest Festival",
-      "time": "6 to 8 PM",
-      "t": "18:00",
-      "place": "3730 Stefani Rd",
-      "area": "elsewhere",
-      "section": "seasonal",
-      "note": "See event page for host and details.",
-      "src": "https://allevents.in/cantonment"
-    },
-    {
-      "id": "eggvip",
-      "date": "2026-11-13",
-      "title": "EggFest VIP Dinner",
-      "time": "5:30 to 9 PM",
-      "t": "18:30",
-      "place": "Hadji Temple, 800 W Nine Mile Rd",
-      "area": "downtown",
-      "section": "seasonal",
-      "note": "Kickoff dinner and celebrity auction for Sunday's EggFest; price not listed.",
-      "src": "https://localpulse.com/2026/11/local-pulse-weekend-top-10-64/"
-    },
-    {
-      "id": "whitetie-stadium",
-      "date": "2026-11-13",
-      "title": "White Tie Rock Ensemble: Hits and Home Runs",
-      "time": "7 PM",
-      "t": "19:00",
-      "place": "Blue Wahoos Stadium",
-      "area": "downtown",
-      "section": "entertainment",
-      "note": "Classic rock night at the ballpark with field tables, club seats and standing room. Tickets through the Blue Wahoos.",
-      "src": "https://www.mlb.com/milb/pensacola/news/white-tie-rock-2026"
+      "note": "Chamber-hosted market with local artisans, handmade gifts and photos with Santa. Free.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-this-weekend-pensacola-november-13-15-2026",
+      "date": "2026-11-14"
     },
     {
       "id": "flyers",
       "dates": [
-        "2026-11-13",
         "2026-11-14",
         "2026-11-25",
         "2026-11-28",
@@ -244,11 +204,11 @@
       "date": "2026-11-14",
       "title": "Pensacola Symphony Orchestra: Music for Families",
       "time": "Doors 2 PM, concert 3 PM",
-      "t": "15:00",
-      "place": "First Baptist Church, 500 N Palafox St",
+      "t": "10:00",
+      "place": "First Baptist Church, 500 N. Palafox St.",
       "area": "downtown",
       "section": "entertainment",
-      "note": "Family-oriented symphony concert with activities afterward. Tickets $10 general; ages 3 and under free.",
+      "note": "Symphony performs a kid-friendly piece, followed by a petting zoo and hands-on activities. $10; ages 3 and under free.",
       "src": "https://localpulse.com/2026/11/local-pulse-weekend-top-10-64/"
     },
     {
@@ -256,12 +216,12 @@
       "date": "2026-11-14",
       "title": "Pensacola Fall Food Truck Fest",
       "time": "11 AM to 7 PM",
-      "t": "11:00",
-      "place": "Community Maritime Park, 301 W Main St",
+      "t": "12:00",
+      "place": "Community Maritime Park, 301 W. Main St.",
       "area": "downtown",
       "section": "seasonal",
-      "note": "Food truck festival organized by APEX Shows and Events; admission price not listed.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-in-pensacola-november-9-15-2026"
+      "note": "Food trucks, music and entertainment on the downtown waterfront, run by APEX Shows and Events. Cost not listed.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-this-weekend-pensacola-november-13-15-2026"
     },
     {
       "id": "pourplay",
@@ -293,10 +253,10 @@
       "title": "Pensacola EggFest",
       "time": "Noon to 3 PM (VIP entry 11 AM)",
       "t": "11:00",
-      "place": "Hadji Temple, 800 W Nine Mile Rd",
+      "place": "Hadji Temple, 800 W. Nine Mile Rd.",
       "area": "downtown",
       "section": "seasonal",
-      "note": "General admission $35 (kids under 10 free); VIP $75 with entry at 11 AM.",
+      "note": "Barbecue cooked on Big Green Eggs with live entertainment and charity auctions. General admission $35, VIP $75, kids under 10 free.",
       "src": "https://localpulse.com/2026/11/local-pulse-weekend-top-10-64/"
     },
     {
@@ -649,6 +609,18 @@
       "section": "seasonal",
       "note": "5K entry $35, kids run $25, per Local Pulse.",
       "src": "https://localpulse.com/2026/11/local-pulse-weekend-top-10-64/"
+    },
+    {
+      "id": "pier",
+      "date": "2026-11-14",
+      "title": "Pensacola Beach Gulf Pier open again",
+      "time": "Daily; reopened Nov 13",
+      "t": "06:00",
+      "place": "41 Fort Pickens Rd, Pensacola Beach",
+      "area": "beaches",
+      "section": "seasonal",
+      "note": "Closed for weeks after Isaias. Spectators $2.25, adult fishing $7.50; under 6 free.",
+      "src": "https://mustdopensacola.com/news/pensacola-beach-gulf-pier-reopens"
     }
   ],
   "restaurants": [
@@ -736,7 +708,7 @@
     {
       "name": "Emerald Fortress",
       "status": "soon",
-      "when": "Grand opening was scheduled for Nov 4; not re-confirmed",
+      "when": "Grand opening was set for Nov 4; still not confirmed",
       "place": "319 E Nine Mile Rd",
       "kind": "Game and hobby store",
       "note": "Veteran-owned shop for trading cards, Warhammer and collectibles, with tournaments.",
@@ -754,7 +726,7 @@
     {
       "name": "ZEN Pilates",
       "status": "soon",
-      "when": "Grand opening Fri Nov 13, 11 to 11:30 AM",
+      "when": "Grand opening was set for Fri Nov 13, 11 to 11:30 AM; not confirmed it happened",
       "place": "6305 N Ninth Ave, Suite 1",
       "kind": "Pilates studio",
       "note": "Boutique studio with small-group and private classes.",
@@ -799,52 +771,52 @@
   ],
   "news": [
     {
-      "title": "Divers plan to reach SS United States reef as soon as Friday",
+      "title": "Coldest air of the season arrives Friday night, frost possible Saturday",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/divers-plan-to-access-ss-united-states-reef-as-soon-as-friday-after-24-hour-safety-wait",
-      "summary": "After the ship's sinking, a day-long safety wait must pass before divers can first reach the new artificial reef."
+      "url": "https://weartv.com/news/local/coldest-air-of-the-season-arrives-friday-night-frost-possible-saturday-morning",
+      "summary": "Lows should reach the 30s across the region early Saturday, with highs only in the upper 50s. Temperatures warm gradually from Sunday."
     },
     {
-      "title": "Pensacola marks Veterans Day with parade, ceremony and WWII flyover",
+      "title": "Waterfront Rescue Mission opens cold weather shelter Friday and Saturday",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/pensacola-marks-veterans-day-at-11th-hour-with-parade-ceremony-and-wwii-flyover",
-      "summary": "Veterans from all branches were honored, with a World War II aircraft flyover."
+      "url": "https://weartv.com/news/local/waterfront-rescue-mission-opening-cold-weather-shelter-on-friday-saturday",
+      "summary": "The shelter at 348 W. Herman Ave. serves men and women without children and will work with partners for women with kids. Hours were not listed."
     },
     {
-      "title": "Florida Vibe softball team to play at Blue Wahoos Stadium starting in 2027",
+      "title": "SS United States sank upright off Destin after a valve delay",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/florida-vibe-to-call-pensacolas-blue-wahoos-stadium-home-starting-in-2027",
-      "summary": "The stadium field will be reconfigured to host both softball and baseball. A free welcome event is Monday, Nov 16."
+      "url": "https://weartv.com/news/local/okaloosa-county-officials-say-ss-united-states-sank-after-valve-delay-landed-upright",
+      "summary": "The ship went down Nov 11 and rests upright around 180 feet deep about 22 miles offshore. Divers hoped to reach it as soon as Friday."
     },
     {
-      "title": "Pensacola woman leaves Baptist Hospital after 184 days on ECMO",
+      "title": "Pensacola leaders weigh phased repairs for former Gibson School",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/her-courage-pensacola-woman-leaves-baptist-hospital-after-184-days-on-ecmo",
-      "summary": "A patient was discharged after more than six months on life support."
+      "url": "https://weartv.com/news/local/pensacola-leaders-debate-next-steps-for-former-gibson-school-amid-62m-repair-estimate",
+      "summary": "Repairs top $6.2M. A first phase of about $2.8M would weatherproof the building; council could pick an option or defer."
     },
     {
-      "title": "Manna Food Pantries sees sustained surge in need after Isaias",
+      "title": "SEC keeps women's soccer championship in Pensacola two more years",
+      "source": "WEAR",
+      "url": "https://weartv.com/news/local/sec-extends-womens-soccer-championship-in-pensacola-for-two-more-years",
+      "summary": "The conference extended its contract with Pensacola Sports and Escambia County. Last year's event brought about $2.6M in local revenue."
+    },
+    {
+      "title": "Pensacola Beach Gulf Pier reopens after Isaias closure",
+      "source": "Must Do Pensacola",
+      "url": "https://mustdopensacola.com/news/pensacola-beach-gulf-pier-reopens",
+      "summary": "The roughly 1,470-foot pier reopened at 6 AM Friday after several weeks closed, another step in the beach's recovery."
+    },
+    {
+      "title": "Santa Rosa County puts Isaias cleanup near $80M",
+      "source": "WEAR",
+      "url": "https://weartv.com/news/local/santa-rosa-county-readies-fema-state-reimbursements-as-isaias-cleanup-tops-80m",
+      "summary": "Federal and state reimbursement should cover most of it, leaving the county about $10M."
+    },
+    {
+      "title": "Manna Food Pantries sees lasting surge in need after Isaias",
       "source": "WEAR",
       "url": "https://weartv.com/news/local/manna-food-pantries-sees-sustained-surge-in-need-for-nwfl-families-after-isaias",
-      "summary": "The food bank network reports continued high demand from Northwest Florida families."
-    },
-    {
-      "title": "Man arrested at Gulf Breeze High football game, police say",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/local/police-gulf-breeze-man-arrested-at-high-school-game-with-knives-and-loaded-handgun",
-      "summary": "Police say the man was accused of impersonating law enforcement and was carrying knives and a concealed handgun."
-    },
-    {
-      "title": "Pensacola begins budget cuts across all 18 departments",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/local/pensacola-begins-budget-cuts-across-all-18-city-departments-as-leaders-plan-next-steps",
-      "summary": "After Amendment 3 passed, the city is cutting across departments as leaders plan next steps."
-    },
-    {
-      "title": "Panhandle Ice Pier taking shape in Pace",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/local/panhandle-ice-pier-taking-shape-in-pace-with-year-round-hockey-rink-skating-and-rentals",
-      "summary": "A privately funded year-round rink with skate rentals is under construction and expected to open by summer 2027."
+      "summary": "The pantry network reports demand from Northwest Florida families has stayed high since the storm."
     }
   ],
   "sources": [
@@ -941,5 +913,5 @@
       "url": "https://forecast.weather.gov/MapClick.php?lat=30.44&lon=-87.19"
     }
   ],
-  "coverage_note": "Updated Friday, Nov 13. Forecast from WeatherBug's 10-day page, which lists rain chance only for Mon Nov 16 (40%), so other days show 0 as unstated. Weekend events were checked against Local Pulse's Nov 12 Top 10 and Visit Pensacola's Nov 13 listings; later events are mostly carried over from earlier checks, and many still say 'See event page'. News comes from WEAR only. The WKRG and City of Pensacola pages showed no usable dates, and NorthEscambia.com's pages looked stale (older articles), so north Escambia, Gonzalez, Molino, Beulah and Cantonment coverage is thin. Restaurant statuses were mostly carried over; only Launch was updated."
+  "coverage_note": "Updated Saturday, Nov 14. Weather: Saturday and Sunday come from WEAR (Sunday low and all days from Monday on from WeatherBug's Nov 13 forecast); rain chance was only given for Mon and Tue, so other days show 0% and may be off. Sources disagree somewhat on lows. Events come from Must Do Pensacola's weekend guide, Local Pulse's weekend top 10 and Must Do's November guide; Visit Pensacola and Downtown Pensacola listings would not load, so December items are carried over and 'See event page' marks missing times. North Escambia (Gonzalez, Molino, Beulah, Cantonment) coverage is thin: NorthEscambia.com searches returned only 2025 items, so no new events were added there and the Cantonment Harvest Festival was dropped as past. Restaurant statuses were mostly carried over; Must Do's November openings article was re-read. Monday's rain chance (20%) comes from WeatherBug; an earlier run had 40%, so treat it as uncertain."
 }
