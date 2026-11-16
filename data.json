@@ -1,63 +1,63 @@
 {
-  "generated": "2026-11-15T02:59:45-06:00",
-  "weekend_note": "Next weekend (Nov 20-22) looks mild and dry through Saturday: highs in the mid 70s, with Sunday afternoon shower chances rising to about 55% per AccuWeather. Today (Sunday) is sunny and cool, and Monday may bring a few showers. Picks: EggFest today (outdoors), The Fab Four Thursday and Derek Hough Friday at the Saenger (indoors), Friday's Gallery Night and Winterfest (outdoors), and Cirque Dreams Holidaze Saturday at the Saenger (indoors). Isaias recovery still affects some places, so double-check before heading out.",
+  "generated": "2026-11-16T03:06:00-06:00",
+  "weekend_note": "Forecasts disagree on Friday: Fox Weather shows a 64% rain chance for Nov 20, while WeatherBug and Weather Underground show it dry, so bring a jacket and an umbrella downtown. Saturday and Sunday look mild (mid 70s) with low rain chances. Picks: Gallery Night and the Grinchmas Parade/Winterfest opening Friday (outdoors), Derek Hough at the Saenger Friday and Cirque Dreams Holidaze Saturday (indoors), and CreekFest and the Jubilee Renaissance Faire on the weekend (outdoors, Milton and the fairgrounds).",
   "weather": [
     {
-      "date": "2026-11-15",
-      "hi": 62,
-      "lo": 46,
-      "rain": 0
-    },
-    {
       "date": "2026-11-16",
-      "hi": 60,
-      "lo": 47,
-      "rain": 24
+      "hi": 62,
+      "lo": 53,
+      "rain": 15
     },
     {
       "date": "2026-11-17",
-      "hi": 71,
-      "lo": 51,
-      "rain": 6
+      "hi": 68,
+      "lo": 55,
+      "rain": 18
     },
     {
       "date": "2026-11-18",
-      "hi": 75,
-      "lo": 54,
-      "rain": 3
+      "hi": 71,
+      "lo": 59,
+      "rain": 24
     },
     {
       "date": "2026-11-19",
-      "hi": 75,
-      "lo": 52,
-      "rain": 1
+      "hi": 74,
+      "lo": 59,
+      "rain": 34
     },
     {
       "date": "2026-11-20",
       "hi": 74,
-      "lo": 52,
-      "rain": 3
+      "lo": 59,
+      "rain": 64
     },
     {
       "date": "2026-11-21",
       "hi": 75,
-      "lo": 57,
-      "rain": 1
+      "lo": 60,
+      "rain": 22
     },
     {
       "date": "2026-11-22",
-      "hi": 78,
+      "hi": 69,
+      "lo": 58,
+      "rain": 16
+    },
+    {
+      "date": "2026-11-23",
+      "hi": 75,
       "lo": 56,
-      "rain": 57
+      "rain": 16
     }
   ],
   "picks": [
-    "eggfest",
-    "fabfour",
     "gallerynight",
+    "grinchmas",
     "derek",
-    "winterfest",
-    "cirque"
+    "cirque",
+    "creekfest",
+    "renfaire"
   ],
   "weekly": [
     {
@@ -103,56 +103,6 @@
       "end": "2026-12-31"
     },
     {
-      "id": "frankbrown",
-      "date": "2026-11-05",
-      "end": "2026-11-15",
-      "title": "Frank Brown Songwriters' Festival",
-      "time": "See event page",
-      "t": "12:00",
-      "place": "Perdido Key, Flora-Bama and Gulf Coast venues",
-      "area": "elsewhere",
-      "section": "entertainment",
-      "note": "Final weekend of the 42nd festival; hundreds of songwriters across Perdido Key, Orange Beach and other Gulf Coast stages. Many shows are free, headliners cost more.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-this-weekend-pensacola-november-13-15-2026"
-    },
-    {
-      "id": "sectsoccer",
-      "date": "2026-11-14",
-      "end": "2026-11-15",
-      "title": "SEC Women's Soccer Tournament: semifinals and championship",
-      "time": "Semifinals Sat; Fan Fest 11:30 AM and final 1:30 PM Sun",
-      "t": "09:00",
-      "place": "Ashton Brosnaham Soccer Complex",
-      "area": "elsewhere",
-      "section": "entertainment",
-      "note": "Sunday's title match has a free Fan Fest with food trucks and activities; match tickets are required (kids 5 and under free). Clear bag policy.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-this-weekend-pensacola-november-13-15-2026"
-    },
-    {
-      "id": "eggfest",
-      "date": "2026-11-15",
-      "title": "Pensacola EggFest",
-      "time": "Noon to 3 PM (VIP entry 11 AM)",
-      "t": "11:00",
-      "place": "Hadji Temple, 800 W. Nine Mile Rd.",
-      "area": "downtown",
-      "section": "seasonal",
-      "note": "Barbecue cooked on Big Green Eggs with live entertainment and charity auctions. General admission $35, VIP $75, kids under 10 free.",
-      "src": "https://localpulse.com/2026/11/local-pulse-weekend-top-10-64/"
-    },
-    {
-      "id": "barktoberfest",
-      "date": "2026-11-15",
-      "title": "Barktoberfest (rescheduled)",
-      "time": "10 AM to 4 PM",
-      "t": "12:00",
-      "place": "Seville Square and Fountain Park, downtown",
-      "area": "downtown",
-      "section": "seasonal",
-      "note": "Humane Society dog event, rescheduled to Nov 15; free admission.",
-      "src": "https://localpulse.com/2026/10/barktoberfest-rescheduled-to-november-15/"
-    },
-    {
       "id": "vibe",
       "date": "2026-11-16",
       "title": "Florida Vibe softball team welcome ceremony",
@@ -184,13 +134,13 @@
       "id": "whoselive",
       "date": "2026-11-18",
       "title": "Whose Live Anyway?",
-      "time": "See event page",
+      "time": "7:30 PM",
       "t": "19:30",
       "place": "Saenger Theatre, downtown",
       "area": "downtown",
       "section": "entertainment",
       "note": "Improv comedy show at the Saenger.",
-      "src": "https://www.livenation.com/venue/KovZpZAFkJlA/pensacola-saenger-theatre-events"
+      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-pensacola-november-15-21-2026"
     },
     {
       "id": "handlebar",
@@ -225,6 +175,18 @@
       "src": "https://downtownpensacola.com/events"
     },
     {
+      "id": "coc",
+      "date": "2026-11-19",
+      "title": "Corrosion of Conformity & The Sword",
+      "time": "Doors 6 PM, show 7 PM",
+      "t": "19:00",
+      "place": "Vinyl Music Hall, downtown",
+      "area": "downtown",
+      "section": "entertainment",
+      "note": "All ages, about $48.",
+      "src": "https://www.yahoo.com/lifestyle/articles/winterfest-grinchmas-parade-creekfest-among-100251680.html"
+    },
+    {
       "id": "fabfour",
       "date": "2026-11-19",
       "title": "The Fab Four",
@@ -234,7 +196,7 @@
       "area": "downtown",
       "section": "entertainment",
       "note": "Beatles tribute act. See the Saenger for tickets.",
-      "src": "https://tixel.com/us/tickets/pensacola-saenger-theatre"
+      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-pensacola-november-15-21-2026"
     },
     {
       "id": "holidaymarket2",
@@ -270,8 +232,33 @@
       "place": "Palafox Street, downtown",
       "area": "downtown",
       "section": "free",
-      "note": "Artists, music, food and local businesses along Palafox; admission not listed.",
-      "src": "https://pensacolabeach.com/november-events-in-pensacola/"
+      "note": "70-plus art vendors, live performances and food trucks; Palafox construction changed the layout, so check the event map. Free.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-pensacola-november-15-21-2026"
+    },
+    {
+      "id": "quayside",
+      "date": "2026-11-20",
+      "title": "Quayside Art Gallery Holiday Market",
+      "time": "5 to 8:30 PM",
+      "t": "17:00",
+      "place": "Quayside Art Gallery, downtown",
+      "area": "downtown",
+      "section": "seasonal",
+      "note": "Local art, gifts and ornaments. Admission not listed.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-pensacola-november-15-21-2026"
+    },
+    {
+      "id": "grinchmas",
+      "date": "2026-11-20",
+      "title": "Winterfest Opening Night & Grinchmas Parade",
+      "time": "Parade 5:05 PM; ceremony 5:15 PM",
+      "t": "17:05",
+      "place": "Romana and Palafox to Winterfest Plaza, downtown",
+      "area": "downtown",
+      "section": "seasonal",
+      "free": true,
+      "note": "Grinch parade is free; tours and photo experiences cost extra.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-pensacola-november-15-21-2026"
     },
     {
       "id": "winterfest",
@@ -281,7 +268,7 @@
       "place": "Downtown Pensacola",
       "area": "downtown",
       "section": "seasonal",
-      "note": "Select nights through Christmas Eve at Winterfest Plaza, 223 S Palafox Place. The Christmas Special is free; Polar Express and Grinch trolley tours and Santa/Grinch photos are ticketed (tour tickets start around $10 kids, $16 adults). Rain is likely Sunday Nov 22 afternoon.",
+      "note": "Opens Nov 20 with the Grinchmas Parade. Free Christmas Special on event nights; tours and photos are ticketed. Check pensacolawinterfest.org for dates.",
       "src": "https://www.mustdopensacola.com/news/pensacola-winterfest-guide",
       "dates": [
         "2026-11-20",
@@ -317,6 +304,18 @@
       "src": "https://localpulse.com/2026/10/opera-after-dark-lights-up-museum-plaza-this-friday/"
     },
     {
+      "id": "wonderxmas",
+      "date": "2026-11-20",
+      "title": "Wonder of Christmas holiday celebration",
+      "time": "7:30 PM",
+      "t": "19:30",
+      "place": "First Baptist Church of Gulf Breeze, 555 Fairpoint Dr",
+      "area": "elsewhere",
+      "section": "seasonal",
+      "note": "Cost not listed.",
+      "src": "https://www.yahoo.com/lifestyle/articles/winterfest-grinchmas-parade-creekfest-among-100251680.html"
+    },
+    {
       "id": "derek",
       "date": "2026-11-20",
       "title": "Derek Hough at the Saenger",
@@ -326,7 +325,34 @@
       "area": "downtown",
       "section": "entertainment",
       "note": "Dancer and performer on tour. Tickets via resale listing; check the Saenger for official sales.",
-      "src": "https://www.tickpick.com/buy-derek-hough-tickets-saenger-theatre-fl-11-20-26-8pm/8150924/"
+      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-pensacola-november-15-21-2026"
+    },
+    {
+      "id": "evanhoner",
+      "date": "2026-11-20",
+      "title": "Evan Honer",
+      "time": "Doors 7 PM, show 8 PM",
+      "t": "20:00",
+      "place": "Vinyl Music Hall, downtown",
+      "area": "downtown",
+      "section": "entertainment",
+      "note": "All ages, about $35.",
+      "src": "https://www.yahoo.com/lifestyle/articles/winterfest-grinchmas-parade-creekfest-among-100251680.html"
+    },
+    {
+      "id": "creekfest",
+      "dates": [
+        "2026-11-21",
+        "2026-11-22"
+      ],
+      "title": "CreekFest '26",
+      "time": "Starts 9 AM",
+      "t": "09:00",
+      "place": "4750 Willard Norris Rd, Milton",
+      "area": "elsewhere",
+      "section": "seasonal",
+      "note": "Native American culture festival with dancing, drumming and food. $5; kids under 7 free.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-pensacola-november-15-21-2026"
     },
     {
       "id": "booktober",
@@ -341,16 +367,44 @@
       "src": "https://downtownpensacola.com/events"
     },
     {
+      "id": "renfaire",
+      "dates": [
+        "2026-11-21",
+        "2026-11-22"
+      ],
+      "title": "Jubilee Renaissance Faire",
+      "time": "10 AM to 6 PM",
+      "t": "10:00",
+      "place": "Pensacola Interstate Fairgrounds",
+      "area": "elsewhere",
+      "section": "seasonal",
+      "note": "Jousting, entertainers and artisans. Adults $20 advance, $25 at gate; kids 10 and under free with a paid adult.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-pensacola-november-15-21-2026"
+    },
+    {
+      "id": "turkeydrive",
+      "date": "2026-11-21",
+      "title": "Community Thanksgiving Turkey Drive",
+      "time": "11 AM to 2 PM",
+      "t": "11:00",
+      "place": "7275 Rolling Hills Rd, Pensacola",
+      "area": "elsewhere",
+      "section": "free",
+      "free": true,
+      "note": "Community effort giving turkeys to local families. See event page for details.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-pensacola-november-15-21-2026"
+    },
+    {
       "id": "pensinvite",
       "date": "2026-11-21",
       "title": "Pensacola Invitational 2026",
-      "time": "See event page",
-      "t": "12:00",
-      "place": "Pensacola Bay Center, 201 E Gregory St",
+      "time": "Sat 4 and 7 PM; Sun 2 and 5 PM",
+      "t": "16:00",
+      "place": "Pensacola Bay Center",
       "area": "downtown",
       "section": "entertainment",
-      "note": "Two-day event at the Pensacola Bay Center (201 E Gregory St) on Nov 21 and 22, per Downtown Pensacola's calendar. Details not listed.",
-      "src": "https://downtownpensacola.com/events",
+      "note": "Four college basketball teams at the Bay Center. Tickets start around $16.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-pensacola-november-15-21-2026",
       "end": "2026-11-22"
     },
     {
@@ -369,13 +423,25 @@
       "id": "cirque",
       "date": "2026-11-21",
       "title": "Cirque Dreams Holidaze",
-      "time": "See event page",
+      "time": "7 PM",
       "t": "19:00",
       "place": "Saenger Theatre, 118 S Palafox St",
       "area": "downtown",
       "section": "entertainment",
-      "note": "Holiday circus-style production listed on Downtown Pensacola's calendar for Saturday Nov 21. Show time not listed there.",
-      "src": "https://downtownpensacola.com/events"
+      "note": "Holiday circus-style show at the Saenger. Paid.",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-pensacola-november-15-21-2026"
+    },
+    {
+      "id": "bandconcert",
+      "date": "2026-11-21",
+      "title": "Pensacola Bay Concert Band concert",
+      "time": "7:30 PM",
+      "t": "19:30",
+      "place": "Kugelman Center, 1000 College Blvd",
+      "area": "elsewhere",
+      "section": "entertainment",
+      "note": "Conductor's Choice program. Cost not listed.",
+      "src": "https://www.yahoo.com/lifestyle/articles/winterfest-grinchmas-parade-creekfest-among-100251680.html"
     },
     {
       "id": "flyers",
@@ -394,7 +460,7 @@
       "place": "Pensacola Bay Center",
       "area": "downtown",
       "section": "entertainment",
-      "src": "https://downtownpensacola.com/events",
+      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-november-2026",
       "note": "Nov 25 vs. Huntsville (Thanksgiving Eve), Nov 28 youth jersey giveaway night. Dec 5 and later dates come from Downtown Pensacola's calendar; confirm opponents on the team site."
     },
     {
@@ -697,11 +763,20 @@
     {
       "name": "Launch Family Entertainment",
       "status": "open",
-      "when": "Open since October; ribbon cutting was Nov 10 and a public grand opening was set for Sat Nov 14 (first 150 guests were to get free jumping for a year)",
+      "when": "Open since October; ribbon cutting Nov 10, public grand opening set for Sat Nov 14 (not confirmed it happened)",
       "place": "8102 N Davis Hwy",
       "kind": "Family fun center with a restaurant and bar",
       "note": "Trampolines, duckpin bowling, a ninja course, arcade and the KRAVE restaurant and bar.",
       "src": "https://localpulse.com/2026/11/local-pulse-weekend-top-10-64/"
+    },
+    {
+      "name": "The Fifth Course Restaurant & Craft Bar (formerly O'Brien's Bistro)",
+      "status": "soon",
+      "when": "Closed for renovations since Sept 27; reopening around Nov 24",
+      "place": "4350 Bayou Blvd, Unit 8",
+      "kind": "Restaurant and craft bar",
+      "note": "O'Brien's Bistro is rebranding under a new name.",
+      "src": "https://www.yahoo.com/news/articles/ss-united-states-sinking-cold-100708607.html"
     },
     {
       "name": "Dill Dinkers Indoor Pickleball",
@@ -778,46 +853,46 @@
   ],
   "news": [
     {
+      "title": "Frost advisory covers much of the Gulf Coast",
+      "source": "WEAR",
+      "url": "https://weartv.com/news/local/frost-advisory-issued-for-much-of-gulf-coast-as-temps-are-tumbling",
+      "summary": "A cold front brought frost risk inland on Nov 13, with coastal areas milder and highs rebounding to the mid 60s by Sunday."
+    },
+    {
+      "title": "Appraiser warns of Amendment 3 homestead scams",
+      "source": "WEAR",
+      "url": "https://weartv.com/news/local/escambia-county-appraiser-warns-of-scams-regarding-amendment-3-homestead-exemption",
+      "summary": "Scammers are posing as appraisers to get personal details. Current homestead holders who qualify do not need to reapply, officials say."
+    },
+    {
       "title": "Joe Vinson unseats Ashlee Hofberger in Escambia District 4 race",
       "source": "WEAR",
       "url": "https://weartv.com/news/local/independent-joe-vinson-unseats-incumbent-ashlee-hofberger-in-escambia-district-4-race",
-      "summary": "After recounts and 39 late ballots, independent Vinson won by 19 votes, 13,096 to 13,077. He named Amendment 3 as his first priority."
+      "summary": "After recounts and late ballots, independent Vinson won by 19 votes, 13,096 to 13,077."
     },
     {
       "title": "Pensacola mayor says selling some park properties is on the table",
       "source": "WEAR",
       "url": "https://weartv.com/news/local/pensacola-mayor-says-selling-some-park-properties-is-on-the-table-amid-amendment-3-cuts",
-      "summary": "Mayor D.C. Reeves warned the city's general fund could shrink about 30 percent because of Amendment 3 cuts. The city reopened a renovated Dunwoody Park."
-    },
-    {
-      "title": "Escambia election results: penny sales tax renewal shows Yes",
-      "source": "WUWF",
-      "url": "https://www.wuwf.org/local-news/2026-11-03/live-election-results-escambia-santa-rosa-and-okaloosa-counties",
-      "summary": "WUWF's live feed also marked Sherri Myers and Boyce White as winners for Pensacola City Council. Results were from a live page and may have changed."
+      "summary": "Mayor D.C. Reeves warned the city's general fund could shrink about 30 percent because of Amendment 3 cuts."
     },
     {
       "title": "Nationwide FAA ground stop empties lines at Pensacola airport",
       "source": "WEAR",
       "url": "https://weartv.com/news/local/pensacola-airport-director-says-situation-is-pretty-calm-since-nationwide-ground-stop",
-      "summary": "The Nov 13 stop was attributed to a telecom problem. The airport director said conditions were calm with no safety concern."
+      "summary": "The airport director said conditions were calm during the Nov 13 stop, with no safety concern."
     },
     {
-      "title": "SEC keeps women's soccer championship in Pensacola two more years",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/local/sec-extends-womens-soccer-championship-in-pensacola-for-two-more-years",
-      "summary": "The conference extended its deal with Pensacola Sports and Escambia County. Last year's event brought about $2.6M in local revenue."
+      "title": "SS United States sank upright off Destin",
+      "source": "Pensacola News Journal",
+      "url": "https://www.yahoo.com/news/articles/ss-united-states-sinking-cold-100708607.html",
+      "summary": "The ship sank Nov 11 about 22 nautical miles southwest of Destin-Fort Walton Beach; Okaloosa officials confirmed it landed upright. The roundup also notes debris-grinding worries near Isaias cleanup sites."
     },
     {
       "title": "Pensacola leaders weigh phased repairs for former Gibson School",
       "source": "WEAR",
       "url": "https://weartv.com/news/local/pensacola-leaders-debate-next-steps-for-former-gibson-school-amid-62m-repair-estimate",
-      "summary": "Repairs top $6.2M. A first phase of about $2.8M would weatherproof the building; council could pick an option or defer."
-    },
-    {
-      "title": "SS United States sank upright off Destin after a valve delay",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/local/okaloosa-county-officials-say-ss-united-states-sank-after-valve-delay-landed-upright",
-      "summary": "The ship went down Nov 11 and rests upright about 180 feet deep, roughly 22 miles offshore."
+      "summary": "Repairs top $6.2M; a first phase of about $2.8M would weatherproof the building."
     }
   ],
   "sources": [
@@ -914,5 +989,5 @@
       "url": "https://forecast.weather.gov/MapClick.php?lat=30.44&lon=-87.19"
     }
   ],
-  "coverage_note": "Updated Sunday, Nov 15. Weather is from AccuWeather's 10-day page; NWS and WEAR agree on Sunday/Monday temperatures within a few degrees, but WEAR showed a higher Monday rain chance (about 50%) than AccuWeather (24%), so treat Monday rain as uncertain. Events come from Must Do Pensacola's November guide and Winterfest guide, PensacolaBeach.com and Downtown Pensacola's calendar; the Saenger, Ice Flyers, Visit Pensacola, WEAR and Must Do index pages would not load, so new items marked 'See event page' lack confirmed times. North Escambia (Gonzalez, Molino, Beulah, Cantonment) coverage is thin: NorthEscambia.com pages returned only stale items, so no events were added there. Restaurant statuses were carried over; no new openings or closings were confirmed this run. News is from WEAR and WUWF."
+  "coverage_note": "Updated Monday, Nov 16. Temperatures are from WeatherBug; rain chances are from Fox Weather, whose Friday 64% conflicts with WeatherBug and Weather Underground showing a dry day, and Nov 23 rain was not listed so it is estimated from Fox's Nov 22 value. Events come from Must Do Pensacola's weekly guide and a Pensacola News Journal roundup; the Saenger, Ice Flyers and Visit Pensacola pages gave few details, so later items still say 'See event page'. NorthEscambia.com returned only stale pages, so no Gonzalez, Molino, Beulah or Cantonment events were added. Restaurant statuses are mostly carried over; only The Fifth Course was added."
 }
