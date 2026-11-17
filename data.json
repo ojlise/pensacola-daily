@@ -1,54 +1,54 @@
 {
-  "generated": "2026-11-16T03:06:00-06:00",
-  "weekend_note": "Forecasts disagree on Friday: Fox Weather shows a 64% rain chance for Nov 20, while WeatherBug and Weather Underground show it dry, so bring a jacket and an umbrella downtown. Saturday and Sunday look mild (mid 70s) with low rain chances. Picks: Gallery Night and the Grinchmas Parade/Winterfest opening Friday (outdoors), Derek Hough at the Saenger Friday and Cirque Dreams Holidaze Saturday (indoors), and CreekFest and the Jubilee Renaissance Faire on the weekend (outdoors, Milton and the fairgrounds).",
+  "generated": "2026-11-17T02:54:11-06:00",
+  "weekend_note": "Friday looks warm (low 70s) with a modest 30% rain chance per WeatherBug, though another forecast earlier this week showed a much wetter Friday, so pack an umbrella for Gallery Night and the Grinchmas Parade. Saturday and Sunday look mild with low rain chances. Picks: Gallery Night and the Grinchmas Parade/Winterfest opening Friday (outdoors), Derek Hough at the Saenger Friday and Cirque Dreams Holidaze Saturday (indoors), and CreekFest and the Jubilee Renaissance Faire on the weekend (outdoors, Milton and the fairgrounds).",
   "weather": [
     {
-      "date": "2026-11-16",
-      "hi": 62,
-      "lo": 53,
-      "rain": 15
-    },
-    {
       "date": "2026-11-17",
-      "hi": 68,
-      "lo": 55,
+      "hi": 64,
+      "lo": 56,
       "rain": 18
     },
     {
       "date": "2026-11-18",
-      "hi": 71,
-      "lo": 59,
-      "rain": 24
+      "hi": 68,
+      "lo": 62,
+      "rain": 20
     },
     {
       "date": "2026-11-19",
-      "hi": 74,
-      "lo": 59,
-      "rain": 34
+      "hi": 69,
+      "lo": 65,
+      "rain": 20
     },
     {
       "date": "2026-11-20",
-      "hi": 74,
-      "lo": 59,
-      "rain": 64
+      "hi": 73,
+      "lo": 65,
+      "rain": 30
     },
     {
       "date": "2026-11-21",
-      "hi": 75,
-      "lo": 60,
-      "rain": 22
+      "hi": 73,
+      "lo": 65,
+      "rain": 20
     },
     {
       "date": "2026-11-22",
-      "hi": 69,
-      "lo": 58,
+      "hi": 75,
+      "lo": 64,
       "rain": 16
     },
     {
       "date": "2026-11-23",
       "hi": 75,
-      "lo": 56,
+      "lo": 62,
       "rain": 16
+    },
+    {
+      "date": "2026-11-24",
+      "hi": 72,
+      "lo": 62,
+      "rain": 20
     }
   ],
   "picks": [
@@ -101,19 +101,6 @@
       "note": "Holiday lights along Palafox continue through the season after the Nov 4 kickoff; hours not listed, so see the event page.",
       "src": "https://pensacolabeach.com/november-events-in-pensacola/",
       "end": "2026-12-31"
-    },
-    {
-      "id": "vibe",
-      "date": "2026-11-16",
-      "title": "Florida Vibe softball team welcome ceremony",
-      "time": "5 PM (gates 4:30 PM)",
-      "t": "17:00",
-      "place": "Blue Wahoos Stadium",
-      "area": "downtown",
-      "section": "free",
-      "free": true,
-      "note": "Free event introducing the new pro softball team's coach, staff and signed players ahead of its 2027 debut.",
-      "src": "https://weartv.com/news/local/pensacola-gets-professional-womens-softball-team-will-play-at-blue-wahoos-stadium"
     },
     {
       "id": "holidaymkt",
@@ -989,5 +976,5 @@
       "url": "https://forecast.weather.gov/MapClick.php?lat=30.44&lon=-87.19"
     }
   ],
-  "coverage_note": "Updated Monday, Nov 16. Temperatures are from WeatherBug; rain chances are from Fox Weather, whose Friday 64% conflicts with WeatherBug and Weather Underground showing a dry day, and Nov 23 rain was not listed so it is estimated from Fox's Nov 22 value. Events come from Must Do Pensacola's weekly guide and a Pensacola News Journal roundup; the Saenger, Ice Flyers and Visit Pensacola pages gave few details, so later items still say 'See event page'. NorthEscambia.com returned only stale pages, so no Gonzalez, Molino, Beulah or Cantonment events were added. Restaurant statuses are mostly carried over; only The Fifth Course was added."
+  "coverage_note": "Updated Tuesday, Nov 17. Temperatures and most rain chances are from WeatherBug's 10-day page; Nov 17 and Nov 22-24 rain chances were not listed there, so those values are carried over or estimated from the previous run. Events were rechecked against Must Do Pensacola's weekly guide, Visit Pensacola and PensacolaBeach.com; the expired Nov 16 softball event was removed and no new events were found. NorthEscambia.com's pages returned only stale items, so no Gonzalez, Molino, Beulah or Cantonment events were added. News and restaurant lists are carried over from Nov 16 because searches found no newer confirmed items, so they may lag."
 }
