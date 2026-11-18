@@ -1,13 +1,7 @@
 {
-  "generated": "2026-11-17T02:54:11-06:00",
-  "weekend_note": "Friday looks warm (low 70s) with a modest 30% rain chance per WeatherBug, though another forecast earlier this week showed a much wetter Friday, so pack an umbrella for Gallery Night and the Grinchmas Parade. Saturday and Sunday look mild with low rain chances. Picks: Gallery Night and the Grinchmas Parade/Winterfest opening Friday (outdoors), Derek Hough at the Saenger Friday and Cirque Dreams Holidaze Saturday (indoors), and CreekFest and the Jubilee Renaissance Faire on the weekend (outdoors, Milton and the fairgrounds).",
+  "generated": "2026-11-18T02:55:08-06:00",
+  "weekend_note": "Friday looks warm (low 70s) with about a 30% rain chance, Saturday is similar at 20%, and Sunday is mild in the mid 70s, so pack an umbrella for Gallery Night and the Grinchmas Parade. Picks: Gallery Night and the Grinchmas Parade/Winterfest opening Friday (outdoors), Derek Hough at the Saenger Friday and Cirque Dreams Holidaze Saturday (indoors), and CreekFest and the Jubilee Renaissance Faire on the weekend (outdoors, Milton and the fairgrounds). Rain chances beyond Saturday are estimates.",
   "weather": [
-    {
-      "date": "2026-11-17",
-      "hi": 64,
-      "lo": 56,
-      "rain": 18
-    },
     {
       "date": "2026-11-18",
       "hi": 68,
@@ -49,6 +43,12 @@
       "hi": 72,
       "lo": 62,
       "rain": 20
+    },
+    {
+      "date": "2026-11-25",
+      "hi": 73,
+      "lo": 65,
+      "rain": 22
     }
   ],
   "picks": [
@@ -70,9 +70,9 @@
     {
       "day": "Sunday",
       "title": "Sunday Market on Palafox",
-      "place": "Palafox Street, 11:30 AM to 3:30 PM",
-      "note": "Local Pulse listed it as canceled the weekend of Oct 17, and no recent guide lists a Sunday market. Confirm before going.",
-      "src": "https://localpulse.com/2026/10/local-pulse-weekend-top-10-60/"
+      "place": "50 N Palafox St, 11:30 AM to 3:30 PM",
+      "note": "Runs Sundays at 50 N Palafox, 11:30 AM to 3:30 PM, per a Nov 13 Local Pulse story (it was reported canceled Oct 17 weekend, so confirm before going).",
+      "src": "https://localpulse.com/2026/11/a-piece-of-pensacola-beach-history-finds-new-life-at-the-sunday-market-on-palafox/"
     }
   ],
   "events": [
@@ -681,6 +681,19 @@
       "section": "entertainment",
       "note": "New Year's Eve concert listed on the downtown calendar.",
       "src": "https://downtownpensacola.com/events"
+    },
+    {
+      "id": "mayflower",
+      "date": "2026-11-20",
+      "title": "Manna Fill the Mayflower Food Drive",
+      "time": "5 AM to 6 PM",
+      "t": "05:00",
+      "place": "Dillard's parking lot, Cordova Mall, 5100 N 9th Ave",
+      "area": "elsewhere",
+      "section": "free",
+      "free": true,
+      "note": "Drive-up food and cash donations for Manna; volunteers unload at the truck. Non-perishables only.",
+      "src": "https://localpulse.com/2026/11/got-non-perishables-mannas-fill-the-mayflowers-annual-food-drive-is-this-friday/"
     }
   ],
   "restaurants": [
@@ -748,13 +761,31 @@
       "src": "https://weartv.com/gulf-coast-connected/gulf-coast-connected-whataburger-to-reopen-on-gregory-street-in-pensacola"
     },
     {
+      "name": "Chocolate House",
+      "status": "open",
+      "when": "Open by early October",
+      "place": "620 E Nine Mile Rd",
+      "kind": "Coffee and desserts",
+      "note": "Coffee, crepes, desserts and shakes.",
+      "src": "https://www.yahoo.com/lifestyle/articles/pensacola-dining-scene-sees-6-100236912.html"
+    },
+    {
+      "name": "7 Brew Coffee",
+      "status": "open",
+      "when": "Soft opened in October; grand opening listed for Nov 2",
+      "place": "4615 Mobile Hwy",
+      "kind": "Drive-thru coffee",
+      "note": "Drive-thru coffee, smoothies and energy drinks.",
+      "src": "https://www.yahoo.com/lifestyle/articles/pensacola-dining-scene-sees-6-100236912.html"
+    },
+    {
       "name": "Launch Family Entertainment",
       "status": "open",
-      "when": "Open since October; ribbon cutting Nov 10, public grand opening set for Sat Nov 14 (not confirmed it happened)",
+      "when": "Krave restaurant soft opened Oct 17; grand opening was set for Sat Nov 14 (not confirmed it happened)",
       "place": "8102 N Davis Hwy",
       "kind": "Family fun center with a restaurant and bar",
       "note": "Trampolines, duckpin bowling, a ninja course, arcade and the KRAVE restaurant and bar.",
-      "src": "https://localpulse.com/2026/11/local-pulse-weekend-top-10-64/"
+      "src": "https://www.yahoo.com/lifestyle/articles/pensacola-dining-scene-sees-6-100236912.html"
     },
     {
       "name": "The Fifth Course Restaurant & Craft Bar (formerly O'Brien's Bistro)",
@@ -840,40 +871,40 @@
   ],
   "news": [
     {
-      "title": "Frost advisory covers much of the Gulf Coast",
+      "title": "New Escambia commissioners sworn in as budget cuts loom",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/frost-advisory-issued-for-much-of-gulf-coast-as-temps-are-tumbling",
-      "summary": "A cold front brought frost risk inland on Nov 13, with coastal areas milder and highs rebounding to the mid 60s by Sunday."
+      "url": "https://weartv.com/news/local/new-escambia-county-commissioners-sworn-in-ahead-of-tough-budget-cuts",
+      "summary": "Mike Kohler and Joe Vinson took office Nov 17 and Steve Stroberger was chosen chair. Amendment 3 cuts could reach tens of millions, and the planned Myrtle Grove library may lose about $2.3M."
     },
     {
-      "title": "Appraiser warns of Amendment 3 homestead scams",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/local/escambia-county-appraiser-warns-of-scams-regarding-amendment-3-homestead-exemption",
-      "summary": "Scammers are posing as appraisers to get personal details. Current homestead holders who qualify do not need to reapply, officials say."
+      "title": "UWF named a Distinguished Military College",
+      "source": "Local Pulse",
+      "url": "https://localpulse.com/2026/11/uwf-named-distinguished-military-college-welcomed-into-americas-corps-of-cadets-by-u-s-dept-of-war/",
+      "summary": "The designation, announced Nov 14, brings UWF into America's Corps of Cadets alongside Tarleton State."
     },
     {
-      "title": "Joe Vinson unseats Ashlee Hofberger in Escambia District 4 race",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/local/independent-joe-vinson-unseats-incumbent-ashlee-hofberger-in-escambia-district-4-race",
-      "summary": "After recounts and late ballots, independent Vinson won by 19 votes, 13,096 to 13,077."
+      "title": "Pensacola Beach Gulf Pier reopens",
+      "source": "Must Do Pensacola",
+      "url": "https://mustdopensacola.com/news/pensacola-beach-gulf-pier-reopens",
+      "summary": "The pier reopened Nov 13 after weeks closed following the October hurricane. Fishing is $7.50 for adults; spectators $2.25."
+    },
+    {
+      "title": "SEC women's soccer tournament staying in Pensacola through 2028",
+      "source": "Local Pulse",
+      "url": "https://localpulse.com/2026/11/sec-womens-soccer-championship-to-remain-in-pensacola-two-more-years/",
+      "summary": "The event stays at Ashton Brosnaham Soccer Complex two more years after its fifth straight year here."
+    },
+    {
+      "title": "Pensacola Beach Chamber names Christine Brewster CEO",
+      "source": "Local Pulse",
+      "url": "https://localpulse.com/2026/11/pensacola-beach-chamber-of-commerce-names-christine-brewster-president-ceo/",
+      "summary": "Brewster, interim leader since September, becomes permanent president and CEO."
     },
     {
       "title": "Pensacola mayor says selling some park properties is on the table",
       "source": "WEAR",
       "url": "https://weartv.com/news/local/pensacola-mayor-says-selling-some-park-properties-is-on-the-table-amid-amendment-3-cuts",
       "summary": "Mayor D.C. Reeves warned the city's general fund could shrink about 30 percent because of Amendment 3 cuts."
-    },
-    {
-      "title": "Nationwide FAA ground stop empties lines at Pensacola airport",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/local/pensacola-airport-director-says-situation-is-pretty-calm-since-nationwide-ground-stop",
-      "summary": "The airport director said conditions were calm during the Nov 13 stop, with no safety concern."
-    },
-    {
-      "title": "SS United States sank upright off Destin",
-      "source": "Pensacola News Journal",
-      "url": "https://www.yahoo.com/news/articles/ss-united-states-sinking-cold-100708607.html",
-      "summary": "The ship sank Nov 11 about 22 nautical miles southwest of Destin-Fort Walton Beach; Okaloosa officials confirmed it landed upright. The roundup also notes debris-grinding worries near Isaias cleanup sites."
     },
     {
       "title": "Pensacola leaders weigh phased repairs for former Gibson School",
@@ -976,5 +1007,5 @@
       "url": "https://forecast.weather.gov/MapClick.php?lat=30.44&lon=-87.19"
     }
   ],
-  "coverage_note": "Updated Tuesday, Nov 17. Temperatures and most rain chances are from WeatherBug's 10-day page; Nov 17 and Nov 22-24 rain chances were not listed there, so those values are carried over or estimated from the previous run. Events were rechecked against Must Do Pensacola's weekly guide, Visit Pensacola and PensacolaBeach.com; the expired Nov 16 softball event was removed and no new events were found. NorthEscambia.com's pages returned only stale items, so no Gonzalez, Molino, Beulah or Cantonment events were added. News and restaurant lists are carried over from Nov 16 because searches found no newer confirmed items, so they may lag."
+  "coverage_note": "Updated Wednesday, Nov 18. Weather is from WeatherBug's 10-day page; Nov 22-25 rain chances were mostly not listed, so Nov 22-24 values are carried over and Nov 25 uses the listed 22%. Visit Pensacola's events page and Must Do Pensacola's weekly guide would not load this run, so the event list is carried over with one addition (Fill the Mayflower) and was not fully rechecked. NorthEscambia.com showed only stale items, so no Gonzalez, Molino, Beulah or Cantonment events were added. News is fresh from Local Pulse, WEAR and Must Do Pensacola; the Nov 13 Gibson School and park-sale items are carried over. The Fifth Course and Launch grand opening statuses are unconfirmed."
 }
