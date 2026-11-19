@@ -1,54 +1,54 @@
 {
-  "generated": "2026-11-18T02:55:08-06:00",
-  "weekend_note": "Friday looks warm (low 70s) with about a 30% rain chance, Saturday is similar at 20%, and Sunday is mild in the mid 70s, so pack an umbrella for Gallery Night and the Grinchmas Parade. Picks: Gallery Night and the Grinchmas Parade/Winterfest opening Friday (outdoors), Derek Hough at the Saenger Friday and Cirque Dreams Holidaze Saturday (indoors), and CreekFest and the Jubilee Renaissance Faire on the weekend (outdoors, Milton and the fairgrounds). Rain chances beyond Saturday are estimates.",
+  "generated": "2026-11-19T02:59:55-06:00",
+  "weekend_note": "Friday has the best rain risk of the stretch (about 40%) and the weekend dries out with highs near 73 to 74. Bring an umbrella for Gallery Night and the Grinchmas Parade (outdoors); Derek Hough Friday and Cirque Dreams Holidaze Saturday at the Saenger are indoors, while CreekFest in Milton and the Jubilee Renaissance Faire are outdoors. Rain chances for Sat and beyond are estimates where the forecast did not list them.",
   "weather": [
     {
-      "date": "2026-11-18",
-      "hi": 68,
-      "lo": 62,
-      "rain": 20
-    },
-    {
       "date": "2026-11-19",
-      "hi": 69,
-      "lo": 65,
+      "hi": 68,
+      "lo": 63,
       "rain": 20
     },
     {
       "date": "2026-11-20",
       "hi": 73,
-      "lo": 65,
-      "rain": 30
+      "lo": 63,
+      "rain": 40
     },
     {
       "date": "2026-11-21",
-      "hi": 73,
-      "lo": 65,
+      "hi": 74,
+      "lo": 59,
       "rain": 20
     },
     {
       "date": "2026-11-22",
-      "hi": 75,
-      "lo": 64,
+      "hi": 73,
+      "lo": 57,
       "rain": 16
     },
     {
       "date": "2026-11-23",
-      "hi": 75,
-      "lo": 62,
+      "hi": 73,
+      "lo": 60,
       "rain": 16
     },
     {
       "date": "2026-11-24",
-      "hi": 72,
-      "lo": 62,
+      "hi": 71,
+      "lo": 60,
       "rain": 20
     },
     {
       "date": "2026-11-25",
-      "hi": 73,
-      "lo": 65,
-      "rain": 22
+      "hi": 66,
+      "lo": 54,
+      "rain": 20
+    },
+    {
+      "date": "2026-11-26",
+      "hi": 61,
+      "lo": 56,
+      "rain": 20
     }
   ],
   "picks": [
@@ -105,7 +105,6 @@
     {
       "id": "holidaymkt",
       "dates": [
-        "2026-11-18",
         "2026-11-25"
       ],
       "title": "Palafox Market Holiday Edition",
@@ -116,30 +115,6 @@
       "section": "seasonal",
       "note": "Wednesday evening holiday market through Nov 25, held at MLK Jr. Plaza. Admission not listed.",
       "src": "https://pensacolabeach.com/november-events-in-pensacola/"
-    },
-    {
-      "id": "whoselive",
-      "date": "2026-11-18",
-      "title": "Whose Live Anyway?",
-      "time": "7:30 PM",
-      "t": "19:30",
-      "place": "Saenger Theatre, downtown",
-      "area": "downtown",
-      "section": "entertainment",
-      "note": "Improv comedy show at the Saenger.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-pensacola-november-15-21-2026"
-    },
-    {
-      "id": "handlebar",
-      "date": "2026-11-18",
-      "title": "Wayne Hancock at The Handlebar",
-      "time": "See event page",
-      "t": "20:00",
-      "place": "The Handlebar, 319 N Tarragona St",
-      "area": "downtown",
-      "section": "entertainment",
-      "note": "Live music night in Pensacola. Other Handlebar shows that week: Little Image (Nov 16-17) and Freddy Todd (Nov 20).",
-      "src": "https://downtownpensacola.com/events"
     },
     {
       "id": "rooftop",
@@ -219,8 +194,8 @@
       "place": "Palafox Street, downtown",
       "area": "downtown",
       "section": "free",
-      "note": "70-plus art vendors, live performances and food trucks; Palafox construction changed the layout, so check the event map. Free.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-pensacola-november-15-21-2026"
+      "note": "More than 70 art vendors, live performances and food trucks; layout is modified because of Palafox Street construction. Free.",
+      "src": "https://localpulse.com/2026/11/local-pulse-weekend-top-10-65/"
     },
     {
       "id": "quayside",
@@ -244,8 +219,8 @@
       "area": "downtown",
       "section": "seasonal",
       "free": true,
-      "note": "Grinch parade is free; tours and photo experiences cost extra.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-pensacola-november-15-21-2026"
+      "note": "Free parade from Romana and Palafox to Winterfest Plaza; tours and photo experiences are ticketed.",
+      "src": "https://localpulse.com/2026/11/local-pulse-weekend-top-10-65/"
     },
     {
       "id": "winterfest",
@@ -333,13 +308,13 @@
         "2026-11-22"
       ],
       "title": "CreekFest '26",
-      "time": "Starts 9 AM",
+      "time": "9 AM to 6 PM both days",
       "t": "09:00",
-      "place": "4750 Willard Norris Rd, Milton",
+      "place": "Santa Rosa Creek Indian Tribal Grounds, 4750 Willard Norris Rd, Milton",
       "area": "elsewhere",
       "section": "seasonal",
-      "note": "Native American culture festival with dancing, drumming and food. $5; kids under 7 free.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-pensacola-november-15-21-2026"
+      "note": "Pow wow drumming, dancing, crafts, food demos and a Battle of Chumuckla reenactment. $5 admission, kids under 7 free, free parking.",
+      "src": "https://localpulse.com/2026/11/local-pulse-weekend-top-10-65/"
     },
     {
       "id": "booktober",
@@ -362,11 +337,11 @@
       "title": "Jubilee Renaissance Faire",
       "time": "10 AM to 6 PM",
       "t": "10:00",
-      "place": "Pensacola Interstate Fairgrounds",
+      "place": "Pensacola Interstate Fairgrounds, 6655 W Mobile Hwy",
       "area": "elsewhere",
       "section": "seasonal",
-      "note": "Jousting, entertainers and artisans. Adults $20 advance, $25 at gate; kids 10 and under free with a paid adult.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-pensacola-november-15-21-2026"
+      "note": "Merchants, food, entertainers and full-contact jousting; tickets sold online.",
+      "src": "https://localpulse.com/2026/11/local-pulse-weekend-top-10-65/"
     },
     {
       "id": "turkeydrive",
@@ -390,8 +365,8 @@
       "place": "Pensacola Bay Center",
       "area": "downtown",
       "section": "entertainment",
-      "note": "Four college basketball teams at the Bay Center. Tickets start around $16.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-pensacola-november-15-21-2026",
+      "note": "College basketball: Sat 4 PM Nicholls State vs Southern Miss, 7 PM Valparaiso vs Troy; Sun 2 PM Troy vs Nicholls State, 5 PM Southern Miss vs Valparaiso. Tickets from about $16; one Saturday ticket covers both games.",
+      "src": "https://localpulse.com/2026/11/local-pulse-weekend-top-10-65/",
       "end": "2026-11-22"
     },
     {
@@ -694,6 +669,80 @@
       "free": true,
       "note": "Drive-up food and cash donations for Manna; volunteers unload at the truck. Non-perishables only.",
       "src": "https://localpulse.com/2026/11/got-non-perishables-mannas-fill-the-mayflowers-annual-food-drive-is-this-friday/"
+    },
+    {
+      "id": "aldi",
+      "date": "2026-11-19",
+      "title": "ALDI Cantonment grand opening",
+      "time": "8:30 AM ribbon cutting",
+      "t": "08:30",
+      "place": "1550 S Highway 29, Cantonment",
+      "area": "elsewhere",
+      "section": "free",
+      "free": true,
+      "note": "Ceremony and ribbon cutting; the first 200 customers get a gift bag and a gift card. Store hours afterward are 9 AM to 8 PM daily.",
+      "src": "https://localpulse.com/2026/11/first-200-customers-at-aldi-cantonment-grand-opening-to-receive-gift-cards/"
+    },
+    {
+      "id": "mardigras",
+      "date": "2026-11-19",
+      "title": "Pensacola Mardi Gras city-wide meeting",
+      "time": "Doors 5 PM, meeting 6 PM",
+      "t": "17:00",
+      "place": "Apple Annie's, Seville Quarter, 130 E Government St",
+      "area": "downtown",
+      "section": "free",
+      "free": true,
+      "note": "Final meeting of the season, with Fat Tuesday room selection among 12 krewes. Open to the public.",
+      "src": "https://localpulse.com/2026/11/pensacola-mardi-gras-announces-second-final-city-wide-meeting-of-the-season-featuring-the-krewe-room-selection-for-fat-tuesday-at-seville-quarter/"
+    },
+    {
+      "id": "palafoxband",
+      "date": "2026-11-20",
+      "title": "The Palafox Band (Gallery Night)",
+      "time": "6 to 9 PM",
+      "t": "18:00",
+      "place": "Dog House Back Patio, 30 S Palafox St",
+      "area": "downtown",
+      "section": "entertainment",
+      "note": "Live music during Gallery Night; food and drinks available.",
+      "src": "https://localpulse.com/2026/11/local-pulse-weekend-top-10-65/"
+    },
+    {
+      "id": "turkeybowl",
+      "date": "2026-11-21",
+      "title": "Turkey Bowling and Pensacola Rumble Car & Bike Show",
+      "time": "12 to 3 PM",
+      "t": "12:00",
+      "place": "Pensacola Harley-Davidson, 6385 Pensacola Blvd",
+      "area": "elsewhere",
+      "section": "seasonal",
+      "note": "Free to play, with optional $5 or $10 multiplier entries benefiting Manna Food Bank; car and bike show and food trucks.",
+      "src": "https://localpulse.com/2026/11/local-pulse-weekend-top-10-65/"
+    },
+    {
+      "id": "miracle",
+      "date": "2026-11-22",
+      "title": "Cat Country 98.7's Miracle on Palafox",
+      "time": "Doors 5:30 PM, show 7 PM",
+      "t": "19:00",
+      "place": "Saenger Theatre, 118 S Palafox Pl",
+      "area": "downtown",
+      "section": "entertainment",
+      "note": "Acoustic country lineup including Ian Munsick and Cleto Cordero of Flatland Cavalry; benefits Christmas Wishes. Tickets from about $10.",
+      "src": "https://localpulse.com/2026/11/local-pulse-weekend-top-10-65/"
+    },
+    {
+      "id": "pancakes",
+      "date": "2026-12-05",
+      "title": "Pancakes with Santa & Holiday Market",
+      "time": "8 to 11 AM",
+      "t": "08:00",
+      "place": "See event page (Gulf Coast Kid's House and Cordova Rotary)",
+      "area": "downtown",
+      "section": "seasonal",
+      "note": "Pancake breakfast $10 per person (kids 3 and under free), Santa photos, cookie walks and a holiday market.",
+      "src": "https://localpulse.com/2026/11/pancakes-with-santa-holiday-market-presented-by-gulf-coast-kids-house-and-cordova-rotary/"
     }
   ],
   "restaurants": [
@@ -781,7 +830,7 @@
     {
       "name": "Launch Family Entertainment",
       "status": "open",
-      "when": "Krave restaurant soft opened Oct 17; grand opening was set for Sat Nov 14 (not confirmed it happened)",
+      "when": "Open since October; grand opening event was set for Sat Nov 14 (not confirmed it happened)",
       "place": "8102 N Davis Hwy",
       "kind": "Family fun center with a restaurant and bar",
       "note": "Trampolines, duckpin bowling, a ninja course, arcade and the KRAVE restaurant and bar.",
@@ -867,50 +916,59 @@
       "kind": "Italian restaurant",
       "note": "No reason was given for the closure.",
       "src": "https://www.mustdopensacola.com/news/v-pauls-italian-ristorante-closes-downtown-pensacola"
+    },
+    {
+      "name": "ALDI Cantonment",
+      "status": "open",
+      "when": "Grand opening Thu Nov 19, 8:30 AM",
+      "place": "1550 S Highway 29, Cantonment",
+      "kind": "Grocery store",
+      "note": "New north-county grocery; first 200 shoppers get gift cards.",
+      "src": "https://localpulse.com/2026/11/first-200-customers-at-aldi-cantonment-grand-opening-to-receive-gift-cards/"
     }
   ],
   "news": [
     {
-      "title": "New Escambia commissioners sworn in as budget cuts loom",
+      "title": "Pensacola aims to finalize port lease with shipbuilder Birdon",
       "source": "WEAR",
-      "url": "https://weartv.com/news/local/new-escambia-county-commissioners-sworn-in-ahead-of-tough-budget-cuts",
-      "summary": "Mike Kohler and Joe Vinson took office Nov 17 and Steve Stroberger was chosen chair. Amendment 3 cuts could reach tens of millions, and the planned Myrtle Grove library may lose about $2.3M."
+      "url": "https://weartv.com/news/local/pensacola-aims-to-finalize-port-lease-with-australian-shipbuilding-company-birdon",
+      "summary": "The Australian contractor now wants 16 acres instead of 10 at the Port of Pensacola; the city hopes to wrap up lease details by January, and a noise study still needs public discussion."
+    },
+    {
+      "title": "City and county to revisit Bay Center renovation talks",
+      "source": "WEAR",
+      "url": "https://weartv.com/news/local/city-of-pensacola-escambia-county-to-reignite-bay-center-renovation-talks",
+      "summary": "Progress has been slow and no firm decisions exist; the county is seeking letters of interest from firms by Dec 9 and Chair Stroberger plans to meet the mayor next month."
+    },
+    {
+      "title": "New Escambia commissioners sworn in",
+      "source": "Local Pulse",
+      "url": "https://localpulse.com/2026/11/escambia-county-installs-district-2-and-district-4-commissioners/",
+      "summary": "Mike Kohler (District 2) and Joe Vinson (District 4) took office Nov 17; Steve Stroberger became chair and Lumon May vice chair."
+    },
+    {
+      "title": "Pensacola Chamber leader Todd Thomson concludes a decade of service",
+      "source": "Local Pulse",
+      "url": "https://localpulse.com/2026/11/pensacola-chamber-celebrates-todd-thomsons-leadership-as-he-concludes-more-than-a-decade-of-service/",
+      "summary": "The Greater Pensacola Chamber marked the end of Thomson's tenure after more than ten years."
+    },
+    {
+      "title": "UWF and Navy Federal offer small business recovery grants",
+      "source": "Local Pulse",
+      "url": "https://localpulse.com/2026/11/need-help-recovering-from-hurricane-isaias-uwf-navy-federal-offer-small-business-grants-up-to-5000/",
+      "summary": "A $100,000 Navy Federal donation to UWF funds grants of up to $5,000 for storm-hit small businesses."
     },
     {
       "title": "UWF named a Distinguished Military College",
       "source": "Local Pulse",
       "url": "https://localpulse.com/2026/11/uwf-named-distinguished-military-college-welcomed-into-americas-corps-of-cadets-by-u-s-dept-of-war/",
-      "summary": "The designation, announced Nov 14, brings UWF into America's Corps of Cadets alongside Tarleton State."
-    },
-    {
-      "title": "Pensacola Beach Gulf Pier reopens",
-      "source": "Must Do Pensacola",
-      "url": "https://mustdopensacola.com/news/pensacola-beach-gulf-pier-reopens",
-      "summary": "The pier reopened Nov 13 after weeks closed following the October hurricane. Fishing is $7.50 for adults; spectators $2.25."
-    },
-    {
-      "title": "SEC women's soccer tournament staying in Pensacola through 2028",
-      "source": "Local Pulse",
-      "url": "https://localpulse.com/2026/11/sec-womens-soccer-championship-to-remain-in-pensacola-two-more-years/",
-      "summary": "The event stays at Ashton Brosnaham Soccer Complex two more years after its fifth straight year here."
+      "summary": "The federal designation brings UWF into America's Corps of Cadets."
     },
     {
       "title": "Pensacola Beach Chamber names Christine Brewster CEO",
       "source": "Local Pulse",
       "url": "https://localpulse.com/2026/11/pensacola-beach-chamber-of-commerce-names-christine-brewster-president-ceo/",
       "summary": "Brewster, interim leader since September, becomes permanent president and CEO."
-    },
-    {
-      "title": "Pensacola mayor says selling some park properties is on the table",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/local/pensacola-mayor-says-selling-some-park-properties-is-on-the-table-amid-amendment-3-cuts",
-      "summary": "Mayor D.C. Reeves warned the city's general fund could shrink about 30 percent because of Amendment 3 cuts."
-    },
-    {
-      "title": "Pensacola leaders weigh phased repairs for former Gibson School",
-      "source": "WEAR",
-      "url": "https://weartv.com/news/local/pensacola-leaders-debate-next-steps-for-former-gibson-school-amid-62m-repair-estimate",
-      "summary": "Repairs top $6.2M; a first phase of about $2.8M would weatherproof the building."
     }
   ],
   "sources": [
@@ -1007,5 +1065,5 @@
       "url": "https://forecast.weather.gov/MapClick.php?lat=30.44&lon=-87.19"
     }
   ],
-  "coverage_note": "Updated Wednesday, Nov 18. Weather is from WeatherBug's 10-day page; Nov 22-25 rain chances were mostly not listed, so Nov 22-24 values are carried over and Nov 25 uses the listed 22%. Visit Pensacola's events page and Must Do Pensacola's weekly guide would not load this run, so the event list is carried over with one addition (Fill the Mayflower) and was not fully rechecked. NorthEscambia.com showed only stale items, so no Gonzalez, Molino, Beulah or Cantonment events were added. News is fresh from Local Pulse, WEAR and Must Do Pensacola; the Nov 13 Gibson School and park-sale items are carried over. The Fifth Course and Launch grand opening statuses are unconfirmed."
+  "coverage_note": "Updated Thursday, Nov 19. Weather is from WeatherBug's 10-day page; rain chances for Nov 21-26 were mostly not listed, so those values are carried over or estimated. Visit Pensacola, Must Do Pensacola's weekly guide, Saenger and NorthEscambia.com pages would not load or were stale, so the event list leans on Local Pulse's weekend top 10 and carried-over items and was not fully rechecked. Only the ALDI Cantonment opening was added for the north county; nothing found for Gonzalez, Molino or Beulah. News is from Local Pulse and WEAR. Launch and Fifth Course statuses are unconfirmed."
 }
