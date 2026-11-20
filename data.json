@@ -119,7 +119,6 @@
     {
       "id": "rooftop",
       "dates": [
-        "2026-11-19",
         "2026-11-26",
         "2026-12-03",
         "2026-12-10",
@@ -135,30 +134,6 @@
       "section": "entertainment",
       "note": "Weekly Thursday live music listed from Nov 19 through Dec 31.",
       "src": "https://downtownpensacola.com/events"
-    },
-    {
-      "id": "coc",
-      "date": "2026-11-19",
-      "title": "Corrosion of Conformity & The Sword",
-      "time": "Doors 6 PM, show 7 PM",
-      "t": "19:00",
-      "place": "Vinyl Music Hall, downtown",
-      "area": "downtown",
-      "section": "entertainment",
-      "note": "All ages, about $48.",
-      "src": "https://www.yahoo.com/lifestyle/articles/winterfest-grinchmas-parade-creekfest-among-100251680.html"
-    },
-    {
-      "id": "fabfour",
-      "date": "2026-11-19",
-      "title": "The Fab Four",
-      "time": "7:30 PM",
-      "t": "19:30",
-      "place": "Saenger Theatre",
-      "area": "downtown",
-      "section": "entertainment",
-      "note": "Beatles tribute act. See the Saenger for tickets.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-pensacola-november-15-21-2026"
     },
     {
       "id": "holidaymarket2",
@@ -671,32 +646,6 @@
       "src": "https://localpulse.com/2026/11/got-non-perishables-mannas-fill-the-mayflowers-annual-food-drive-is-this-friday/"
     },
     {
-      "id": "aldi",
-      "date": "2026-11-19",
-      "title": "ALDI Cantonment grand opening",
-      "time": "8:30 AM ribbon cutting",
-      "t": "08:30",
-      "place": "1550 S Highway 29, Cantonment",
-      "area": "elsewhere",
-      "section": "free",
-      "free": true,
-      "note": "Ceremony and ribbon cutting; the first 200 customers get a gift bag and a gift card. Store hours afterward are 9 AM to 8 PM daily.",
-      "src": "https://localpulse.com/2026/11/first-200-customers-at-aldi-cantonment-grand-opening-to-receive-gift-cards/"
-    },
-    {
-      "id": "mardigras",
-      "date": "2026-11-19",
-      "title": "Pensacola Mardi Gras city-wide meeting",
-      "time": "Doors 5 PM, meeting 6 PM",
-      "t": "17:00",
-      "place": "Apple Annie's, Seville Quarter, 130 E Government St",
-      "area": "downtown",
-      "section": "free",
-      "free": true,
-      "note": "Final meeting of the season, with Fat Tuesday room selection among 12 krewes. Open to the public.",
-      "src": "https://localpulse.com/2026/11/pensacola-mardi-gras-announces-second-final-city-wide-meeting-of-the-season-featuring-the-krewe-room-selection-for-fat-tuesday-at-seville-quarter/"
-    },
-    {
       "id": "palafoxband",
       "date": "2026-11-20",
       "title": "The Palafox Band (Gallery Night)",
@@ -743,6 +692,30 @@
       "section": "seasonal",
       "note": "Pancake breakfast $10 per person (kids 3 and under free), Santa photos, cookie walks and a holiday market.",
       "src": "https://localpulse.com/2026/11/pancakes-with-santa-holiday-market-presented-by-gulf-coast-kids-house-and-cordova-rotary/"
+    },
+    {
+      "id": "murdermystery",
+      "date": "2026-11-21",
+      "title": "Pirate-Themed Murder Mystery Dinner",
+      "time": "See event page",
+      "t": "18:00",
+      "place": "Seville Quarter, downtown",
+      "area": "downtown",
+      "section": "entertainment",
+      "note": "Pirate-themed murder mystery dinner at Seville Quarter; time and price are on the event page.",
+      "src": "https://www.visitpensacola.com/events/swashbuckling-pirates-themed-murder-mystery-dinner-seville-quarter/"
+    },
+    {
+      "id": "perfectplain",
+      "date": "2026-11-21",
+      "title": "Perfect Plain 9-Year Anniversary: Boot Scootin' Boogie",
+      "time": "See event page",
+      "t": "19:00",
+      "place": "Perfect Plain, downtown",
+      "area": "downtown",
+      "section": "entertainment",
+      "note": "Downtown venue marks nine years with a country-themed party; details are on the event page.",
+      "src": "https://www.visitpensacola.com/events/perfect-plain-celebrates-9-years-with-boot-scootin-boogie/"
     }
   ],
   "restaurants": [
@@ -1065,5 +1038,5 @@
       "url": "https://forecast.weather.gov/MapClick.php?lat=30.44&lon=-87.19"
     }
   ],
-  "coverage_note": "Updated Thursday, Nov 19. Weather is from WeatherBug's 10-day page; rain chances for Nov 21-26 were mostly not listed, so those values are carried over or estimated. Visit Pensacola, Must Do Pensacola's weekly guide, Saenger and NorthEscambia.com pages would not load or were stale, so the event list leans on Local Pulse's weekend top 10 and carried-over items and was not fully rechecked. Only the ALDI Cantonment opening was added for the north county; nothing found for Gonzalez, Molino or Beulah. News is from Local Pulse and WEAR. Launch and Fifth Course statuses are unconfirmed."
+  "coverage_note": "Partial refresh Friday, Nov 20 (early morning). Ended events were removed and two Visit Pensacola listings added. WEAR, Must Do Pensacola and NorthEscambia's events pages could not be read, and the NWS forecast on file only ran through Nov 18, so weather, news, restaurants and north-county events are carried over from Nov 19 and may be out of date. The generated time was left unchanged on purpose so the stale-data warning shows."
 }
