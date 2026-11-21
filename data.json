@@ -1,63 +1,57 @@
 {
   "generated": "2026-11-19T02:59:55-06:00",
-  "weekend_note": "Friday has the best rain risk of the stretch (about 40%) and the weekend dries out with highs near 73 to 74. Bring an umbrella for Gallery Night and the Grinchmas Parade (outdoors); Derek Hough Friday and Cirque Dreams Holidaze Saturday at the Saenger are indoors, while CreekFest in Milton and the Jubilee Renaissance Faire are outdoors. Rain chances for Sat and beyond are estimates where the forecast did not list them.",
+  "weekend_note": "Dry and mild this weekend (Sat high 72, Sun high 76), so the outdoor picks are fine: CreekFest in Milton, the Jubilee Renaissance Faire and Winterfest downtown. Cirque Dreams Holidaze, the Pensacola Invitational and Miracle on Palafox are indoors. Showers are possible Tue night into Wednesday (about 40% Wed), then it turns cooler for Thanksgiving. Rain chances not listed by the NWS are shown as 10% estimates, and the Fri lows are estimates.",
   "weather": [
     {
-      "date": "2026-11-19",
-      "hi": 68,
-      "lo": 63,
-      "rain": 20
-    },
-    {
-      "date": "2026-11-20",
-      "hi": 73,
-      "lo": 63,
-      "rain": 40
-    },
-    {
       "date": "2026-11-21",
-      "hi": 74,
-      "lo": 59,
-      "rain": 20
+      "hi": 72,
+      "lo": 55,
+      "rain": 10
     },
     {
       "date": "2026-11-22",
-      "hi": 73,
-      "lo": 57,
-      "rain": 16
+      "hi": 76,
+      "lo": 59,
+      "rain": 10
     },
     {
       "date": "2026-11-23",
-      "hi": 73,
-      "lo": 60,
-      "rain": 16
+      "hi": 74,
+      "lo": 58,
+      "rain": 20
     },
     {
       "date": "2026-11-24",
       "hi": 71,
-      "lo": 60,
-      "rain": 20
+      "lo": 58,
+      "rain": 30
     },
     {
       "date": "2026-11-25",
-      "hi": 66,
-      "lo": 54,
-      "rain": 20
+      "hi": 65,
+      "lo": 50,
+      "rain": 40
     },
     {
       "date": "2026-11-26",
-      "hi": 61,
-      "lo": 56,
-      "rain": 20
+      "hi": 63,
+      "lo": 48,
+      "rain": 10
+    },
+    {
+      "date": "2026-11-27",
+      "hi": 63,
+      "lo": 48,
+      "rain": 10
     }
   ],
   "picks": [
-    "gallerynight",
-    "grinchmas",
-    "derek",
     "cirque",
     "creekfest",
-    "renfaire"
+    "renfaire",
+    "pensinvite",
+    "miracle",
+    "winterfest"
   ],
   "weekly": [
     {
@@ -104,9 +98,6 @@
     },
     {
       "id": "holidaymkt",
-      "dates": [
-        "2026-11-25"
-      ],
       "title": "Palafox Market Holiday Edition",
       "time": "4 to 8 PM Wednesdays",
       "t": "16:00",
@@ -114,7 +105,8 @@
       "area": "downtown",
       "section": "seasonal",
       "note": "Wednesday evening holiday market through Nov 25, held at MLK Jr. Plaza. Admission not listed.",
-      "src": "https://pensacolabeach.com/november-events-in-pensacola/"
+      "src": "https://pensacolabeach.com/november-events-in-pensacola/",
+      "date": "2026-11-25"
     },
     {
       "id": "rooftop",
@@ -136,68 +128,6 @@
       "src": "https://downtownpensacola.com/events"
     },
     {
-      "id": "holidaymarket2",
-      "date": "2026-11-20",
-      "title": "Holiday Market 2026",
-      "time": "See event page",
-      "t": "10:00",
-      "place": "17 E Zaragoza St",
-      "area": "downtown",
-      "section": "seasonal",
-      "note": "Listed for Friday Nov 20 on the downtown calendar. Hours and vendors not listed.",
-      "src": "https://downtownpensacola.com/events"
-    },
-    {
-      "id": "jonesshakes",
-      "date": "2026-11-20",
-      "title": "Jones' Shakes ribbon cutting",
-      "time": "11 to 11:30 AM",
-      "t": "11:00",
-      "place": "University Town Plaza",
-      "area": "elsewhere",
-      "section": "free",
-      "free": true,
-      "note": "Chamber ribbon cutting for the new milkshake shop.",
-      "src": "https://www.mustdopensacola.com/news/new-businesses-opening-pensacola-november-2026"
-    },
-    {
-      "id": "gallerynight",
-      "date": "2026-11-20",
-      "title": "Gallery Night: Festival of Living Art",
-      "time": "5 to 9 PM",
-      "t": "17:00",
-      "place": "Palafox Street, downtown",
-      "area": "downtown",
-      "section": "free",
-      "note": "More than 70 art vendors, live performances and food trucks; layout is modified because of Palafox Street construction. Free.",
-      "src": "https://localpulse.com/2026/11/local-pulse-weekend-top-10-65/"
-    },
-    {
-      "id": "quayside",
-      "date": "2026-11-20",
-      "title": "Quayside Art Gallery Holiday Market",
-      "time": "5 to 8:30 PM",
-      "t": "17:00",
-      "place": "Quayside Art Gallery, downtown",
-      "area": "downtown",
-      "section": "seasonal",
-      "note": "Local art, gifts and ornaments. Admission not listed.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-pensacola-november-15-21-2026"
-    },
-    {
-      "id": "grinchmas",
-      "date": "2026-11-20",
-      "title": "Winterfest Opening Night & Grinchmas Parade",
-      "time": "Parade 5:05 PM; ceremony 5:15 PM",
-      "t": "17:05",
-      "place": "Romana and Palafox to Winterfest Plaza, downtown",
-      "area": "downtown",
-      "section": "seasonal",
-      "free": true,
-      "note": "Free parade from Romana and Palafox to Winterfest Plaza; tours and photo experiences are ticketed.",
-      "src": "https://localpulse.com/2026/11/local-pulse-weekend-top-10-65/"
-    },
-    {
       "id": "winterfest",
       "title": "Winterfest",
       "time": "Free Christmas Special on event nights (5 PM start Nov 20); ticketed tours begin about 5:30 PM",
@@ -208,7 +138,6 @@
       "note": "Opens Nov 20 with the Grinchmas Parade. Free Christmas Special on event nights; tours and photos are ticketed. Check pensacolawinterfest.org for dates.",
       "src": "https://www.mustdopensacola.com/news/pensacola-winterfest-guide",
       "dates": [
-        "2026-11-20",
         "2026-11-22",
         "2026-11-27",
         "2026-11-28",
@@ -227,10 +156,6 @@
     },
     {
       "id": "opera2",
-      "dates": [
-        "2026-11-20",
-        "2026-11-21"
-      ],
       "title": "Pensacola Opera: The Falling and the Rising",
       "time": "See event page",
       "t": "19:30",
@@ -238,43 +163,8 @@
       "area": "downtown",
       "section": "entertainment",
       "note": "Next production of Pensacola Opera's 44th season; venue and times are on pensacolaopera.com.",
-      "src": "https://localpulse.com/2026/10/opera-after-dark-lights-up-museum-plaza-this-friday/"
-    },
-    {
-      "id": "wonderxmas",
-      "date": "2026-11-20",
-      "title": "Wonder of Christmas holiday celebration",
-      "time": "7:30 PM",
-      "t": "19:30",
-      "place": "First Baptist Church of Gulf Breeze, 555 Fairpoint Dr",
-      "area": "elsewhere",
-      "section": "seasonal",
-      "note": "Cost not listed.",
-      "src": "https://www.yahoo.com/lifestyle/articles/winterfest-grinchmas-parade-creekfest-among-100251680.html"
-    },
-    {
-      "id": "derek",
-      "date": "2026-11-20",
-      "title": "Derek Hough at the Saenger",
-      "time": "8 PM",
-      "t": "20:00",
-      "place": "Saenger Theatre, downtown",
-      "area": "downtown",
-      "section": "entertainment",
-      "note": "Dancer and performer on tour. Tickets via resale listing; check the Saenger for official sales.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-pensacola-november-15-21-2026"
-    },
-    {
-      "id": "evanhoner",
-      "date": "2026-11-20",
-      "title": "Evan Honer",
-      "time": "Doors 7 PM, show 8 PM",
-      "t": "20:00",
-      "place": "Vinyl Music Hall, downtown",
-      "area": "downtown",
-      "section": "entertainment",
-      "note": "All ages, about $35.",
-      "src": "https://www.yahoo.com/lifestyle/articles/winterfest-grinchmas-parade-creekfest-among-100251680.html"
+      "src": "https://localpulse.com/2026/10/opera-after-dark-lights-up-museum-plaza-this-friday/",
+      "date": "2026-11-21"
     },
     {
       "id": "creekfest",
@@ -631,31 +521,6 @@
       "section": "entertainment",
       "note": "New Year's Eve concert listed on the downtown calendar.",
       "src": "https://downtownpensacola.com/events"
-    },
-    {
-      "id": "mayflower",
-      "date": "2026-11-20",
-      "title": "Manna Fill the Mayflower Food Drive",
-      "time": "5 AM to 6 PM",
-      "t": "05:00",
-      "place": "Dillard's parking lot, Cordova Mall, 5100 N 9th Ave",
-      "area": "elsewhere",
-      "section": "free",
-      "free": true,
-      "note": "Drive-up food and cash donations for Manna; volunteers unload at the truck. Non-perishables only.",
-      "src": "https://localpulse.com/2026/11/got-non-perishables-mannas-fill-the-mayflowers-annual-food-drive-is-this-friday/"
-    },
-    {
-      "id": "palafoxband",
-      "date": "2026-11-20",
-      "title": "The Palafox Band (Gallery Night)",
-      "time": "6 to 9 PM",
-      "t": "18:00",
-      "place": "Dog House Back Patio, 30 S Palafox St",
-      "area": "downtown",
-      "section": "entertainment",
-      "note": "Live music during Gallery Night; food and drinks available.",
-      "src": "https://localpulse.com/2026/11/local-pulse-weekend-top-10-65/"
     },
     {
       "id": "turkeybowl",
@@ -1038,5 +903,5 @@
       "url": "https://forecast.weather.gov/MapClick.php?lat=30.44&lon=-87.19"
     }
   ],
-  "coverage_note": "Partial refresh Friday, Nov 20 (early morning). Ended events were removed and two Visit Pensacola listings added. WEAR, Must Do Pensacola and NorthEscambia's events pages could not be read, and the NWS forecast on file only ran through Nov 18, so weather, news, restaurants and north-county events are carried over from Nov 19 and may be out of date. The generated time was left unchanged on purpose so the stale-data warning shows."
+  "coverage_note": "Partial refresh Saturday, Nov 21 (early morning). Weather is current from the NWS forecast issued 12:51 AM Nov 21 (it ends Nov 27, so no Nov 28 entry). Ended events were removed. Must Do Pensacola, Local Pulse, WEAR, City of Pensacola, Downtown Pensacola, the Saenger, PensacolaBeach.com and NorthEscambia's events and features pages could not be read, so news, restaurant statuses and north-county events are carried over from earlier runs and may be out of date. The generated time was left unchanged on purpose so the stale-data warning shows."
 }
