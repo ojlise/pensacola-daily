@@ -1,13 +1,7 @@
 {
   "generated": "2026-11-19T02:59:55-06:00",
-  "weekend_note": "Dry and mild this weekend (Sat high 72, Sun high 76), so the outdoor picks are fine: CreekFest in Milton, the Jubilee Renaissance Faire and Winterfest downtown. Cirque Dreams Holidaze, the Pensacola Invitational and Miracle on Palafox are indoors. Showers are possible Tue night into Wednesday (about 40% Wed), then it turns cooler for Thanksgiving. Rain chances not listed by the NWS are shown as 10% estimates, and the Fri lows are estimates.",
+  "weekend_note": "Sunday Nov 22 is dry with a high near 76, so the outdoor picks (CreekFest, the Jubilee Renaissance Faire and Winterfest) are fine; the Pensacola Invitational and Miracle on Palafox are indoors. Showers are possible Monday night into Wednesday (about 40% Wed), then cooler for Thanksgiving. Rain chances not listed by the NWS are 10% estimates.",
   "weather": [
-    {
-      "date": "2026-11-21",
-      "hi": 72,
-      "lo": 55,
-      "rain": 10
-    },
     {
       "date": "2026-11-22",
       "hi": 76,
@@ -46,7 +40,6 @@
     }
   ],
   "picks": [
-    "cirque",
     "creekfest",
     "renfaire",
     "pensinvite",
@@ -155,18 +148,6 @@
       ]
     },
     {
-      "id": "opera2",
-      "title": "Pensacola Opera: The Falling and the Rising",
-      "time": "See event page",
-      "t": "19:30",
-      "place": "See pensacolaopera.com",
-      "area": "downtown",
-      "section": "entertainment",
-      "note": "Next production of Pensacola Opera's 44th season; venue and times are on pensacolaopera.com.",
-      "src": "https://localpulse.com/2026/10/opera-after-dark-lights-up-museum-plaza-this-friday/",
-      "date": "2026-11-21"
-    },
-    {
       "id": "creekfest",
       "dates": [
         "2026-11-21",
@@ -180,18 +161,6 @@
       "section": "seasonal",
       "note": "Pow wow drumming, dancing, crafts, food demos and a Battle of Chumuckla reenactment. $5 admission, kids under 7 free, free parking.",
       "src": "https://localpulse.com/2026/11/local-pulse-weekend-top-10-65/"
-    },
-    {
-      "id": "booktober",
-      "date": "2026-11-21",
-      "title": "Booktoberfest",
-      "time": "See event page",
-      "t": "10:00",
-      "place": "500 E Heinberg St",
-      "area": "downtown",
-      "section": "seasonal",
-      "note": "Book-themed event listed for Nov 21. Details not listed.",
-      "src": "https://downtownpensacola.com/events"
     },
     {
       "id": "renfaire",
@@ -209,19 +178,6 @@
       "src": "https://localpulse.com/2026/11/local-pulse-weekend-top-10-65/"
     },
     {
-      "id": "turkeydrive",
-      "date": "2026-11-21",
-      "title": "Community Thanksgiving Turkey Drive",
-      "time": "11 AM to 2 PM",
-      "t": "11:00",
-      "place": "7275 Rolling Hills Rd, Pensacola",
-      "area": "elsewhere",
-      "section": "free",
-      "free": true,
-      "note": "Community effort giving turkeys to local families. See event page for details.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-pensacola-november-15-21-2026"
-    },
-    {
       "id": "pensinvite",
       "date": "2026-11-21",
       "title": "Pensacola Invitational 2026",
@@ -233,42 +189,6 @@
       "note": "College basketball: Sat 4 PM Nicholls State vs Southern Miss, 7 PM Valparaiso vs Troy; Sun 2 PM Troy vs Nicholls State, 5 PM Southern Miss vs Valparaiso. Tickets from about $16; one Saturday ticket covers both games.",
       "src": "https://localpulse.com/2026/11/local-pulse-weekend-top-10-65/",
       "end": "2026-11-22"
-    },
-    {
-      "id": "changingseasons",
-      "date": "2026-11-21",
-      "title": "Changing Seasons benefit concert",
-      "time": "See event page",
-      "t": "19:00",
-      "place": "500 N Palafox St (Saenger Theatre)",
-      "area": "downtown",
-      "section": "entertainment",
-      "note": "Benefit concert listed on the Downtown Pensacola calendar.",
-      "src": "https://downtownpensacola.com/events"
-    },
-    {
-      "id": "cirque",
-      "date": "2026-11-21",
-      "title": "Cirque Dreams Holidaze",
-      "time": "7 PM",
-      "t": "19:00",
-      "place": "Saenger Theatre, 118 S Palafox St",
-      "area": "downtown",
-      "section": "entertainment",
-      "note": "Holiday circus-style show at the Saenger. Paid.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-this-week-pensacola-november-15-21-2026"
-    },
-    {
-      "id": "bandconcert",
-      "date": "2026-11-21",
-      "title": "Pensacola Bay Concert Band concert",
-      "time": "7:30 PM",
-      "t": "19:30",
-      "place": "Kugelman Center, 1000 College Blvd",
-      "area": "elsewhere",
-      "section": "entertainment",
-      "note": "Conductor's Choice program. Cost not listed.",
-      "src": "https://www.yahoo.com/lifestyle/articles/winterfest-grinchmas-parade-creekfest-among-100251680.html"
     },
     {
       "id": "flyers",
@@ -523,18 +443,6 @@
       "src": "https://downtownpensacola.com/events"
     },
     {
-      "id": "turkeybowl",
-      "date": "2026-11-21",
-      "title": "Turkey Bowling and Pensacola Rumble Car & Bike Show",
-      "time": "12 to 3 PM",
-      "t": "12:00",
-      "place": "Pensacola Harley-Davidson, 6385 Pensacola Blvd",
-      "area": "elsewhere",
-      "section": "seasonal",
-      "note": "Free to play, with optional $5 or $10 multiplier entries benefiting Manna Food Bank; car and bike show and food trucks.",
-      "src": "https://localpulse.com/2026/11/local-pulse-weekend-top-10-65/"
-    },
-    {
       "id": "miracle",
       "date": "2026-11-22",
       "title": "Cat Country 98.7's Miracle on Palafox",
@@ -557,30 +465,6 @@
       "section": "seasonal",
       "note": "Pancake breakfast $10 per person (kids 3 and under free), Santa photos, cookie walks and a holiday market.",
       "src": "https://localpulse.com/2026/11/pancakes-with-santa-holiday-market-presented-by-gulf-coast-kids-house-and-cordova-rotary/"
-    },
-    {
-      "id": "murdermystery",
-      "date": "2026-11-21",
-      "title": "Pirate-Themed Murder Mystery Dinner",
-      "time": "See event page",
-      "t": "18:00",
-      "place": "Seville Quarter, downtown",
-      "area": "downtown",
-      "section": "entertainment",
-      "note": "Pirate-themed murder mystery dinner at Seville Quarter; time and price are on the event page.",
-      "src": "https://www.visitpensacola.com/events/swashbuckling-pirates-themed-murder-mystery-dinner-seville-quarter/"
-    },
-    {
-      "id": "perfectplain",
-      "date": "2026-11-21",
-      "title": "Perfect Plain 9-Year Anniversary: Boot Scootin' Boogie",
-      "time": "See event page",
-      "t": "19:00",
-      "place": "Perfect Plain, downtown",
-      "area": "downtown",
-      "section": "entertainment",
-      "note": "Downtown venue marks nine years with a country-themed party; details are on the event page.",
-      "src": "https://www.visitpensacola.com/events/perfect-plain-celebrates-9-years-with-boot-scootin-boogie/"
     }
   ],
   "restaurants": [
@@ -903,5 +787,5 @@
       "url": "https://forecast.weather.gov/MapClick.php?lat=30.44&lon=-87.19"
     }
   ],
-  "coverage_note": "Partial refresh Saturday, Nov 21 (early morning). Weather is current from the NWS forecast issued 12:51 AM Nov 21 (it ends Nov 27, so no Nov 28 entry). Ended events were removed. Must Do Pensacola, Local Pulse, WEAR, City of Pensacola, Downtown Pensacola, the Saenger, PensacolaBeach.com and NorthEscambia's events and features pages could not be read, so news, restaurant statuses and north-county events are carried over from earlier runs and may be out of date. The generated time was left unchanged on purpose so the stale-data warning shows."
+  "coverage_note": "Partial refresh Sunday, Nov 22. Nearly all fetches were blocked this run (Must Do Pensacola, Local Pulse, WEAR, NorthEscambia events and features), and the NWS forecast was still the Nov 21 issuance, so weather, news, restaurant statuses and north-county events are carried over and may be out of date. Only ended events were removed. The generated time was left unchanged on purpose so the stale-data warning shows."
 }
