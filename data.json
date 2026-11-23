@@ -1,18 +1,12 @@
 {
   "generated": "2026-11-19T02:59:55-06:00",
-  "weekend_note": "Sunday Nov 22 is dry with a high near 76, so the outdoor picks (CreekFest, the Jubilee Renaissance Faire and Winterfest) are fine; the Pensacola Invitational and Miracle on Palafox are indoors. Showers are possible Monday night into Wednesday (about 40% Wed), then cooler for Thanksgiving. Rain chances not listed by the NWS are 10% estimates.",
+  "weekend_note": "Showers and possible thunderstorms arrive Monday night, with the best rain chance (about 70%) on Wednesday, Thanksgiving Eve, so the Ice Flyers game at the Bay Center is the indoor pick that night. Thanksgiving Day is dry and cool (high near 60). Friday's Elf Parade and Saturday's Jingle Bells market look dry; the Motown Christmas show at the Saenger is indoors. Rain chances after Wednesday are estimates (10%) because the NWS point forecast does not list them.",
   "weather": [
     {
-      "date": "2026-11-22",
-      "hi": 76,
-      "lo": 59,
-      "rain": 10
-    },
-    {
       "date": "2026-11-23",
-      "hi": 74,
+      "hi": 75,
       "lo": 58,
-      "rain": 20
+      "rain": 60
     },
     {
       "date": "2026-11-24",
@@ -22,29 +16,42 @@
     },
     {
       "date": "2026-11-25",
-      "hi": 65,
-      "lo": 50,
-      "rain": 40
+      "hi": 63,
+      "lo": 49,
+      "rain": 70
     },
     {
       "date": "2026-11-26",
-      "hi": 63,
-      "lo": 48,
+      "hi": 60,
+      "lo": 46,
       "rain": 10
     },
     {
       "date": "2026-11-27",
-      "hi": 63,
-      "lo": 48,
+      "hi": 59,
+      "lo": 49,
+      "rain": 10
+    },
+    {
+      "date": "2026-11-28",
+      "hi": 64,
+      "lo": 54,
+      "rain": 10
+    },
+    {
+      "date": "2026-11-29",
+      "hi": 68,
+      "lo": 50,
       "rain": 10
     }
   ],
   "picks": [
-    "creekfest",
-    "renfaire",
-    "pensinvite",
-    "miracle",
-    "winterfest"
+    "elfparade",
+    "flyers",
+    "motown",
+    "jingle",
+    "northhill",
+    "alabamasq"
   ],
   "weekly": [
     {
@@ -146,49 +153,6 @@
         "2026-12-23",
         "2026-12-24"
       ]
-    },
-    {
-      "id": "creekfest",
-      "dates": [
-        "2026-11-21",
-        "2026-11-22"
-      ],
-      "title": "CreekFest '26",
-      "time": "9 AM to 6 PM both days",
-      "t": "09:00",
-      "place": "Santa Rosa Creek Indian Tribal Grounds, 4750 Willard Norris Rd, Milton",
-      "area": "elsewhere",
-      "section": "seasonal",
-      "note": "Pow wow drumming, dancing, crafts, food demos and a Battle of Chumuckla reenactment. $5 admission, kids under 7 free, free parking.",
-      "src": "https://localpulse.com/2026/11/local-pulse-weekend-top-10-65/"
-    },
-    {
-      "id": "renfaire",
-      "dates": [
-        "2026-11-21",
-        "2026-11-22"
-      ],
-      "title": "Jubilee Renaissance Faire",
-      "time": "10 AM to 6 PM",
-      "t": "10:00",
-      "place": "Pensacola Interstate Fairgrounds, 6655 W Mobile Hwy",
-      "area": "elsewhere",
-      "section": "seasonal",
-      "note": "Merchants, food, entertainers and full-contact jousting; tickets sold online.",
-      "src": "https://localpulse.com/2026/11/local-pulse-weekend-top-10-65/"
-    },
-    {
-      "id": "pensinvite",
-      "date": "2026-11-21",
-      "title": "Pensacola Invitational 2026",
-      "time": "Sat 4 and 7 PM; Sun 2 and 5 PM",
-      "t": "16:00",
-      "place": "Pensacola Bay Center",
-      "area": "downtown",
-      "section": "entertainment",
-      "note": "College basketball: Sat 4 PM Nicholls State vs Southern Miss, 7 PM Valparaiso vs Troy; Sun 2 PM Troy vs Nicholls State, 5 PM Southern Miss vs Valparaiso. Tickets from about $16; one Saturday ticket covers both games.",
-      "src": "https://localpulse.com/2026/11/local-pulse-weekend-top-10-65/",
-      "end": "2026-11-22"
     },
     {
       "id": "flyers",
@@ -441,18 +405,6 @@
       "section": "entertainment",
       "note": "New Year's Eve concert listed on the downtown calendar.",
       "src": "https://downtownpensacola.com/events"
-    },
-    {
-      "id": "miracle",
-      "date": "2026-11-22",
-      "title": "Cat Country 98.7's Miracle on Palafox",
-      "time": "Doors 5:30 PM, show 7 PM",
-      "t": "19:00",
-      "place": "Saenger Theatre, 118 S Palafox Pl",
-      "area": "downtown",
-      "section": "entertainment",
-      "note": "Acoustic country lineup including Ian Munsick and Cleto Cordero of Flatland Cavalry; benefits Christmas Wishes. Tickets from about $10.",
-      "src": "https://localpulse.com/2026/11/local-pulse-weekend-top-10-65/"
     },
     {
       "id": "pancakes",
@@ -787,5 +739,5 @@
       "url": "https://forecast.weather.gov/MapClick.php?lat=30.44&lon=-87.19"
     }
   ],
-  "coverage_note": "Partial refresh Sunday, Nov 22. Nearly all fetches were blocked this run (Must Do Pensacola, Local Pulse, WEAR, NorthEscambia events and features), and the NWS forecast was still the Nov 21 issuance, so weather, news, restaurant statuses and north-county events are carried over and may be out of date. Only ended events were removed. The generated time was left unchanged on purpose so the stale-data warning shows."
+  "coverage_note": "Partial refresh Monday, Nov 23. Only the NWS forecast (issued 12:51 AM CST Nov 23) could be read this run; Local Pulse, Must Do Pensacola, WEAR, Downtown Pensacola, the Saenger, Ice Flyers and NorthEscambia events were blocked, and the one NorthEscambia page that loaded was from December 2025. Events, restaurants, news and north-county listings are carried over from earlier runs and may be out of date; only ended events were removed. The generated time was left unchanged on purpose so the stale-data warning shows."
 }
