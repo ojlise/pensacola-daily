@@ -3,18 +3,6 @@
   "weekend_note": "Showers and possible thunderstorms arrive Monday night, with the best rain chance (about 70%) on Wednesday, Thanksgiving Eve, so the Ice Flyers game at the Bay Center is the indoor pick that night. Thanksgiving Day is dry and cool (high near 60). Friday's Elf Parade and Saturday's Jingle Bells market look dry; the Motown Christmas show at the Saenger is indoors. Rain chances after Wednesday are estimates (10%) because the NWS point forecast does not list them.",
   "weather": [
     {
-      "date": "2026-11-23",
-      "hi": 75,
-      "lo": 58,
-      "rain": 60
-    },
-    {
-      "date": "2026-11-24",
-      "hi": 71,
-      "lo": 58,
-      "rain": 30
-    },
-    {
       "date": "2026-11-25",
       "hi": 63,
       "lo": 49,
@@ -130,15 +118,14 @@
     {
       "id": "winterfest",
       "title": "Winterfest",
-      "time": "Free Christmas Special on event nights (5 PM start Nov 20); ticketed tours begin about 5:30 PM",
-      "t": "17:30",
+      "time": "Free Christmas Special on event nights; tours and photos are ticketed. See event page for times",
+      "t": "17:00",
       "place": "Downtown Pensacola",
       "area": "downtown",
       "section": "seasonal",
       "note": "Opens Nov 20 with the Grinchmas Parade. Free Christmas Special on event nights; tours and photos are ticketed. Check pensacolawinterfest.org for dates.",
-      "src": "https://www.mustdopensacola.com/news/pensacola-winterfest-guide",
+      "src": "https://www.visitpensacola.com/events/pensacola-winterfest/",
       "dates": [
-        "2026-11-22",
         "2026-11-27",
         "2026-11-28",
         "2026-12-04",
@@ -739,5 +726,5 @@
       "url": "https://forecast.weather.gov/MapClick.php?lat=30.44&lon=-87.19"
     }
   ],
-  "coverage_note": "Partial refresh Monday, Nov 23. Only the NWS forecast (issued 12:51 AM CST Nov 23) could be read this run; Local Pulse, Must Do Pensacola, WEAR, Downtown Pensacola, the Saenger, Ice Flyers and NorthEscambia events were blocked, and the one NorthEscambia page that loaded was from December 2025. Events, restaurants, news and north-county listings are carried over from earlier runs and may be out of date; only ended events were removed. The generated time was left unchanged on purpose so the stale-data warning shows."
+  "coverage_note": "Partial refresh Wednesday, Nov 25. Visit Pensacola's Winterfest page and event listings loaded and confirmed the Winterfest dates; the NWS forecast page loaded but was still the Nov 23 issuance, so the forecast was only trimmed to today onward. Local Pulse, Must Do Pensacola, Downtown Pensacola, WEAR and NorthEscambia events were blocked or stale (NorthEscambia's loadable pages were from December 2025), so no new north-county, restaurant or news items could be verified. Restaurants and news are carried over from earlier runs and may be out of date. The generated time was left unchanged on purpose so the stale-data warning shows."
 }
