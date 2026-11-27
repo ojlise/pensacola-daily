@@ -1,13 +1,7 @@
 {
   "generated": "2026-11-19T02:59:55-06:00",
-  "weekend_note": "Forecast not refreshed tonight. The last forecast available showed Thanksgiving Day dry and cool (high near 60) and mostly low rain chances through the weekend, but check a current forecast before heading out. Indoor picks: Motown Christmas at the Saenger and the Ice Flyers game at the Bay Center.",
+  "weekend_note": "Forecast is from an NWS page last updated Nov 23, so treat it as approximate: Friday partly sunny near 59, Saturday partly sunny near 64, Sunday mostly sunny near 68. Rain chances were not listed for those days. Indoor picks: Motown Christmas at the Saenger and the Ice Flyers game at the Bay Center.",
   "weather": [
-    {
-      "date": "2026-11-26",
-      "hi": 60,
-      "lo": 46,
-      "rain": 10
-    },
     {
       "date": "2026-11-27",
       "hi": 59,
@@ -81,7 +75,6 @@
     {
       "id": "rooftop",
       "dates": [
-        "2026-11-26",
         "2026-12-03",
         "2026-12-10",
         "2026-12-17",
@@ -143,30 +136,6 @@
       "note": "Nov 25 vs. Huntsville (Thanksgiving Eve), Nov 28 youth jersey giveaway night. Dec 5 and later dates come from Downtown Pensacola's calendar; confirm opponents on the team site."
     },
     {
-      "id": "turkeytrot",
-      "date": "2026-11-26",
-      "title": "Trot for Thought Thanksgiving Turkey Trot",
-      "time": "Kids dash 8 AM, 5K 8:30 AM",
-      "t": "08:00",
-      "place": "Pensacola Beach",
-      "area": "beaches",
-      "section": "seasonal",
-      "note": "Thanksgiving 5K with a costume contest; registration fee not listed.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-november-2026"
-    },
-    {
-      "id": "floraturkey",
-      "date": "2026-11-26",
-      "title": "Flora-Bama Thanksgiving Potluck",
-      "time": "Doors 9 AM, lunch 11 AM",
-      "t": "09:00",
-      "place": "Flora-Bama, Perdido Key",
-      "area": "beaches",
-      "section": "seasonal",
-      "note": "Bring a covered dish to share.",
-      "src": "https://www.beachguide.com/perdido-key/events"
-    },
-    {
       "id": "elfparade",
       "date": "2026-11-27",
       "title": "Elf Parade & Christmas Jubilee",
@@ -225,8 +194,8 @@
       "place": "North Hill Historic District",
       "area": "downtown",
       "section": "seasonal",
-      "note": "Tour of six historic homes alongside the free Christmas Market at Alabama Square; home tours need tickets (price not listed).",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-november-2026"
+      "note": "Docent-led tour of six historic homes with a free trolley between stops, alongside the Christmas Market at Alabama Square (401 W Gonzalez St). Tickets are sold online at historicnorthhill.com; the early-bird price on the page ended Aug 31 and no later price is listed.",
+      "src": "https://www.visitpensacola.com/events/north-hill-tour-of-homes/"
     },
     {
       "id": "uwffsu",
@@ -707,5 +676,5 @@
       "url": "https://forecast.weather.gov/MapClick.php?lat=30.44&lon=-87.19"
     }
   ],
-  "coverage_note": "Limited refresh Thursday, Nov 26. Only past events were removed. Visit Pensacola's Winterfest page loaded and confirmed the Winterfest dates (Nov 27 through Dec 24) and the Nov 27 Elf Parade listing. NWS, Must Do Pensacola, Local Pulse, Downtown Pensacola, WEAR, PNJ, City of Pensacola and NorthEscambia events pages could not be read this run (fetch permission not granted), and NorthEscambia's loadable news page was from December 2025. Weather, restaurants and news are carried over and may be out of date. The generated time was left unchanged on purpose so the stale-data warning shows."
+  "coverage_note": "Limited refresh Friday, Nov 27. Past events were removed and the North Hill Tour of Homes details were updated from Visit Pensacola's event page. The NWS forecast page loaded but was last updated Nov 23 and lists no rain percentages or dates after Nov 29, so the weather rows are unchanged. Must Do Pensacola, Local Pulse and NorthEscambia could not be fetched this run (permission not granted), so new events, restaurant statuses and news are carried over and may be out of date. Nothing was found for Gonzalez or north Escambia. The generated time was left unchanged on purpose so the stale-data warning shows."
 }
