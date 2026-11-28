@@ -1,13 +1,7 @@
 {
   "generated": "2026-11-19T02:59:55-06:00",
-  "weekend_note": "Forecast is from an NWS page last updated Nov 23, so treat it as approximate: Friday partly sunny near 59, Saturday partly sunny near 64, Sunday mostly sunny near 68. Rain chances were not listed for those days. Indoor picks: Motown Christmas at the Saenger and the Ice Flyers game at the Bay Center.",
+  "weekend_note": "Forecast is from an NWS page last updated Nov 23, so treat it as approximate: Saturday partly sunny near 64, Sunday mostly sunny near 68. Rain chances were not listed for those days. Indoor picks: Motown Christmas at the Saenger and the Ice Flyers game at the Bay Center.",
   "weather": [
-    {
-      "date": "2026-11-27",
-      "hi": 59,
-      "lo": 49,
-      "rain": 10
-    },
     {
       "date": "2026-11-28",
       "hi": 64,
@@ -22,7 +16,6 @@
     }
   ],
   "picks": [
-    "elfparade",
     "flyers",
     "motown",
     "jingle",
@@ -101,7 +94,6 @@
       "note": "Opens Nov 20 with the Grinchmas Parade. Free Christmas Special on event nights; tours and photos are ticketed. Check pensacolawinterfest.org for dates.",
       "src": "https://www.visitpensacola.com/events/pensacola-winterfest/",
       "dates": [
-        "2026-11-27",
         "2026-11-28",
         "2026-12-04",
         "2026-12-05",
@@ -134,19 +126,6 @@
       "section": "entertainment",
       "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-november-2026",
       "note": "Nov 25 vs. Huntsville (Thanksgiving Eve), Nov 28 youth jersey giveaway night. Dec 5 and later dates come from Downtown Pensacola's calendar; confirm opponents on the team site."
-    },
-    {
-      "id": "elfparade",
-      "date": "2026-11-27",
-      "title": "Elf Parade & Christmas Jubilee",
-      "time": "Lineup 12:30 PM, judging 1:25 PM, parade 2 PM",
-      "t": "14:00",
-      "place": "Government and Palafox, downtown",
-      "area": "downtown",
-      "section": "seasonal",
-      "free": true,
-      "note": "Costume and decorated-wagon parade with contests for costumes and decorating.",
-      "src": "https://www.mustdopensacola.com/news/things-to-do-in-pensacola-november-2026"
     },
     {
       "id": "jingle",
@@ -676,5 +655,5 @@
       "url": "https://forecast.weather.gov/MapClick.php?lat=30.44&lon=-87.19"
     }
   ],
-  "coverage_note": "Limited refresh Friday, Nov 27. Past events were removed and the North Hill Tour of Homes details were updated from Visit Pensacola's event page. The NWS forecast page loaded but was last updated Nov 23 and lists no rain percentages or dates after Nov 29, so the weather rows are unchanged. Must Do Pensacola, Local Pulse and NorthEscambia could not be fetched this run (permission not granted), so new events, restaurant statuses and news are carried over and may be out of date. Nothing was found for Gonzalez or north Escambia. The generated time was left unchanged on purpose so the stale-data warning shows."
+  "coverage_note": "Limited refresh Saturday, Nov 28. Past events were removed and the weekend picks trimmed. The NWS forecast page loaded but was last updated Nov 23 and lists no rain percentages or dates after Nov 29, so weather rows are only trimmed. Must Do Pensacola, Local Pulse, WEAR, NorthEscambia and Downtown Pensacola could not be fetched this run (permission not granted), so new events, restaurant statuses and news are carried over and may be out of date. Nothing was found for Gonzalez or north Escambia. The generated time was left unchanged on purpose so the stale-data warning shows."
 }
